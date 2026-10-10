@@ -1,0 +1,1502 @@
+ID Pengiriman;Tanggal Pengiriman;Bulan (auto);Kategori Produk;Nama Produk;Jumlah (unit);ID Pelanggan;Nama Pelanggan;Kota / Kabupaten;Harga Satuan (Rp);Diskon (%);Total Harga (Rp)
+P-0001;03/01/2022;Jan-22;cermin;cermin classik;5;C-117;Bapak Wicak;Bogor;Rp6.180.000;10;Rp27.810.000
+P-0002;04/01/2022;Jan-22;cermin;cermin berdiri;1;C-123;Bapak Seno;Jakarta Selatan;Rp2.150.000;0;Rp2.150.000
+P-0003;05/01/2022;Jan-22;bale-bale;bale-bale ukir;1;C-111;Ibu Zona;Palembang;Rp9.470.000;15;Rp8.049.500
+P-0004;07/01/2022;Jan-22;cermin;cermin berdiri;1;C-089;Bapak Ahmad;Bekasi;Rp2.009.999;10;Rp1.808.999
+P-0005;08/01/2022;Jan-22;nakas;nakas 3 laci;6;C-036;Bapak Hendri;Makassar;Rp1.980.000;0;Rp11.880.000
+P-0006;10/01/2022;Jan-22;kursi;kursi gaming;2;C-133;Bapak Wahab;Banyumas;Rp3.840.000;5;Rp7.296.000
+P-0007;13/01/2022;Jan-22;lemari;lemari es kayu;2;C-026;Bapak Budi;Tangerang;Rp10.740.000;0;Rp21.480.000
+P-0008;13/01/2022;Jan-22;meja_makan;meja makan folding;2;C-148;Bapak Yanto;Medan;Rp17.690.000;10;Rp31.842.000
+P-0009;16/01/2022;Jan-22;meja;meja tamu;1;C-125;Bapak Sanusi;Surabaya;Rp13.170.000;20;Rp10.536.000
+P-0010;20/01/2022;Jan-22;almari;almari 3 pintu;4;C-141;Bapak Agus;Jogja;Rp19.810.000;15;Rp67.354.000
+P-0011;21/01/2022;Jan-22;cermin;cermin modern;1;C-100;Ibu Tini;Semarang;Rp6.480.000;0;Rp6.480.000
+P-0012;22/01/2022;Jan-22;lemari;lemari display;3;C-045;Bapak Sanusi;Jogja;Rp11.170.000;20;Rp26.808.000
+P-0013;23/01/2022;Jan-22;rak;rak sudut;1;C-094;Bapak Rudi;Depok;Rp5.380.000;0;Rp5.380.000
+P-0014;01/02/2022;Feb-22;nakas;nakas 2 laci;4;C-040;Ibu Lestari;Jakarta Utara;Rp2.420.000;0;Rp9.680.000
+P-0015;03/02/2022;Feb-22;kursi;kursi santai;1;C-054;Ibu Zona;Jakarta Utara;Rp7.770.000;10;Rp6.993.000
+P-0016;03/02/2022;Feb-22;kursi;kursi kantor;2;C-057;Bapak Yanto;Jakarta Selatan;Rp9.430.000;0;Rp18.860.000
+P-0017;04/02/2022;Feb-22;almari;almari 2 pintu;2;C-027;Bapak Joko;Bekasi;Rp10.950.000;0;Rp21.900.000
+P-0018;05/02/2022;Feb-22;bale-bale;bale-bale ukir;5;C-147;Ibu Besta;Jakarta Utara;Rp3.840.000;15;Rp16.320.000
+P-0019;06/02/2022;Feb-22;bale-bale;bale-bale ukir;3;C-108;Bapak Suli;Bekasi;Rp4.740.000;20;Rp11.376.000
+P-0020;06/02/2022;Feb-22;sofa;sofa bed;3;C-111;Bapak Tri;Jakarta Timur;Rp8.240.000;20;Rp19.776.000
+P-0021;10/02/2022;Feb-22;cermin;cermin classik;3;C-007;Ibu Mira;Medan;Rp7.770.000;15;Rp19.813.500
+P-0022;10/02/2022;Feb-22;sofa;sofa 3 seater;3;C-027;Bapak Dedi;Kendal;Rp12.520.000;20;Rp30.048.000
+P-0023;13/02/2022;Feb-22;cermin;cermin berdiri;2;C-020;Bapak Budi;Semarang;Rp4.580.000;5;Rp8.702.000
+P-0024;14/02/2022;Feb-22;meja_makan;meja makan folding;2;C-124;Bapak Sutrio;Tangerang;Rp12.250.000;10;Rp22.050.000
+P-0025;19/02/2022;Feb-22;dipan;dipan luxury;1;C-060;Bapak Joko;Malang;Rp10.570.000;0;Rp10.570.000
+P-0026;19/02/2022;Feb-22;rak;rak buku;3;C-006;Ibu Lina;Malang;Rp1.580.000;5;Rp4.503.000
+P-0027;20/02/2022;Feb-22;lemari;lemari pakaian;1;C-109;Ibu Surya;Purwokerto;Rp8.860.000;0;Rp8.860.000
+P-0028;20/02/2022;Feb-22;lemari;lemari display;1;C-045;Ibu Siti;Depok;Rp13.400.000;5;Rp12.730.000
+P-0029;22/02/2022;Feb-22;meja;meja kerja;2;C-071;Bapak Rudi;Jakarta Barat;Rp6.000.000;0;Rp12.000.000
+P-0030;24/02/2022;Feb-22;meja;meja console;1;C-049;Bapak Rahmat;Malang;Rp8.980.000;20;Rp7.184.000
+P-0031;24/02/2022;Feb-22;kursi;kursi tamu;4;C-078;Ibu Mira;Medan;Rp2.069.999;15;Rp7.037.997
+P-0032;27/02/2022;Feb-22;sofa;sofa bed;1;C-119;Bapak Iman;Jakarta Timur;Rp3.970.000;15;Rp3.374.500
+P-0033;28/02/2022;Feb-22;dipan;dipan kayu jati;2;C-136;Bapak Aris;Jakarta Timur;Rp24.330.000;0;Rp48.660.000
+P-0034;01/03/2022;Mar-22;nakas;nakas modern;6;C-022;Ibu Surya;Jakarta Tengah;Rp3.930.000;5;Rp22.401.000
+P-0035;02/03/2022;Mar-22;rak;rak minimalis;2;C-138;Bapak Aris;Bekasi;Rp5.900.000;0;Rp11.800.000
+P-0036;03/03/2022;Mar-22;rak;rak sudut;5;C-125;Ibu Siti;Jakarta Barat;Rp3.660.000;5;Rp17.385.000
+P-0037;04/03/2022;Mar-22;cermin;cermin dinding;2;C-138;Bapak Sanusi;Semarang;Rp7.290.000;5;Rp13.851.000
+P-0038;05/03/2022;Mar-22;kursi;kursi dining;3;C-022;Bapak Dedi;Solo;Rp4.730.000;15;Rp12.061.500
+P-0039;09/03/2022;Mar-22;almari;almari lemari pakaian;8;C-123;Ibu Vina;Bogor;Rp31.920.000;15;Rp217.056.000
+P-0040;12/03/2022;Mar-22;nakas;nakas 3 laci;1;C-113;Bapak Wahab;Malang;Rp1.910.000;30;Rp1.337.000
+P-0041;12/03/2022;Mar-22;bale-bale;bale-bale minimalis;3;C-060;Ibu Nani;Kendal;Rp4.030.000;20;Rp9.672.000
+P-0042;13/03/2022;Mar-22;almari;almari lemari pakaian;2;C-130;Ibu Yuli;Jakarta Barat;Rp14.900.000;0;Rp29.800.000
+P-0043;14/03/2022;Mar-22;bale-bale;bale-bale minimalis;8;C-082;Bapak Tri;Depok;Rp9.030.000;5;Rp68.628.000
+P-0044;15/03/2022;Mar-22;meja_makan;meja makan folding;1;C-118;Ibu Nani;Jakarta Timur;Rp5.230.000;0;Rp5.230.000
+P-0045;18/03/2022;Mar-22;kursi;kursi makan;2;C-121;Bapak Wicak;Jakarta Timur;Rp3.080.000;10;Rp5.544.000
+P-0046;21/03/2022;Mar-22;rak;rak minimalis;1;C-014;Ibu Putri;Medan;Rp5.020.000;30;Rp3.514.000
+P-0047;22/03/2022;Mar-22;bale-bale;bale-bale ukir;6;C-014;Bapak Eko;Bogor;Rp4.630.000;0;Rp27.780.000
+P-0048;26/03/2022;Mar-22;meja;meja tamu;6;C-138;Bapak Wahab;Jakarta Barat;Rp9.960.000;0;Rp59.760.000
+P-0049;26/03/2022;Mar-22;almari;almari 3 pintu;2;C-040;Bapak Sutrio;Bekasi;Rp17.620.000;0;Rp35.240.000
+P-0050;29/03/2022;Mar-22;meja;meja kerja;1;C-080;Ibu Nani;Pekanbaru;Rp12.090.000;5;Rp11.485.500
+P-0051;02/04/2022;Apr-22;sofa;sofa bed;1;C-084;Bapak Sutrio;Jakarta Barat;Rp7.960.000;0;Rp7.960.000
+P-0052;03/04/2022;Apr-22;rak;rak sudut;2;C-119;Ibu Zona;Solo;Rp5.770.000;10;Rp10.386.000
+P-0053;06/04/2022;Apr-22;cermin;cermin berdiri;3;C-096;Bapak Tri;Solo;Rp2.360.000;25;Rp5.310.000
+P-0054;07/04/2022;Apr-22;bufet;bufet tv;4;C-036;Ibu Rina;Jakarta Barat;Rp4.490.000;15;Rp15.266.000
+P-0055;10/04/2022;Apr-22;bufet;bufet kayu;2;C-077;Bapak Rudi;Malang;Rp4.920.000;15;Rp8.364.000
+P-0056;12/04/2022;Apr-22;bufet;bufet kayu;6;C-072;Bapak Rudi;Malang;Rp6.960.000;5;Rp39.672.000
+P-0057;13/04/2022;Apr-22;meja;meja belajar;4;C-074;Bapak Wahab;Tangerang;Rp13.350.000;0;Rp53.400.000
+P-0058;17/04/2022;Apr-22;cermin;cermin dinding;2;C-146;Bapak Iman;Bandung;Rp5.670.000;15;Rp9.639.000
+P-0059;20/04/2022;Apr-22;bale-bale;bale-bale minimalis;2;C-088;Ibu Rina;Jogja;Rp9.700.000;20;Rp15.520.000
+P-0060;20/04/2022;Apr-22;dipan;dipan luxury;1;C-015;Bapak Seno;Semarang;Rp20.750.000;0;Rp20.750.000
+P-0061;20/04/2022;Apr-22;cermin;cermin oval;1;C-133;Ibu Ratna;Jakarta Timur;Rp5.340.000;20;Rp4.272.000
+P-0062;21/04/2022;Apr-22;bufet;bufet tv;2;C-071;Bapak Budi;Semarang;Rp6.090.000;10;Rp10.962.000
+P-0063;21/04/2022;Apr-22;cermin;cermin oval;5;C-094;Ibu Ermi;Tangerang;Rp2.270.000;0;Rp11.350.000
+P-0064;27/04/2022;Apr-22;bufet;bufet tv;3;C-040;Ibu Surya;Malang;Rp6.330.000;10;Rp17.091.000
+P-0065;27/04/2022;Apr-22;sofa;sofa stool;1;C-125;Ibu Vina;Kediri;Rp8.240.000;0;Rp8.240.000
+P-0066;28/04/2022;Apr-22;lemari;lemari es kayu;2;C-059;Bapak Rahmat;Bekasi;Rp13.100.000;0;Rp26.200.000
+P-0067;29/04/2022;Apr-22;nakas;nakas modern;1;C-004;Ibu Lestari;Jakarta Timur;Rp2.420.000;0;Rp2.420.000
+P-0069;01/05/2022;May-22;dipan;dipan minimalis;4;C-070;Ibu Vina;Jakarta Tengah;Rp12.470.000;25;Rp37.410.000
+P-0068;01/05/2022;May-22;meja;meja rias;3;C-139;Bapak Ahmad;Kendal;Rp10.660.000;5;Rp30.381.000
+P-0070;05/05/2022;May-22;dipan;dipan modern;2;C-118;Bapak Joko;Jakarta Selatan;Rp22.220.000;5;Rp42.218.000
+P-0071;05/05/2022;May-22;dipan;dipan kayu jati;4;C-041;Ibu Sela;Solo;Rp8.230.000;5;Rp31.274.000
+P-0072;05/05/2022;May-22;sofa;sofa corner;6;C-051;Bapak Yanto;Semarang;Rp14.050.000;5;Rp80.085.000
+P-0073;12/05/2022;May-22;lemari;lemari es kayu;1;C-018;Bapak Seno;Bekasi;Rp9.340.000;0;Rp9.340.000
+P-0074;14/05/2022;May-22;rak;rak tv;4;C-013;Bapak Rudi;Jakarta Selatan;Rp4.130.000;15;Rp14.042.000
+P-0075;17/05/2022;May-22;bufet;bufet minimalis;6;C-114;Ibu Besta;Banyumas;Rp11.140.000;5;Rp63.498.000
+P-0076;19/05/2022;May-22;cermin;cermin modern;2;C-139;Bapak Rahmat;Semarang;Rp6.450.000;0;Rp12.900.000
+P-0077;21/05/2022;May-22;lemari;lemari pakaian;5;C-011;Ibu Sela;Pekanbaru;Rp4.370.000;0;Rp21.850.000
+P-0078;21/05/2022;May-22;cermin;cermin oval;3;C-037;Bapak Joko;Jogja;Rp5.380.000;10;Rp14.526.000
+P-0079;24/05/2022;May-22;meja;meja belajar;3;C-090;Ibu Dewi;Bekasi;Rp12.180.000;0;Rp36.540.000
+P-0080;25/05/2022;May-22;bale-bale;bale-bale modern;2;C-036;Bapak Yanto;Depok;Rp5.960.000;5;Rp11.324.000
+P-0081;26/05/2022;May-22;rak;rak dinding;4;C-127;Bapak Wahab;Makassar;Rp1.880.000;0;Rp7.520.000
+P-0082;26/05/2022;May-22;meja_makan;meja makan folding;6;C-024;Ibu Vina;Surabaya;Rp9.270.000;5;Rp52.839.000
+P-0083;29/05/2022;May-22;kursi;kursi kantor;1;C-045;Ibu Rina;Kediri;Rp8.800.000;0;Rp8.800.000
+P-0084;30/05/2022;May-22;meja_makan;meja makan folding;2;C-092;Bapak Rudi;Medan;Rp14.660.000;0;Rp29.320.000
+P-0085;31/05/2022;May-22;cermin;cermin berdiri;6;C-057;Bapak Iman;Tangerang;Rp7.580.000;5;Rp43.206.000
+P-0086;31/05/2022;May-22;dipan;dipan classik;1;C-122;Ibu Besta;Kendal;Rp9.240.000;5;Rp8.778.000
+P-0087;02/06/2022;Jun-22;rak;rak sudut;1;C-082;Bapak Aris;Depok;Rp5.950.000;10;Rp5.355.000
+P-0088;03/06/2022;Jun-22;kursi;kursi tamu;2;C-031;Bapak Suli;Bogor;Rp8.300.000;10;Rp14.940.000
+P-0089;08/06/2022;Jun-22;nakas;nakas 2 laci;6;C-046;Bapak Rahmat;Jakarta Barat;Rp1.540.000;20;Rp7.392.000
+P-0090;09/06/2022;Jun-22;nakas;nakas 3 laci;1;C-098;Bapak Eko;Tangerang;Rp3.540.000;10;Rp3.186.000
+P-0091;11/06/2022;Jun-22;bufet;bufet kayu;1;C-110;Bapak Seno;Malang;Rp11.280.000;20;Rp9.024.000
+P-0092;11/06/2022;Jun-22;meja_makan;meja makan folding;5;C-045;Ibu Tini;Jogja;Rp7.140.000;30;Rp24.990.000
+P-0094;12/06/2022;Jun-22;meja_makan;meja makan persegi;2;C-064;Ibu Yuli;Kendal;Rp14.890.000;5;Rp28.291.000
+P-0093;12/06/2022;Jun-22;bufet;bufet tv;1;C-112;Ibu Dewi;Depok;Rp7.430.000;5;Rp7.058.500
+P-0095;13/06/2022;Jun-22;cermin;cermin dinding;2;C-024;Bapak Dedi;Medan;Rp7.300.000;10;Rp13.140.000
+P-0096;18/06/2022;Jun-22;almari;almari lemari pakaian;6;C-076;Ibu Nani;Jakarta Selatan;Rp21.390.000;0;Rp128.340.000
+P-0097;21/06/2022;Jun-22;cermin;cermin classik;2;C-124;Bapak Joko;Tangerang;Rp3.510.000;0;Rp7.020.000
+P-0098;24/06/2022;Jun-22;nakas;nakas minimalis;3;C-047;Ibu Besta;Kediri;Rp2.530.000;0;Rp7.590.000
+P-0099;27/06/2022;Jun-22;kursi;kursi tamu;3;C-092;Ibu Zona;Jakarta Barat;Rp7.330.000;0;Rp21.990.000
+P-0100;28/06/2022;Jun-22;rak;rak sudut;2;C-141;Bapak Ahmad;Makassar;Rp2.430.000;5;Rp4.617.000
+P-0101;29/06/2022;Jun-22;kursi;kursi gaming;2;C-059;Bapak Taufik;Solo;Rp8.500.000;15;Rp14.450.000
+P-0102;29/06/2022;Jun-22;lemari;lemari gantung;8;C-123;Ibu Putri;Jakarta Utara;Rp4.690.000;15;Rp31.892.000
+P-0103;30/06/2022;Jun-22;dipan;dipan luxury;4;C-048;Bapak Wicak;Jakarta Timur;Rp8.160.000;5;Rp31.008.000
+P-0105;01/07/2022;Jul-22;lemari;lemari gantung;2;C-145;Ibu Zona;Pekanbaru;Rp11.490.000;20;Rp18.384.000
+P-0104;01/07/2022;Jul-22;cermin;cermin classik;1;C-126;Bapak Yanto;Medan;Rp3.960.000;0;Rp3.960.000
+P-0106;02/07/2022;Jul-22;bale-bale;bale-bale minimalis;5;C-077;Bapak Taufik;Purwokerto;Rp4.390.000;0;Rp21.950.000
+P-0107;04/07/2022;Jul-22;almari;almari 4 pintu;5;C-090;Bapak Ahmad;Bandung;Rp35.450.000;5;Rp168.387.500
+P-0108;06/07/2022;Jul-22;kursi;kursi gaming;2;C-015;Ibu Rina;Jogja;Rp2.380.000;0;Rp4.760.000
+P-0109;07/07/2022;Jul-22;almari;almari lemari pakaian;1;C-020;Bapak Iman;Solo;Rp8.430.000;10;Rp7.587.000
+P-0110;08/07/2022;Jul-22;dipan;dipan minimalis;6;C-123;Ibu Rina;Jakarta Tengah;Rp14.810.000;0;Rp88.860.000
+P-0111;08/07/2022;Jul-22;nakas;nakas modern;4;C-050;Ibu Rina;Bandung;Rp3.010.000;5;Rp11.438.000
+P-0112;09/07/2022;Jul-22;nakas;nakas 2 laci;3;C-071;Ibu Zona;Kendal;Rp2.570.000;0;Rp7.710.000
+P-0113;11/07/2022;Jul-22;lemari;lemari pakaian;2;C-093;Bapak Joko;Jogja;Rp9.980.000;15;Rp16.966.000
+P-0114;12/07/2022;Jul-22;kursi;kursi kantor;4;C-015;Bapak Agus;Depok;Rp6.940.000;10;Rp24.984.000
+P-0116;13/07/2022;Jul-22;meja_makan;meja makan persegi;1;C-014;Ibu Lestari;Palembang;Rp9.400.000;0;Rp9.400.000
+P-0115;13/07/2022;Jul-22;meja_makan;meja makan bundar;3;C-060;Bapak Rahmat;Jakarta Timur;Rp8.450.000;5;Rp24.082.500
+P-0117;14/07/2022;Jul-22;sofa;sofa corner;3;C-137;Bapak Sanusi;Kediri;Rp9.090.000;0;Rp27.270.000
+P-0118;14/07/2022;Jul-22;almari;almari 2 pintu;3;C-001;Ibu Vina;Solo;Rp29.040.000;25;Rp65.340.000
+P-0119;18/07/2022;Jul-22;almari;almari 3 pintu;2;C-078;Bapak Ahmad;Malang;Rp23.690.000;0;Rp47.380.000
+P-0120;19/07/2022;Jul-22;meja_makan;meja makan folding;2;C-103;Ibu Lestari;Jakarta Utara;Rp13.180.000;0;Rp26.360.000
+P-0121;21/07/2022;Jul-22;almari;almari 2 pintu;3;C-005;Bapak Taufik;Banjarmasin;Rp6.090.000;5;Rp17.356.500
+P-0122;21/07/2022;Jul-22;sofa;sofa stool;1;C-085;Ibu Besta;Bekasi;Rp14.280.000;0;Rp14.280.000
+P-0123;22/07/2022;Jul-22;cermin;cermin classik;3;C-022;Ibu Zona;Semarang;Rp3.550.000;15;Rp9.052.500
+P-0124;22/07/2022;Jul-22;lemari;lemari gantung;4;C-024;Ibu Nani;Jakarta Selatan;Rp4.470.000;5;Rp16.986.000
+P-0125;23/07/2022;Jul-22;almari;almari 4 pintu;4;C-130;Ibu Ermi;Banjarmasin;Rp37.310.000;10;Rp134.316.000
+P-0127;25/07/2022;Jul-22;bale-bale;bale-bale minimalis;3;C-018;Ibu Mira;Solo;Rp4.990.000;15;Rp12.724.500
+P-0126;25/07/2022;Jul-22;sofa;sofa stool;8;C-118;Ibu Hana;Bekasi;Rp17.660.000;0;Rp141.280.000
+P-0128;28/07/2022;Jul-22;cermin;cermin dinding;4;C-121;Ibu Lina;Malang;Rp2.830.000;0;Rp11.320.000
+P-0129;31/07/2022;Jul-22;meja;meja makan;3;C-115;Bapak Agus;Kediri;Rp10.990.000;0;Rp32.970.000
+P-0130;02/08/2022;Aug-22;sofa;sofa L-shape;6;C-004;Ibu Ani;Surabaya;Rp19.360.000;0;Rp116.160.000
+P-0131;03/08/2022;Aug-22;meja_makan;meja makan folding;3;C-110;Bapak Aris;Purwokerto;Rp5.950.000;0;Rp17.850.000
+P-0132;04/08/2022;Aug-22;rak;rak tv;3;C-008;Ibu Surya;Banjarmasin;Rp3.730.000;10;Rp10.071.000
+P-0133;05/08/2022;Aug-22;nakas;nakas 2 laci;1;C-021;Ibu Dewi;Surabaya;Rp3.990.000;10;Rp3.591.000
+P-0134;06/08/2022;Aug-22;kursi;kursi dining;2;C-028;Bapak Dedi;Solo;Rp4.310.000;15;Rp7.327.000
+P-0135;07/08/2022;Aug-22;lemari;lemari gantung;4;C-053;Bapak Wahab;Malang;Rp13.670.000;10;Rp49.212.000
+P-0136;13/08/2022;Aug-22;dipan;dipan minimalis;1;C-121;Ibu Vina;Tangerang;Rp21.040.000;30;Rp14.728.000
+P-0137;17/08/2022;Aug-22;dipan;dipan classik;6;C-119;Bapak Wahab;Bogor;Rp17.040.000;15;Rp86.904.000
+P-0141;19/08/2022;Aug-22;lemari;lemari es kayu;5;C-037;Bapak Joko;Jakarta Timur;Rp5.830.000;0;Rp29.150.000
+P-0140;19/08/2022;Aug-22;lemari;lemari es kayu;1;C-105;Bapak Taufik;Jakarta Barat;Rp13.510.000;25;Rp10.132.500
+P-0138;19/08/2022;Aug-22;sofa;sofa bed;5;C-021;Bapak Hendri;Surabaya;Rp13.800.000;5;Rp65.550.000
+P-0139;19/08/2022;Aug-22;almari;almari 3 pintu;4;C-015;Ibu Xenia;Bogor;Rp38.870.000;5;Rp147.706.000
+P-0142;20/08/2022;Aug-22;meja_makan;meja makan persegi;2;C-027;Bapak Sutrio;Jogja;Rp12.240.000;0;Rp24.480.000
+P-0143;24/08/2022;Aug-22;rak;rak minimalis;1;C-049;Ibu Besta;Semarang;Rp4.390.000;10;Rp3.951.000
+P-0144;24/08/2022;Aug-22;nakas;nakas modern;2;C-012;Bapak Joko;Kediri;Rp3.780.000;20;Rp6.048.000
+P-0145;24/08/2022;Aug-22;sofa;sofa stool;6;C-133;Bapak Wahab;Jakarta Barat;Rp14.910.000;0;Rp89.460.000
+P-0146;25/08/2022;Aug-22;bufet;bufet minimalis;1;C-013;Bapak Eko;Bandung;Rp10.990.000;20;Rp8.792.000
+P-0147;28/08/2022;Aug-22;dipan;dipan modern;2;C-093;Bapak Sutrio;Palembang;Rp23.600.000;20;Rp37.760.000
+P-0148;28/08/2022;Aug-22;bufet;bufet tv;3;C-144;Bapak Budi;Purwokerto;Rp5.770.000;0;Rp17.310.000
+P-0149;29/08/2022;Aug-22;meja;meja rias;2;C-147;Bapak Iman;Jakarta Tengah;Rp13.060.000;5;Rp24.814.000
+P-0151;31/08/2022;Aug-22;almari;almari lemari pakaian;6;C-088;Ibu Tini;Bandung;Rp22.460.000;0;Rp134.760.000
+P-0150;31/08/2022;Aug-22;bufet;bufet tv;2;C-147;Ibu Tini;Pekanbaru;Rp10.430.000;5;Rp19.817.000
+P-0152;01/09/2022;Sep-22;rak;rak minimalis;1;C-068;Ibu Lina;Jakarta Utara;Rp4.710.000;5;Rp4.474.500
+P-0153;01/09/2022;Sep-22;sofa;sofa L-shape;1;C-023;Ibu Nani;Pekanbaru;Rp3.190.000;0;Rp3.190.000
+P-0154;02/09/2022;Sep-22;lemari;lemari pakaian;6;C-023;Ibu Yuli;Kendal;Rp8.390.000;10;Rp45.306.000
+P-0155;04/09/2022;Sep-22;meja_makan;meja makan persegi;3;C-126;Bapak Iman;Jakarta Barat;Rp5.300.000;0;Rp15.900.000
+P-0156;04/09/2022;Sep-22;meja_makan;meja makan folding;3;C-149;Ibu Nani;Jakarta Utara;Rp4.620.000;5;Rp13.167.000
+P-0157;06/09/2022;Sep-22;bufet;bufet kayu;1;C-025;Ibu Dewi;Tangerang;Rp7.390.000;5;Rp7.020.500
+P-0158;06/09/2022;Sep-22;almari;almari 3 pintu;2;C-021;Bapak Iman;Tangerang;Rp8.240.000;10;Rp14.832.000
+P-0159;06/09/2022;Sep-22;meja_makan;meja makan folding;3;C-102;Ibu Lestari;Solo;Rp8.500.000;0;Rp25.500.000
+P-0160;08/09/2022;Sep-22;lemari;lemari gantung;1;C-019;Ibu Lina;Bandung;Rp8.840.000;5;Rp8.398.000
+P-0163;11/09/2022;Sep-22;almari;almari 2 pintu;2;C-090;Ibu Mira;Pekanbaru;Rp35.290.000;0;Rp70.580.000
+P-0162;11/09/2022;Sep-22;lemari;lemari pakaian;2;C-136;Ibu Tini;Jakarta Tengah;Rp14.090.000;0;Rp28.180.000
+P-0161;11/09/2022;Sep-22;lemari;lemari es kayu;1;C-015;Bapak Suli;Semarang;Rp13.310.000;15;Rp11.313.500
+P-0164;12/09/2022;Sep-22;bale-bale;bale-bale ukir;3;C-073;Ibu Siti;Kediri;Rp9.130.000;0;Rp27.390.000
+P-0165;12/09/2022;Sep-22;dipan;dipan minimalis;2;C-115;Ibu Yuli;Bekasi;Rp13.130.000;10;Rp23.634.000
+P-0166;13/09/2022;Sep-22;kursi;kursi dining;2;C-064;Ibu Ermi;Palembang;Rp2.280.000;10;Rp4.104.000
+P-0167;14/09/2022;Sep-22;kursi;kursi makan;3;C-076;Ibu Ani;Kendal;Rp5.870.000;0;Rp17.610.000
+P-0168;15/09/2022;Sep-22;nakas;nakas modern;5;C-114;Bapak Suli;Banjarmasin;Rp3.110.000;10;Rp13.995.000
+P-0169;16/09/2022;Sep-22;bufet;bufet dapur;1;C-003;Ibu Sela;Bogor;Rp9.290.000;10;Rp8.361.000
+P-0170;17/09/2022;Sep-22;dipan;dipan modern;1;C-013;Ibu Nani;Semarang;Rp10.120.000;0;Rp10.120.000
+P-0171;22/09/2022;Sep-22;sofa;sofa corner;5;C-018;Ibu Mira;Depok;Rp12.460.000;5;Rp59.185.000
+P-0172;24/09/2022;Sep-22;rak;rak minimalis;2;C-031;Bapak Sanusi;Jakarta Timur;Rp5.330.000;5;Rp10.127.000
+P-0173;26/09/2022;Sep-22;almari;almari lemari pakaian;1;C-074;Ibu Surya;Surabaya;Rp9.290.000;20;Rp7.432.000
+P-0174;29/09/2022;Sep-22;dipan;dipan classik;3;C-089;Bapak Budi;Bogor;Rp18.310.000;5;Rp52.183.500
+P-0175;29/09/2022;Sep-22;sofa;sofa bed;3;C-021;Ibu Nani;Kediri;Rp17.610.000;0;Rp52.830.000
+P-0176;02/10/2022;Oct-22;cermin;cermin dinding;3;C-019;Bapak Seno;Kendal;Rp5.530.000;10;Rp14.931.000
+P-0177;03/10/2022;Oct-22;meja_makan;meja makan persegi;3;C-023;Bapak Seno;Pekanbaru;Rp6.960.000;15;Rp17.748.000
+P-0178;04/10/2022;Oct-22;nakas;nakas modern;2;C-098;Bapak Seno;Jakarta Utara;Rp3.400.000;10;Rp6.120.000
+P-0179;06/10/2022;Oct-22;almari;almari minimalis;1;C-088;Ibu Ani;Kediri;Rp27.200.000;0;Rp27.200.000
+P-0180;08/10/2022;Oct-22;meja;meja kerja;2;C-022;Ibu Tini;Kediri;Rp13.700.000;0;Rp27.400.000
+P-0181;08/10/2022;Oct-22;almari;almari 2 pintu;3;C-140;Bapak Sutrio;Depok;Rp33.640.000;25;Rp75.690.000
+P-0182;09/10/2022;Oct-22;bale-bale;bale-bale modern;1;C-111;Ibu Putri;Jakarta Selatan;Rp9.430.000;5;Rp8.958.500
+P-0185;14/10/2022;Oct-22;meja;meja makan;5;C-134;Bapak Rahmat;Malang;Rp13.590.000;5;Rp64.552.500
+P-0186;14/10/2022;Oct-22;rak;rak minimalis;3;C-133;Bapak Seno;Jakarta Tengah;Rp2.210.000;5;Rp6.298.500
+P-0183;14/10/2022;Oct-22;cermin;cermin oval;4;C-033;Ibu Lina;Jogja;Rp6.800.000;5;Rp25.840.000
+P-0184;14/10/2022;Oct-22;cermin;cermin oval;2;C-135;Ibu Lestari;Banjarmasin;Rp7.960.000;5;Rp15.124.000
+P-0187;15/10/2022;Oct-22;bufet;bufet tv;6;C-059;Bapak Tri;Makassar;Rp11.790.000;5;Rp67.203.000
+P-0188;16/10/2022;Oct-22;cermin;cermin dinding;2;C-042;Bapak Seno;Purwokerto;Rp2.830.000;0;Rp5.660.000
+P-0189;19/10/2022;Oct-22;bufet;bufet kayu;5;C-035;Bapak Taufik;Pekanbaru;Rp6.180.000;15;Rp26.265.000
+P-0190;23/10/2022;Oct-22;kursi;kursi gaming;3;C-127;Ibu Xenia;Jogja;Rp2.020.000;0;Rp6.060.000
+P-0191;23/10/2022;Oct-22;meja_makan;meja makan bundar;3;C-126;Bapak Budi;Palembang;Rp8.880.000;25;Rp19.980.000
+P-0192;24/10/2022;Oct-22;meja;meja rias;1;C-084;Bapak Aris;Purwokerto;Rp7.710.000;10;Rp6.939.000
+P-0193;24/10/2022;Oct-22;lemari;lemari display;3;C-073;Bapak Iman;Depok;Rp8.350.000;10;Rp22.545.000
+P-0194;25/10/2022;Oct-22;dipan;dipan minimalis;6;C-021;Bapak Dedi;Pekanbaru;Rp19.150.000;10;Rp103.410.000
+P-0195;26/10/2022;Oct-22;almari;almari 4 pintu;5;C-101;Bapak Budi;Bekasi;Rp20.850.000;0;Rp104.250.000
+P-0196;27/10/2022;Oct-22;meja_makan;meja makan bundar;3;C-126;Bapak Eko;Jakarta Barat;Rp12.040.000;5;Rp34.314.000
+P-0197;28/10/2022;Oct-22;nakas;nakas modern;2;C-144;Bapak Ahmad;Jakarta Selatan;Rp3.010.000;5;Rp5.719.000
+P-0198;28/10/2022;Oct-22;nakas;nakas 1 laci;4;C-011;Bapak Budi;Makassar;Rp2.550.000;30;Rp7.140.000
+P-0200;30/10/2022;Oct-22;sofa;sofa corner;2;C-052;Bapak Tri;Solo;Rp17.900.000;0;Rp35.800.000
+P-0199;30/10/2022;Oct-22;dipan;dipan luxury;1;C-145;Ibu Lina;Purwokerto;Rp20.670.000;15;Rp17.569.500
+P-0201;02/11/2022;Nov-22;almari;almari lemari pakaian;3;C-135;Ibu Nani;Bogor;Rp36.080.000;30;Rp75.768.000
+P-0202;03/11/2022;Nov-22;kursi;kursi kantor;1;C-100;Bapak Wahab;Bekasi;Rp4.450.000;10;Rp4.005.000
+P-0203;05/11/2022;Nov-22;bufet;bufet minimalis;1;C-082;Ibu Vina;Medan;Rp11.660.000;5;Rp11.077.000
+P-0204;05/11/2022;Nov-22;lemari;lemari pakaian;4;C-145;Bapak Rudi;Tangerang;Rp9.860.000;10;Rp35.496.000
+P-0205;07/11/2022;Nov-22;rak;rak sudut;1;C-044;Ibu Zona;Semarang;Rp1.770.000;10;Rp1.593.000
+P-0206;09/11/2022;Nov-22;meja_makan;meja makan folding;4;C-110;Ibu Mira;Malang;Rp5.330.000;0;Rp21.320.000
+P-0207;10/11/2022;Nov-22;lemari;lemari display;2;C-136;Bapak Dedi;Bogor;Rp14.960.000;5;Rp28.424.000
+P-0208;10/11/2022;Nov-22;bufet;bufet kayu;1;C-114;Bapak Dedi;Pekanbaru;Rp4.340.000;20;Rp3.472.000
+P-0209;11/11/2022;Nov-22;meja_makan;meja makan folding;1;C-046;Bapak Ahmad;Malang;Rp17.280.000;0;Rp17.280.000
+P-0210;11/11/2022;Nov-22;meja;meja tamu;2;C-061;Bapak Rahmat;Palembang;Rp14.480.000;25;Rp21.720.000
+P-0211;13/11/2022;Nov-22;lemari;lemari gantung;2;C-076;Ibu Xenia;Jakarta Utara;Rp6.110.000;10;Rp10.998.000
+P-0212;15/11/2022;Nov-22;meja_makan;meja makan bundar;3;C-076;Ibu Tini;Purwokerto;Rp7.090.000;25;Rp15.952.500
+P-0213;16/11/2022;Nov-22;meja_makan;meja makan persegi;4;C-146;Bapak Agus;Jakarta Tengah;Rp16.370.000;0;Rp65.480.000
+P-0214;17/11/2022;Nov-22;cermin;cermin classik;3;C-096;Ibu Hana;Kediri;Rp7.540.000;0;Rp22.620.000
+P-0215;21/11/2022;Nov-22;lemari;lemari pakaian;2;C-133;Bapak Dedi;Jakarta Utara;Rp13.660.000;15;Rp23.222.000
+P-0216;23/11/2022;Nov-22;nakas;nakas minimalis;1;C-116;Ibu Lestari;Jakarta Utara;Rp1.290.000;0;Rp1.290.000
+P-0217;23/11/2022;Nov-22;rak;rak sudut;4;C-083;Ibu Lestari;Makassar;Rp5.380.000;30;Rp15.064.000
+P-0218;24/11/2022;Nov-22;nakas;nakas 3 laci;2;C-012;Bapak Yanto;Medan;Rp3.220.000;0;Rp6.440.000
+P-0219;28/11/2022;Nov-22;dipan;dipan classik;1;C-037;Ibu Rina;Jogja;Rp22.630.000;25;Rp16.972.500
+P-0220;28/11/2022;Nov-22;meja;meja kerja;6;C-071;Bapak Hendri;Semarang;Rp8.850.000;0;Rp53.100.000
+P-0221;02/12/2022;Dec-22;nakas;nakas minimalis;2;C-098;Ibu Yuli;Kendal;Rp3.850.000;5;Rp7.315.000
+P-0223;04/12/2022;Dec-22;bufet;bufet minimalis;2;C-035;Ibu Sela;Bekasi;Rp8.830.000;10;Rp15.894.000
+P-0222;04/12/2022;Dec-22;cermin;cermin modern;1;C-103;Ibu Xenia;Jakarta Timur;Rp4.730.000;0;Rp4.730.000
+P-0224;05/12/2022;Dec-22;bufet;bufet dapur;1;C-083;Bapak Agus;Jakarta Timur;Rp10.190.000;10;Rp9.171.000
+P-0225;06/12/2022;Dec-22;bale-bale;bale-bale ukir;3;C-094;Bapak Iman;Jakarta Selatan;Rp3.680.000;10;Rp9.936.000
+P-0226;07/12/2022;Dec-22;lemari;lemari es kayu;2;C-015;Bapak Ahmad;Pekanbaru;Rp7.010.000;15;Rp11.917.000
+P-0227;08/12/2022;Dec-22;kursi;kursi makan;2;C-030;Ibu Vina;Jogja;Rp2.750.000;15;Rp4.675.000
+P-0228;10/12/2022;Dec-22;kursi;kursi tamu;1;C-121;Bapak Tri;Kendal;Rp7.350.000;5;Rp6.982.500
+P-0229;11/12/2022;Dec-22;bale-bale;bale-bale ukir;2;C-145;Ibu Sela;Palembang;Rp8.710.000;0;Rp17.420.000
+P-0230;12/12/2022;Dec-22;rak;rak buku;4;C-008;Ibu Mira;Jakarta Timur;Rp5.740.000;15;Rp19.516.000
+P-0231;13/12/2022;Dec-22;meja;meja rias;1;C-032;Bapak Iman;Pekanbaru;Rp10.390.000;25;Rp7.792.500
+P-0232;15/12/2022;Dec-22;meja;meja console;2;C-117;Bapak Ahmad;Banyumas;Rp13.320.000;0;Rp26.640.000
+P-0233;18/12/2022;Dec-22;meja_makan;meja makan bundar;2;C-045;Bapak Rudi;Medan;Rp13.910.000;30;Rp19.474.000
+P-0234;19/12/2022;Dec-22;meja_makan;meja makan bundar;2;C-016;Bapak Joko;Palembang;Rp4.440.000;5;Rp8.436.000
+P-0235;21/12/2022;Dec-22;kursi;kursi santai;1;C-029;Bapak Rudi;Kediri;Rp4.770.000;15;Rp4.054.500
+P-0236;22/12/2022;Dec-22;almari;almari 3 pintu;3;C-050;Ibu Ratna;Depok;Rp25.120.000;0;Rp75.360.000
+P-0237;22/12/2022;Dec-22;bale-bale;bale-bale ukir;4;C-067;Bapak Aris;Tangerang;Rp3.890.000;15;Rp13.226.000
+P-0238;25/12/2022;Dec-22;almari;almari 3 pintu;1;C-050;Ibu Ermi;Bekasi;Rp14.750.000;0;Rp14.750.000
+P-0239;25/12/2022;Dec-22;almari;almari 2 pintu;3;C-013;Bapak Sutrio;Pekanbaru;Rp30.640.000;25;Rp68.940.000
+P-0240;26/12/2022;Dec-22;meja_makan;meja makan bundar;3;C-039;Bapak Rahmat;Purwokerto;Rp13.610.000;20;Rp32.664.000
+P-0241;26/12/2022;Dec-22;lemari;lemari gantung;3;C-138;Ibu Nani;Jakarta Barat;Rp5.270.000;25;Rp11.857.500
+P-0242;27/12/2022;Dec-22;bale-bale;bale-bale modern;3;C-107;Bapak Wahab;Makassar;Rp9.140.000;5;Rp26.049.000
+P-0243;30/12/2022;Dec-22;lemari;lemari display;2;C-096;Bapak Eko;Jakarta Timur;Rp13.870.000;5;Rp26.353.000
+P-0244;31/12/2022;Dec-22;bale-bale;bale-bale modern;2;C-098;Ibu Mira;Kendal;Rp7.330.000;15;Rp12.461.000
+P-0245;02/01/2023;Jan-23;bufet;bufet minimalis;5;C-024;Ibu Tini;Bekasi;Rp5.460.000;5;Rp25.935.000
+P-0249;03/01/2023;Jan-23;almari;almari lemari pakaian;3;C-045;Bapak Agus;Jakarta Tengah;Rp34.460.000;20;Rp82.704.000
+P-0248;03/01/2023;Jan-23;nakas;nakas 2 laci;6;C-104;Ibu Siti;Medan;Rp1.670.000;30;Rp7.014.000
+P-0246;03/01/2023;Jan-23;dipan;dipan luxury;1;C-099;Ibu Xenia;Jogja;Rp19.100.000;5;Rp18.145.000
+P-0247;03/01/2023;Jan-23;bufet;bufet kayu;2;C-145;Bapak Taufik;Bekasi;Rp7.110.000;0;Rp14.220.000
+P-0250;04/01/2023;Jan-23;almari;almari 2 pintu;1;C-048;Ibu Dewi;Pekanbaru;Rp24.490.000;5;Rp23.265.500
+P-0251;07/01/2023;Jan-23;meja;meja kerja;2;C-092;Ibu Lina;Depok;Rp5.220.000;25;Rp7.830.000
+P-0252;07/01/2023;Jan-23;bale-bale;bale-bale modern;1;C-130;Bapak Iman;Kendal;Rp6.850.000;15;Rp5.822.500
+P-0253;09/01/2023;Jan-23;meja;meja belajar;1;C-140;Ibu Putri;Kediri;Rp11.860.000;0;Rp11.860.000
+P-0254;10/01/2023;Jan-23;rak;rak buku;2;C-097;Bapak Suli;Jogja;Rp3.030.000;15;Rp5.151.000
+P-0255;11/01/2023;Jan-23;bale-bale;bale-bale minimalis;4;C-113;Bapak Wahab;Surabaya;Rp9.930.000;0;Rp39.720.000
+P-0256;15/01/2023;Jan-23;cermin;cermin classik;1;C-012;Bapak Hendri;Pekanbaru;Rp4.790.000;0;Rp4.790.000
+P-0257;16/01/2023;Jan-23;bale-bale;bale-bale minimalis;3;C-133;Ibu Rina;Makassar;Rp3.590.000;0;Rp10.770.000
+P-0258;17/01/2023;Jan-23;sofa;sofa stool;1;C-047;Bapak Yanto;Jakarta Utara;Rp19.650.000;10;Rp17.685.000
+P-0259;18/01/2023;Jan-23;nakas;nakas minimalis;8;C-096;Bapak Suli;Jakarta Barat;Rp1.960.000;0;Rp15.680.000
+P-0260;20/01/2023;Jan-23;bufet;bufet tv;3;C-024;Ibu Ermi;Jogja;Rp10.000.000;10;Rp27.000.000
+P-0261;23/01/2023;Jan-23;sofa;sofa bed;2;C-123;Bapak Yanto;Banjarmasin;Rp15.890.000;0;Rp31.780.000
+P-0262;26/01/2023;Jan-23;bale-bale;bale-bale modern;3;C-105;Ibu Hana;Makassar;Rp5.640.000;15;Rp14.382.000
+P-0263;28/01/2023;Jan-23;meja_makan;meja makan bundar;3;C-017;Bapak Rahmat;Bogor;Rp8.630.000;5;Rp24.595.500
+P-0264;30/01/2023;Jan-23;meja_makan;meja makan persegi;4;C-043;Ibu Rina;Jakarta Utara;Rp13.750.000;0;Rp55.000.000
+P-0265;31/01/2023;Jan-23;lemari;lemari es kayu;2;C-010;Bapak Tri;Jogja;Rp14.620.000;0;Rp29.240.000
+P-0266;03/02/2023;Feb-23;sofa;sofa corner;3;C-104;Bapak Aris;Pekanbaru;Rp18.630.000;30;Rp39.123.000
+P-0267;03/02/2023;Feb-23;lemari;lemari pakaian;2;C-017;Ibu Zona;Jakarta Timur;Rp11.710.000;0;Rp23.420.000
+P-0268;04/02/2023;Feb-23;cermin;cermin dinding;3;C-140;Bapak Agus;Medan;Rp4.930.000;0;Rp14.790.000
+P-0269;08/02/2023;Feb-23;rak;rak sudut;3;C-022;Ibu Dewi;Jakarta Utara;Rp5.330.000;0;Rp15.990.000
+P-0270;10/02/2023;Feb-23;sofa;sofa corner;1;C-122;Ibu Yuli;Tangerang;Rp3.340.000;15;Rp2.839.000
+P-0271;12/02/2023;Feb-23;sofa;sofa corner;1;C-030;Ibu Siti;Banyumas;Rp6.160.000;5;Rp5.852.000
+P-0272;12/02/2023;Feb-23;bale-bale;bale-bale modern;3;C-129;Bapak Rahmat;Bogor;Rp7.910.000;0;Rp23.730.000
+P-0273;13/02/2023;Feb-23;lemari;lemari display;2;C-133;Bapak Iman;Jakarta Selatan;Rp6.730.000;0;Rp13.460.000
+P-0274;13/02/2023;Feb-23;lemari;lemari display;1;C-046;Bapak Sanusi;Bekasi;Rp7.890.000;20;Rp6.312.000
+P-0275;16/02/2023;Feb-23;bufet;bufet dapur;2;C-015;Bapak Tri;Jogja;Rp11.950.000;0;Rp23.900.000
+P-0276;18/02/2023;Feb-23;bale-bale;bale-bale minimalis;3;C-139;Ibu Ratna;Bogor;Rp3.380.000;5;Rp9.633.000
+P-0277;19/02/2023;Feb-23;lemari;lemari es kayu;1;C-111;Ibu Ermi;Jakarta Barat;Rp12.110.000;20;Rp9.688.000
+P-0278;24/02/2023;Feb-23;meja;meja console;3;C-049;Ibu Rina;Depok;Rp4.410.000;15;Rp11.245.500
+P-0279;28/02/2023;Feb-23;almari;almari 4 pintu;1;C-045;Ibu Dewi;Solo;Rp22.350.000;25;Rp16.762.500
+P-0280;03/03/2023;Mar-23;rak;rak minimalis;4;C-007;Bapak Agus;Palembang;Rp2.330.000;10;Rp8.388.000
+P-0281;05/03/2023;Mar-23;rak;rak dinding;1;C-088;Bapak Wicak;Pekanbaru;Rp5.020.000;0;Rp5.020.000
+P-0282;06/03/2023;Mar-23;lemari;lemari display;6;C-053;Bapak Budi;Medan;Rp6.920.000;0;Rp41.520.000
+P-0283;07/03/2023;Mar-23;cermin;cermin dinding;6;C-006;Bapak Yanto;Depok;Rp4.860.000;25;Rp21.870.000
+P-0284;11/03/2023;Mar-23;meja;meja rias;3;C-047;Bapak Wahab;Makassar;Rp5.840.000;0;Rp17.520.000
+P-0285;16/03/2023;Mar-23;bale-bale;bale-bale ukir;3;C-143;Ibu Siti;Purwokerto;Rp9.500.000;15;Rp24.225.000
+P-0286;16/03/2023;Mar-23;cermin;cermin berdiri;3;C-053;Ibu Yuli;Kendal;Rp6.220.000;15;Rp15.861.000
+P-0287;17/03/2023;Mar-23;meja;meja makan;1;C-057;Bapak Taufik;Banyumas;Rp8.500.000;5;Rp8.075.000
+P-0288;18/03/2023;Mar-23;kursi;kursi tamu;2;C-145;Ibu Putri;Bandung;Rp2.580.000;10;Rp4.644.000
+P-0289;20/03/2023;Mar-23;meja_makan;meja makan persegi;2;C-098;Ibu Dewi;Bandung;Rp8.960.000;20;Rp14.336.000
+P-0290;22/03/2023;Mar-23;almari;almari 2 pintu;1;C-104;Ibu Tini;Jogja;Rp33.040.000;10;Rp29.736.000
+P-0291;23/03/2023;Mar-23;lemari;lemari gantung;6;C-121;Bapak Dedi;Bogor;Rp7.670.000;10;Rp41.418.000
+P-0292;23/03/2023;Mar-23;meja_makan;meja makan folding;1;C-063;Ibu Mira;Semarang;Rp16.340.000;0;Rp16.340.000
+P-0293;24/03/2023;Mar-23;meja;meja tamu;2;C-103;Ibu Vina;Jakarta Tengah;Rp6.840.000;0;Rp13.680.000
+P-0294;27/03/2023;Mar-23;meja;meja kerja;1;C-070;Ibu Nani;Bekasi;Rp13.560.000;0;Rp13.560.000
+P-0295;27/03/2023;Mar-23;cermin;cermin classik;6;C-128;Ibu Surya;Tangerang;Rp7.550.000;5;Rp43.035.000
+P-0296;27/03/2023;Mar-23;meja;meja belajar;5;C-004;Ibu Hana;Bogor;Rp13.260.000;25;Rp49.725.000
+P-0297;29/03/2023;Mar-23;bale-bale;bale-bale ukir;2;C-003;Ibu Rina;Jakarta Tengah;Rp9.620.000;10;Rp17.316.000
+P-0298;01/04/2023;Apr-23;meja;meja kerja;6;C-082;Bapak Dedi;Malang;Rp2.380.000;5;Rp13.566.000
+P-0299;02/04/2023;Apr-23;sofa;sofa stool;2;C-129;Ibu Hana;Tangerang;Rp19.960.000;5;Rp37.924.000
+P-0300;02/04/2023;Apr-23;kursi;kursi makan;3;C-063;Bapak Wicak;Palembang;Rp4.710.000;5;Rp13.423.500
+P-0301;05/04/2023;Apr-23;nakas;nakas modern;1;C-121;Bapak Seno;Tangerang;Rp3.030.000;5;Rp2.878.500
+P-0302;06/04/2023;Apr-23;meja_makan;meja makan persegi;1;C-093;Ibu Xenia;Solo;Rp17.050.000;0;Rp17.050.000
+P-0303;08/04/2023;Apr-23;almari;almari lemari pakaian;1;C-031;Ibu Mira;Bandung;Rp33.270.000;0;Rp33.270.000
+P-0307;10/04/2023;Apr-23;rak;rak sudut;1;C-097;Bapak Sutrio;Jakarta Utara;Rp1.540.000;0;Rp1.540.000
+P-0306;10/04/2023;Apr-23;almari;almari 4 pintu;1;C-031;Bapak Seno;Bekasi;Rp9.180.000;5;Rp8.721.000
+P-0304;10/04/2023;Apr-23;lemari;lemari display;1;C-091;Ibu Ani;Kediri;Rp6.940.000;25;Rp5.205.000
+P-0305;10/04/2023;Apr-23;meja;meja kerja;1;C-068;Ibu Zona;Kediri;Rp12.350.000;0;Rp12.350.000
+P-0308;11/04/2023;Apr-23;sofa;sofa corner;3;C-068;Ibu Zona;Depok;Rp16.980.000;25;Rp38.205.000
+P-0309;11/04/2023;Apr-23;meja_makan;meja makan folding;2;C-141;Bapak Sanusi;Kendal;Rp11.530.000;10;Rp20.754.000
+P-0310;11/04/2023;Apr-23;meja;meja kerja;1;C-006;Ibu Lina;Bekasi;Rp4.790.000;0;Rp4.790.000
+P-0311;13/04/2023;Apr-23;almari;almari 3 pintu;8;C-124;Bapak Eko;Medan;Rp18.350.000;0;Rp146.800.000
+P-0312;14/04/2023;Apr-23;sofa;sofa 2 seater;1;C-145;Bapak Eko;Jakarta Tengah;Rp12.140.000;5;Rp11.533.000
+P-0313;15/04/2023;Apr-23;lemari;lemari display;3;C-004;Ibu Nani;Makassar;Rp10.250.000;15;Rp26.137.500
+P-0314;16/04/2023;Apr-23;bale-bale;bale-bale minimalis;6;C-097;Ibu Mira;Solo;Rp5.050.000;10;Rp27.270.000
+P-0315;19/04/2023;Apr-23;lemari;lemari display;3;C-102;Bapak Hendri;Jakarta Barat;Rp12.200.000;5;Rp34.770.000
+P-0317;22/04/2023;Apr-23;almari;almari minimalis;1;C-114;Bapak Dedi;Semarang;Rp15.470.000;25;Rp11.602.500
+P-0316;22/04/2023;Apr-23;almari;almari 4 pintu;2;C-142;Ibu Ratna;Jakarta Barat;Rp17.910.000;0;Rp35.820.000
+P-0318;25/04/2023;Apr-23;bale-bale;bale-bale modern;6;C-003;Ibu Rina;Kediri;Rp9.190.000;15;Rp46.869.000
+P-0319;27/04/2023;Apr-23;dipan;dipan kayu jati;1;C-090;Bapak Suli;Banjarmasin;Rp9.170.000;25;Rp6.877.500
+P-0320;29/04/2023;Apr-23;nakas;nakas modern;1;C-098;Ibu Vina;Makassar;Rp2.240.000;20;Rp1.792.000
+P-0321;30/04/2023;Apr-23;meja;meja console;4;C-121;Ibu Surya;Kediri;Rp5.080.000;10;Rp18.288.000
+P-0322;01/05/2023;May-23;kursi;kursi dining;1;C-003;Bapak Suli;Semarang;Rp6.480.000;25;Rp4.860.000
+P-0323;03/05/2023;May-23;bufet;bufet minimalis;2;C-028;Bapak Iman;Jogja;Rp5.770.000;10;Rp10.386.000
+P-0324;05/05/2023;May-23;bale-bale;bale-bale modern;2;C-045;Ibu Ratna;Solo;Rp5.400.000;0;Rp10.800.000
+P-0325;06/05/2023;May-23;bufet;bufet dapur;3;C-106;Ibu Siti;Medan;Rp4.350.000;5;Rp12.397.500
+P-0326;09/05/2023;May-23;rak;rak buku;2;C-036;Bapak Iman;Bandung;Rp2.150.000;5;Rp4.085.000
+P-0327;10/05/2023;May-23;bufet;bufet dapur;2;C-038;Bapak Sutrio;Surabaya;Rp11.370.000;5;Rp21.603.000
+P-0328;13/05/2023;May-23;nakas;nakas 2 laci;8;C-040;Bapak Joko;Makassar;Rp3.530.000;0;Rp28.240.000
+P-0330;15/05/2023;May-23;sofa;sofa bed;1;C-024;Ibu Ratna;Banjarmasin;Rp14.290.000;0;Rp14.290.000
+P-0329;15/05/2023;May-23;bale-bale;bale-bale minimalis;3;C-061;Bapak Wicak;Medan;Rp8.230.000;5;Rp23.455.500
+P-0331;16/05/2023;May-23;meja;meja belajar;2;C-015;Ibu Ratna;Jakarta Utara;Rp8.430.000;5;Rp16.017.000
+P-0332;16/05/2023;May-23;rak;rak tv;1;C-122;Ibu Zona;Solo;Rp2.750.000;0;Rp2.750.000
+P-0333;19/05/2023;May-23;sofa;sofa 3 seater;2;C-072;Ibu Lina;Jogja;Rp6.790.000;10;Rp12.222.000
+P-0334;21/05/2023;May-23;meja;meja makan;5;C-040;Bapak Aris;Kediri;Rp7.200.000;0;Rp36.000.000
+P-0335;24/05/2023;May-23;bufet;bufet minimalis;1;C-146;Bapak Aris;Tangerang;Rp5.260.000;15;Rp4.471.000
+P-0336;25/05/2023;May-23;nakas;nakas modern;1;C-068;Ibu Vina;Surabaya;Rp2.069.999;5;Rp1.966.499
+P-0337;26/05/2023;May-23;lemari;lemari gantung;4;C-053;Ibu Yuli;Solo;Rp5.440.000;0;Rp21.760.000
+P-0338;30/05/2023;May-23;sofa;sofa stool;5;C-045;Ibu Ratna;Jakarta Selatan;Rp14.870.000;5;Rp70.632.500
+P-0339;02/06/2023;Jun-23;nakas;nakas modern;2;C-043;Bapak Budi;Jogja;Rp2.330.000;10;Rp4.194.000
+P-0340;03/06/2023;Jun-23;meja_makan;meja makan persegi;2;C-093;Bapak Wahab;Purwokerto;Rp12.930.000;0;Rp25.860.000
+P-0341;09/06/2023;Jun-23;almari;almari minimalis;5;C-142;Ibu Ani;Surabaya;Rp12.340.000;10;Rp55.530.000
+P-0342;11/06/2023;Jun-23;lemari;lemari pakaian;1;C-106;Ibu Lina;Semarang;Rp13.540.000;0;Rp13.540.000
+P-0343;11/06/2023;Jun-23;nakas;nakas 3 laci;3;C-055;Bapak Wahab;Jakarta Utara;Rp3.170.000;20;Rp7.608.000
+P-0344;11/06/2023;Jun-23;meja;meja rias;1;C-072;Ibu Xenia;Semarang;Rp3.260.000;5;Rp3.097.000
+P-0345;12/06/2023;Jun-23;bufet;bufet kayu;5;C-128;Ibu Siti;Jakarta Tengah;Rp11.560.000;5;Rp54.910.000
+P-0346;13/06/2023;Jun-23;sofa;sofa 2 seater;2;C-041;Bapak Joko;Makassar;Rp15.060.000;5;Rp28.614.000
+P-0347;14/06/2023;Jun-23;sofa;sofa bed;4;C-115;Ibu Surya;Jakarta Timur;Rp8.039.999;10;Rp28.943.996
+P-0348;15/06/2023;Jun-23;almari;almari 3 pintu;1;C-131;Ibu Vina;Malang;Rp13.110.000;0;Rp13.110.000
+P-0349;17/06/2023;Jun-23;bufet;bufet tv;4;C-134;Bapak Rahmat;Jakarta Selatan;Rp7.320.000;0;Rp29.280.000
+P-0350;20/06/2023;Jun-23;meja_makan;meja makan folding;3;C-111;Ibu Lestari;Palembang;Rp8.840.000;10;Rp23.868.000
+P-0351;21/06/2023;Jun-23;rak;rak buku;1;C-052;Ibu Lina;Medan;Rp1.170.000;0;Rp1.170.000
+P-0353;24/06/2023;Jun-23;meja;meja kerja;3;C-131;Ibu Tini;Jakarta Barat;Rp6.400.000;0;Rp19.200.000
+P-0352;24/06/2023;Jun-23;dipan;dipan minimalis;5;C-034;Bapak Agus;Depok;Rp10.620.000;0;Rp53.100.000
+P-0354;26/06/2023;Jun-23;dipan;dipan kayu jati;1;C-027;Bapak Tri;Semarang;Rp9.960.000;0;Rp9.960.000
+P-0355;28/06/2023;Jun-23;nakas;nakas 2 laci;1;C-106;Ibu Nani;Malang;Rp2.420.000;10;Rp2.178.000
+P-0356;28/06/2023;Jun-23;dipan;dipan kayu jati;2;C-005;Ibu Rina;Tangerang;Rp22.940.000;15;Rp38.998.000
+P-0357;01/07/2023;Jul-23;nakas;nakas 3 laci;6;C-083;Ibu Vina;Surabaya;Rp1.050.000;0;Rp6.300.000
+P-0358;01/07/2023;Jul-23;nakas;nakas 2 laci;3;C-140;Bapak Wicak;Banjarmasin;Rp1.430.000;10;Rp3.861.000
+P-0359;02/07/2023;Jul-23;cermin;cermin oval;6;C-055;Ibu Surya;Semarang;Rp3.940.000;0;Rp23.640.000
+P-0360;04/07/2023;Jul-23;kursi;kursi santai;2;C-118;Ibu Rina;Semarang;Rp7.040.000;5;Rp13.376.000
+P-0361;06/07/2023;Jul-23;almari;almari minimalis;3;C-036;Bapak Eko;Purwokerto;Rp30.930.000;0;Rp92.790.000
+P-0362;09/07/2023;Jul-23;dipan;dipan luxury;2;C-081;Ibu Surya;Semarang;Rp22.770.000;5;Rp43.263.000
+P-0363;11/07/2023;Jul-23;cermin;cermin classik;1;C-002;Bapak Yanto;Jogja;Rp2.710.000;0;Rp2.710.000
+P-0365;14/07/2023;Jul-23;meja_makan;meja makan folding;1;C-050;Bapak Wicak;Pekanbaru;Rp6.480.000;10;Rp5.832.000
+P-0364;14/07/2023;Jul-23;bufet;bufet dapur;5;C-139;Ibu Lina;Jogja;Rp4.270.000;15;Rp18.147.500
+P-0366;15/07/2023;Jul-23;meja;meja console;3;C-124;Ibu Siti;Bogor;Rp14.220.000;0;Rp42.660.000
+P-0367;15/07/2023;Jul-23;meja;meja console;1;C-089;Ibu Ani;Bogor;Rp13.730.000;20;Rp10.984.000
+P-0368;16/07/2023;Jul-23;bufet;bufet dapur;3;C-124;Ibu Nani;Medan;Rp4.019.999;10;Rp10.853.997
+P-0369;16/07/2023;Jul-23;meja_makan;meja makan persegi;2;C-136;Bapak Wicak;Pekanbaru;Rp11.080.000;5;Rp21.052.000
+P-0370;17/07/2023;Jul-23;bufet;bufet tv;1;C-018;Bapak Hendri;Jakarta Selatan;Rp5.580.000;5;Rp5.301.000
+P-0371;18/07/2023;Jul-23;kursi;kursi gaming;3;C-122;Bapak Sanusi;Banjarmasin;Rp2.800.000;25;Rp6.300.000
+P-0372;22/07/2023;Jul-23;nakas;nakas modern;1;C-019;Ibu Lina;Medan;Rp1.200.000;0;Rp1.200.000
+P-0373;25/07/2023;Jul-23;nakas;nakas 3 laci;4;C-015;Bapak Suli;Jakarta Timur;Rp3.420.000;5;Rp12.996.000
+P-0375;26/07/2023;Jul-23;rak;rak buku;1;C-041;Bapak Taufik;Palembang;Rp5.260.000;20;Rp4.208.000
+P-0374;26/07/2023;Jul-23;meja;meja belajar;4;C-067;Bapak Rahmat;Depok;Rp7.590.000;5;Rp28.842.000
+P-0377;27/07/2023;Jul-23;bale-bale;bale-bale modern;1;C-079;Bapak Yanto;Tangerang;Rp8.420.000;0;Rp8.420.000
+P-0376;27/07/2023;Jul-23;nakas;nakas modern;2;C-098;Bapak Aris;Jakarta Utara;Rp1.810.000;0;Rp3.620.000
+P-0378;29/07/2023;Jul-23;bale-bale;bale-bale modern;3;C-110;Ibu Zona;Depok;Rp5.530.000;30;Rp11.613.000
+P-0379;01/08/2023;Aug-23;lemari;lemari pakaian;5;C-073;Ibu Mira;Surabaya;Rp8.940.000;30;Rp31.290.000
+P-0380;02/08/2023;Aug-23;sofa;sofa bed;1;C-102;Ibu Ani;Bogor;Rp12.390.000;5;Rp11.770.500
+P-0381;04/08/2023;Aug-23;meja_makan;meja makan persegi;1;C-128;Ibu Ermi;Banjarmasin;Rp10.420.000;0;Rp10.420.000
+P-0382;05/08/2023;Aug-23;dipan;dipan luxury;1;C-042;Ibu Lina;Surabaya;Rp21.830.000;5;Rp20.738.500
+P-0383;06/08/2023;Aug-23;almari;almari lemari pakaian;1;C-078;Ibu Ermi;Semarang;Rp22.520.000;5;Rp21.394.000
+P-0384;09/08/2023;Aug-23;lemari;lemari es kayu;2;C-122;Bapak Taufik;Jakarta Utara;Rp14.530.000;5;Rp27.607.000
+P-0385;09/08/2023;Aug-23;rak;rak tv;1;C-071;Ibu Ermi;Jakarta Utara;Rp4.090.000;10;Rp3.681.000
+P-0386;11/08/2023;Aug-23;lemari;lemari gantung;1;C-024;Bapak Taufik;Jakarta Tengah;Rp11.960.000;0;Rp11.960.000
+P-0387;12/08/2023;Aug-23;almari;almari lemari pakaian;6;C-145;Bapak Sanusi;Kendal;Rp13.510.000;0;Rp81.060.000
+P-0389;15/08/2023;Aug-23;nakas;nakas 1 laci;3;C-044;Ibu Vina;Banjarmasin;Rp3.160.000;15;Rp8.058.000
+P-0388;15/08/2023;Aug-23;nakas;nakas 1 laci;1;C-059;Bapak Wicak;Jakarta Tengah;Rp3.570.000;20;Rp2.856.000
+P-0390;16/08/2023;Aug-23;kursi;kursi dining;4;C-027;Bapak Sutrio;Kediri;Rp6.400.000;20;Rp20.480.000
+P-0391;17/08/2023;Aug-23;meja_makan;meja makan persegi;1;C-051;Ibu Nani;Medan;Rp9.320.000;15;Rp7.922.000
+P-0392;18/08/2023;Aug-23;meja;meja belajar;1;C-101;Bapak Joko;Semarang;Rp9.170.000;5;Rp8.711.500
+P-0393;21/08/2023;Aug-23;sofa;sofa 2 seater;1;C-127;Bapak Agus;Banjarmasin;Rp14.430.000;0;Rp14.430.000
+P-0394;22/08/2023;Aug-23;meja;meja tamu;1;C-116;Ibu Ratna;Bekasi;Rp6.990.000;5;Rp6.640.500
+P-0395;24/08/2023;Aug-23;lemari;lemari pakaian;2;C-112;Ibu Lestari;Jakarta Timur;Rp6.690.000;20;Rp10.704.000
+P-0396;27/08/2023;Aug-23;meja_makan;meja makan persegi;1;C-129;Bapak Taufik;Jakarta Tengah;Rp9.550.000;5;Rp9.072.500
+P-0397;28/08/2023;Aug-23;nakas;nakas 1 laci;3;C-140;Bapak Wahab;Palembang;Rp2.960.000;0;Rp8.880.000
+P-0398;28/08/2023;Aug-23;cermin;cermin berdiri;1;C-056;Bapak Suli;Jogja;Rp5.610.000;5;Rp5.329.500
+P-0399;31/08/2023;Aug-23;nakas;nakas modern;3;C-003;Bapak Ahmad;Malang;Rp2.029.999;0;Rp6.089.997
+P-0400;01/09/2023;Sep-23;rak;rak dinding;2;C-035;Ibu Sela;Jakarta Barat;Rp5.740.000;0;Rp11.480.000
+P-0401;02/09/2023;Sep-23;meja_makan;meja makan bundar;2;C-097;Ibu Nani;Jakarta Utara;Rp13.380.000;15;Rp22.746.000
+P-0402;02/09/2023;Sep-23;meja;meja kerja;5;C-104;Ibu Rina;Semarang;Rp4.820.000;5;Rp22.895.000
+P-0403;04/09/2023;Sep-23;cermin;cermin dinding;2;C-030;Bapak Dedi;Tangerang;Rp7.070.000;10;Rp12.726.000
+P-0404;07/09/2023;Sep-23;cermin;cermin berdiri;1;C-057;Ibu Tini;Jakarta Tengah;Rp5.650.000;10;Rp5.085.000
+P-0405;09/09/2023;Sep-23;bale-bale;bale-bale modern;2;C-012;Bapak Rudi;Jakarta Utara;Rp8.000.000;15;Rp13.600.000
+P-0406;09/09/2023;Sep-23;nakas;nakas 1 laci;2;C-001;Ibu Nani;Purwokerto;Rp1.600.000;0;Rp3.200.000
+P-0407;10/09/2023;Sep-23;dipan;dipan modern;4;C-084;Ibu Hana;Jakarta Tengah;Rp20.090.000;25;Rp60.270.000
+P-0408;10/09/2023;Sep-23;kursi;kursi santai;1;C-037;Bapak Dedi;Makassar;Rp9.710.000;10;Rp8.739.000
+P-0409;12/09/2023;Sep-23;kursi;kursi dining;2;C-095;Ibu Tini;Pekanbaru;Rp7.870.000;5;Rp14.953.000
+P-0410;13/09/2023;Sep-23;meja_makan;meja makan bundar;2;C-027;Bapak Taufik;Banyumas;Rp12.650.000;0;Rp25.300.000
+P-0411;14/09/2023;Sep-23;kursi;kursi santai;5;C-082;Bapak Dedi;Depok;Rp2.180.000;0;Rp10.900.000
+P-0412;15/09/2023;Sep-23;lemari;lemari gantung;1;C-018;Ibu Lestari;Kendal;Rp11.100.000;0;Rp11.100.000
+P-0413;16/09/2023;Sep-23;lemari;lemari es kayu;2;C-063;Bapak Aris;Pekanbaru;Rp8.170.000;30;Rp11.438.000
+P-0414;17/09/2023;Sep-23;meja_makan;meja makan bundar;6;C-054;Ibu Ani;Semarang;Rp13.250.000;0;Rp79.500.000
+P-0415;17/09/2023;Sep-23;lemari;lemari gantung;2;C-127;Bapak Budi;Bandung;Rp9.360.000;0;Rp18.720.000
+P-0416;17/09/2023;Sep-23;kursi;kursi santai;2;C-073;Bapak Sutrio;Bogor;Rp7.970.000;10;Rp14.346.000
+P-0417;18/09/2023;Sep-23;meja;meja tamu;6;C-101;Ibu Tini;Bekasi;Rp9.030.000;0;Rp54.180.000
+P-0418;19/09/2023;Sep-23;rak;rak buku;2;C-045;Ibu Rina;Jakarta Barat;Rp4.540.000;10;Rp8.172.000
+P-0419;21/09/2023;Sep-23;meja_makan;meja makan folding;3;C-042;Bapak Sutrio;Banjarmasin;Rp4.070.000;0;Rp12.210.000
+P-0420;21/09/2023;Sep-23;lemari;lemari es kayu;4;C-036;Bapak Iman;Bandung;Rp5.970.000;25;Rp17.910.000
+P-0421;21/09/2023;Sep-23;rak;rak tv;6;C-084;Ibu Siti;Banjarmasin;Rp2.370.000;30;Rp9.954.000
+P-0424;23/09/2023;Sep-23;kursi;kursi santai;1;C-021;Bapak Taufik;Surabaya;Rp9.770.000;0;Rp9.770.000
+P-0423;23/09/2023;Sep-23;lemari;lemari es kayu;3;C-144;Bapak Sutrio;Medan;Rp9.620.000;15;Rp24.531.000
+P-0422;23/09/2023;Sep-23;cermin;cermin oval;6;C-041;Bapak Budi;Semarang;Rp6.330.000;0;Rp37.980.000
+P-0425;26/09/2023;Sep-23;nakas;nakas modern;2;C-114;Ibu Sela;Semarang;Rp3.970.000;0;Rp7.940.000
+P-0426;26/09/2023;Sep-23;sofa;sofa 3 seater;4;C-031;Ibu Mira;Kediri;Rp19.250.000;5;Rp73.150.000
+P-0427;27/09/2023;Sep-23;bale-bale;bale-bale modern;4;C-069;Ibu Ermi;Jakarta Tengah;Rp5.610.000;5;Rp21.318.000
+P-0428;29/09/2023;Sep-23;nakas;nakas 1 laci;3;C-083;Bapak Sutrio;Jakarta Selatan;Rp2.160.000;5;Rp6.156.000
+P-0429;30/09/2023;Sep-23;nakas;nakas minimalis;2;C-127;Bapak Seno;Banyumas;Rp3.700.000;15;Rp6.290.000
+P-0430;01/10/2023;Oct-23;cermin;cermin dinding;1;C-131;Ibu Tini;Solo;Rp5.880.000;10;Rp5.292.000
+P-0431;02/10/2023;Oct-23;sofa;sofa corner;2;C-113;Bapak Joko;Palembang;Rp10.520.000;0;Rp21.040.000
+P-0432;02/10/2023;Oct-23;kursi;kursi dining;2;C-106;Ibu Tini;Kediri;Rp7.480.000;25;Rp11.220.000
+P-0433;07/10/2023;Oct-23;bale-bale;bale-bale minimalis;5;C-038;Ibu Lina;Bandung;Rp4.810.000;0;Rp24.050.000
+P-0434;09/10/2023;Oct-23;lemari;lemari display;1;C-025;Ibu Xenia;Kediri;Rp8.250.000;0;Rp8.250.000
+P-0435;10/10/2023;Oct-23;bale-bale;bale-bale ukir;1;C-037;Bapak Wicak;Bogor;Rp3.010.000;0;Rp3.010.000
+P-0436;11/10/2023;Oct-23;meja_makan;meja makan bundar;2;C-077;Ibu Siti;Jakarta Timur;Rp8.540.000;0;Rp17.080.000
+P-0437;15/10/2023;Oct-23;dipan;dipan modern;1;C-112;Ibu Nani;Semarang;Rp24.610.000;25;Rp18.457.500
+P-0438;15/10/2023;Oct-23;almari;almari minimalis;3;C-117;Ibu Nani;Tangerang;Rp33.890.000;15;Rp86.419.500
+P-0439;17/10/2023;Oct-23;cermin;cermin modern;2;C-023;Ibu Ermi;Kediri;Rp2.570.000;30;Rp3.598.000
+P-0440;17/10/2023;Oct-23;bufet;bufet minimalis;1;C-144;Ibu Besta;Tangerang;Rp5.790.000;5;Rp5.500.500
+P-0441;17/10/2023;Oct-23;meja;meja makan;3;C-063;Bapak Suli;Jakarta Utara;Rp11.440.000;10;Rp30.888.000
+P-0442;19/10/2023;Oct-23;meja_makan;meja makan folding;6;C-096;Bapak Sutrio;Pekanbaru;Rp16.170.000;20;Rp77.616.000
+P-0443;21/10/2023;Oct-23;almari;almari lemari pakaian;5;C-090;Ibu Ratna;Semarang;Rp12.640.000;0;Rp63.200.000
+P-0444;23/10/2023;Oct-23;kursi;kursi tamu;1;C-066;Bapak Seno;Bandung;Rp6.420.000;15;Rp5.457.000
+P-0445;23/10/2023;Oct-23;kursi;kursi kantor;1;C-074;Bapak Tri;Bandung;Rp3.830.000;5;Rp3.638.500
+P-0446;24/10/2023;Oct-23;dipan;dipan classik;3;C-060;Bapak Wahab;Banyumas;Rp20.290.000;25;Rp45.652.500
+P-0447;26/10/2023;Oct-23;sofa;sofa 2 seater;3;C-143;Ibu Hana;Jakarta Selatan;Rp3.710.000;5;Rp10.573.500
+P-0448;26/10/2023;Oct-23;sofa;sofa 2 seater;4;C-126;Bapak Eko;Bogor;Rp19.330.000;10;Rp69.588.000
+P-0449;27/10/2023;Oct-23;sofa;sofa L-shape;1;C-132;Ibu Surya;Pekanbaru;Rp4.680.000;30;Rp3.276.000
+P-0450;01/11/2023;Nov-23;dipan;dipan classik;2;C-010;Ibu Xenia;Solo;Rp8.000.000;0;Rp16.000.000
+P-0451;01/11/2023;Nov-23;sofa;sofa corner;1;C-031;Ibu Ratna;Makassar;Rp5.720.000;10;Rp5.148.000
+P-0452;02/11/2023;Nov-23;lemari;lemari display;1;C-126;Ibu Surya;Pekanbaru;Rp5.850.000;15;Rp4.972.500
+P-0453;02/11/2023;Nov-23;sofa;sofa stool;2;C-055;Bapak Taufik;Palembang;Rp16.489.999;25;Rp24.734.999
+P-0454;03/11/2023;Nov-23;bale-bale;bale-bale modern;3;C-015;Ibu Putri;Banjarmasin;Rp6.460.000;0;Rp19.380.000
+P-0455;03/11/2023;Nov-23;bufet;bufet minimalis;1;C-108;Ibu Ermi;Depok;Rp9.890.000;5;Rp9.395.500
+P-0456;05/11/2023;Nov-23;lemari;lemari display;1;C-012;Bapak Yanto;Banjarmasin;Rp11.450.000;0;Rp11.450.000
+P-0457;05/11/2023;Nov-23;bale-bale;bale-bale minimalis;1;C-121;Bapak Tri;Banyumas;Rp4.810.000;15;Rp4.088.500
+P-0460;06/11/2023;Nov-23;bale-bale;bale-bale modern;2;C-008;Ibu Lina;Palembang;Rp8.930.000;5;Rp16.967.000
+P-0458;06/11/2023;Nov-23;kursi;kursi dining;2;C-097;Bapak Joko;Pekanbaru;Rp9.920.000;5;Rp18.848.000
+P-0459;06/11/2023;Nov-23;meja;meja console;2;C-086;Ibu Mira;Kendal;Rp4.670.000;0;Rp9.340.000
+P-0461;07/11/2023;Nov-23;bufet;bufet dapur;2;C-124;Bapak Dedi;Bekasi;Rp8.420.000;5;Rp15.998.000
+P-0462;07/11/2023;Nov-23;bufet;bufet dapur;1;C-109;Ibu Ani;Solo;Rp10.040.000;10;Rp9.036.000
+P-0463;07/11/2023;Nov-23;meja;meja kerja;1;C-042;Bapak Eko;Surabaya;Rp8.359.999;15;Rp7.105.999
+P-0464;08/11/2023;Nov-23;almari;almari 4 pintu;1;C-013;Ibu Ermi;Semarang;Rp24.240.000;5;Rp23.028.000
+P-0465;09/11/2023;Nov-23;meja_makan;meja makan persegi;1;C-076;Ibu Ani;Jakarta Timur;Rp12.110.000;5;Rp11.504.500
+P-0466;10/11/2023;Nov-23;cermin;cermin dinding;1;C-078;Bapak Budi;Jakarta Utara;Rp7.860.000;10;Rp7.074.000
+P-0467;17/11/2023;Nov-23;meja_makan;meja makan bundar;1;C-028;Bapak Sutrio;Jakarta Timur;Rp16.020.000;0;Rp16.020.000
+P-0468;18/11/2023;Nov-23;meja;meja rias;2;C-109;Ibu Lina;Makassar;Rp9.610.000;0;Rp19.220.000
+P-0469;20/11/2023;Nov-23;kursi;kursi dining;3;C-046;Bapak Taufik;Solo;Rp7.250.000;0;Rp21.750.000
+P-0470;21/11/2023;Nov-23;lemari;lemari pakaian;1;C-087;Bapak Eko;Medan;Rp6.110.000;5;Rp5.804.500
+P-0471;24/11/2023;Nov-23;meja_makan;meja makan folding;6;C-143;Ibu Tini;Jakarta Tengah;Rp15.070.000;0;Rp90.420.000
+P-0472;25/11/2023;Nov-23;kursi;kursi dining;1;C-045;Ibu Xenia;Bandung;Rp3.980.000;5;Rp3.781.000
+P-0473;25/11/2023;Nov-23;cermin;cermin modern;6;C-051;Bapak Joko;Semarang;Rp6.140.000;10;Rp33.156.000
+P-0474;25/11/2023;Nov-23;sofa;sofa stool;3;C-025;Bapak Rudi;Jakarta Barat;Rp17.480.000;10;Rp47.196.000
+P-0475;28/11/2023;Nov-23;sofa;sofa corner;1;C-091;Bapak Suli;Banyumas;Rp17.810.000;5;Rp16.919.500
+P-0476;29/11/2023;Nov-23;nakas;nakas 1 laci;3;C-029;Bapak Seno;Jakarta Barat;Rp2.320.000;5;Rp6.612.000
+P-0477;29/11/2023;Nov-23;lemari;lemari display;3;C-050;Ibu Lestari;Semarang;Rp10.140.000;0;Rp30.420.000
+P-0478;29/11/2023;Nov-23;bufet;bufet tv;2;C-067;Bapak Joko;Depok;Rp9.070.000;30;Rp12.698.000
+P-0481;01/12/2023;Dec-23;lemari;lemari es kayu;3;C-090;Ibu Rina;Bandung;Rp14.920.000;0;Rp44.760.000
+P-0482;01/12/2023;Dec-23;nakas;nakas minimalis;5;C-037;Bapak Suli;Pekanbaru;Rp2.910.000;5;Rp13.822.500
+P-0479;01/12/2023;Dec-23;nakas;nakas minimalis;3;C-061;Ibu Lestari;Semarang;Rp1.620.000;0;Rp4.860.000
+P-0480;01/12/2023;Dec-23;kursi;kursi gaming;6;C-019;Ibu Siti;Semarang;Rp1.610.000;0;Rp9.660.000
+P-0483;02/12/2023;Dec-23;cermin;cermin oval;3;C-046;Bapak Sanusi;Purwokerto;Rp5.600.000;20;Rp13.440.000
+P-0484;02/12/2023;Dec-23;meja_makan;meja makan bundar;2;C-125;Ibu Rina;Bogor;Rp10.170.000;0;Rp20.340.000
+P-0485;06/12/2023;Dec-23;sofa;sofa stool;2;C-040;Ibu Dewi;Banjarmasin;Rp12.950.000;0;Rp25.900.000
+P-0486;07/12/2023;Dec-23;meja;meja console;1;C-013;Bapak Aris;Semarang;Rp12.030.000;0;Rp12.030.000
+P-0487;11/12/2023;Dec-23;lemari;lemari pakaian;5;C-100;Bapak Rahmat;Kediri;Rp7.440.000;5;Rp35.340.000
+P-0488;12/12/2023;Dec-23;rak;rak dinding;3;C-094;Bapak Budi;Bogor;Rp1.840.000;0;Rp5.520.000
+P-0489;12/12/2023;Dec-23;kursi;kursi gaming;1;C-099;Ibu Mira;Banyumas;Rp8.250.000;0;Rp8.250.000
+P-0490;15/12/2023;Dec-23;nakas;nakas 3 laci;3;C-021;Bapak Rudi;Jakarta Tengah;Rp2.220.000;0;Rp6.660.000
+P-0491;15/12/2023;Dec-23;rak;rak buku;2;C-066;Bapak Sanusi;Kendal;Rp2.160.000;20;Rp3.456.000
+P-0492;18/12/2023;Dec-23;almari;almari 4 pintu;1;C-030;Bapak Aris;Makassar;Rp8.780.000;0;Rp8.780.000
+P-0493;19/12/2023;Dec-23;almari;almari lemari pakaian;1;C-012;Bapak Rudi;Makassar;Rp39.860.000;0;Rp39.860.000
+P-0494;20/12/2023;Dec-23;bale-bale;bale-bale modern;1;C-072;Bapak Ahmad;Kendal;Rp8.640.000;10;Rp7.776.000
+P-0495;24/12/2023;Dec-23;almari;almari minimalis;3;C-035;Bapak Budi;Jakarta Selatan;Rp13.350.000;0;Rp40.050.000
+P-0496;26/12/2023;Dec-23;kursi;kursi gaming;1;C-134;Ibu Yuli;Purwokerto;Rp8.270.000;5;Rp7.856.500
+P-0497;27/12/2023;Dec-23;nakas;nakas minimalis;4;C-018;Bapak Rahmat;Kediri;Rp2.500.000;10;Rp9.000.000
+P-0498;29/12/2023;Dec-23;bufet;bufet kayu;1;C-145;Ibu Siti;Kendal;Rp5.760.000;0;Rp5.760.000
+P-0499;31/12/2023;Dec-23;meja_makan;meja makan folding;2;C-093;Bapak Tri;Kediri;Rp14.260.000;20;Rp22.816.000
+P-0500;31/12/2023;Dec-23;bufet;bufet tv;5;C-083;Bapak Agus;Jakarta Utara;Rp4.530.000;0;Rp22.650.000
+P-0501;01/01/2024;Jan-24;bufet;bufet tv;1;C-007;Ibu Mira;Solo;Rp4.490.000;20;Rp3.592.000
+P-0502;02/01/2024;Jan-24;sofa;sofa stool;7;C-108;Bapak Suli;Jakarta Tengah;Rp8.240.000;5;Rp54.796.000
+P-0503;05/01/2024;Jan-24;dipan;dipan kayu jati;6;C-147;Ibu Besta;Kediri;Rp24.330.000;10;Rp131.382.000
+P-0504;05/01/2024;Jan-24;rak;rak buku;2;C-040;Ibu Lestari;Bekasi;Rp1.580.000;20;Rp2.528.000
+P-0507;06/01/2024;Jan-24;sofa;sofa L-shape;2;C-136;Bapak Aris;Jakarta Barat;Rp19.360.000;10;Rp34.848.000
+P-0506;06/01/2024;Jan-24;bufet;bufet tv;2;C-059;Bapak Taufik;Purwokerto;Rp4.490.000;20;Rp7.184.000
+P-0505;06/01/2024;Jan-24;lemari;lemari gantung;2;C-049;Bapak Rahmat;Surabaya;Rp4.690.000;5;Rp8.911.000
+P-0508;08/01/2024;Jan-24;nakas;nakas 3 laci;7;C-118;Ibu Hana;Jogja;Rp1.980.000;25;Rp10.395.000
+P-0509;09/01/2024;Jan-24;cermin;cermin berdiri;2;C-119;Bapak Iman;Jakarta Tengah;Rp2.150.000;10;Rp3.870.000
+P-0510;09/01/2024;Jan-24;bale-bale;bale-bale minimalis;6;C-027;Bapak Dedi;Bandung;Rp4.030.000;30;Rp16.926.000
+P-0511;10/01/2024;Jan-24;nakas;nakas minimalis;6;C-036;Ibu Rina;Makassar;Rp2.530.000;30;Rp10.626.000
+P-0512;11/01/2024;Jan-24;dipan;dipan luxury;7;C-036;Bapak Hendri;Bogor;Rp10.570.000;0;Rp73.990.000
+P-0513;13/01/2024;Jan-24;bufet;bufet kayu;2;C-109;Ibu Surya;Purwokerto;Rp4.920.000;15;Rp8.364.000
+P-0514;13/01/2024;Jan-24;lemari;lemari gantung;4;C-119;Bapak Iman;Palembang;Rp4.690.000;20;Rp15.008.000
+P-0515;13/01/2024;Jan-24;kursi;kursi gaming;7;C-014;Bapak Eko;Depok;Rp3.840.000;5;Rp25.536.000
+P-0516;15/01/2024;Jan-24;lemari;lemari es kayu;5;C-014;Ibu Putri;Depok;Rp10.740.000;20;Rp42.960.000
+P-0518;17/01/2024;Jan-24;cermin;cermin oval;1;C-090;Ibu Dewi;Jakarta Timur;Rp5.340.000;0;Rp5.340.000
+P-0517;17/01/2024;Jan-24;dipan;dipan classik;3;C-059;Bapak Taufik;Medan;Rp9.240.000;10;Rp24.948.000
+P-0519;18/01/2024;Jan-24;meja;meja makan;1;C-148;Bapak Yanto;Jakarta Barat;Rp10.990.000;25;Rp8.242.500
+P-0520;18/01/2024;Jan-24;meja_makan;meja makan persegi;5;C-148;Bapak Yanto;Jakarta Timur;Rp14.890.000;30;Rp52.115.000
+P-0521;18/01/2024;Jan-24;bale-bale;bale-bale minimalis;4;C-147;Ibu Besta;Jakarta Utara;Rp4.030.000;10;Rp14.508.000
+P-0522;20/01/2024;Jan-24;almari;almari 2 pintu;7;C-117;Bapak Wicak;Jakarta Selatan;Rp10.950.000;10;Rp68.985.000
+P-0523;20/01/2024;Jan-24;lemari;lemari gantung;2;C-147;Ibu Besta;Jakarta Utara;Rp4.690.000;10;Rp8.442.000
+P-0524;20/01/2024;Jan-24;sofa;sofa stool;6;C-015;Ibu Xenia;Medan;Rp8.240.000;25;Rp37.080.000
+P-0525;20/01/2024;Jan-24;kursi;kursi santai;1;C-125;Bapak Sanusi;Tangerang;Rp7.770.000;20;Rp6.216.000
+P-0526;20/01/2024;Jan-24;rak;rak sudut;7;C-118;Ibu Hana;Jakarta Tengah;Rp5.380.000;30;Rp26.362.000
+P-0527;20/01/2024;Jan-24;kursi;kursi dining;2;C-109;Ibu Surya;Depok;Rp4.730.000;5;Rp8.987.000
+P-0529;21/01/2024;Jan-24;sofa;sofa 3 seater;8;C-108;Bapak Suli;Makassar;Rp12.520.000;25;Rp75.120.000
+P-0528;21/01/2024;Jan-24;cermin;cermin classik;7;C-123;Ibu Vina;Kendal;Rp6.180.000;0;Rp43.260.000
+P-0530;23/01/2024;Jan-24;cermin;cermin berdiri;6;C-094;Ibu Ermi;Jogja;Rp2.150.000;15;Rp10.965.000
+P-0531;23/01/2024;Jan-24;bale-bale;bale-bale ukir;2;C-130;Ibu Yuli;Makassar;Rp9.470.000;30;Rp13.258.000
+P-0532;25/01/2024;Jan-24;kursi;kursi dining;1;C-045;Ibu Siti;Pekanbaru;Rp4.730.000;10;Rp4.257.000
+P-0533;25/01/2024;Jan-24;lemari;lemari display;8;C-045;Ibu Siti;Solo;Rp11.170.000;20;Rp71.488.000
+P-0534;27/01/2024;Jan-24;kursi;kursi santai;8;C-007;Ibu Mira;Palembang;Rp7.770.000;30;Rp43.512.000
+P-0535;27/01/2024;Jan-24;sofa;sofa L-shape;4;C-027;Bapak Dedi;Solo;Rp19.360.000;20;Rp61.952.000
+P-0536;28/01/2024;Jan-24;meja;meja rias;1;C-059;Bapak Taufik;Bandung;Rp10.660.000;0;Rp10.660.000
+P-0537;28/01/2024;Jan-24;dipan;dipan minimalis;4;C-027;Bapak Joko;Purwokerto;Rp12.470.000;25;Rp37.410.000
+P-0538;30/01/2024;Jan-24;cermin;cermin modern;6;C-089;Bapak Ahmad;Jogja;Rp6.480.000;10;Rp34.992.000
+P-0540;31/01/2024;Jan-24;rak;rak minimalis;6;C-147;Ibu Besta;Makassar;Rp5.900.000;15;Rp30.090.000
+P-0541;31/01/2024;Jan-24;lemari;lemari es kayu;6;C-014;Bapak Eko;Purwokerto;Rp10.740.000;30;Rp45.108.000
+P-0539;31/01/2024;Jan-24;dipan;dipan minimalis;4;C-130;Ibu Yuli;Malang;Rp12.470.000;10;Rp44.892.000
+P-0542;01/02/2024;Feb-24;almari;almari minimalis;5;C-007;Ibu Mira;Pekanbaru;Rp27.200.000;15;Rp115.600.000
+P-0543;01/02/2024;Feb-24;meja_makan;meja makan persegi;7;C-041;Ibu Sela;Banyumas;Rp14.890.000;5;Rp99.018.500
+P-0544;03/02/2024;Feb-24;meja_makan;meja makan folding;3;C-141;Bapak Agus;Solo;Rp17.690.000;30;Rp37.149.000
+P-0545;04/02/2024;Feb-24;cermin;cermin oval;4;C-133;Bapak Wahab;Jakarta Selatan;Rp5.340.000;20;Rp17.088.000
+P-0546;05/02/2024;Feb-24;sofa;sofa L-shape;5;C-015;Ibu Xenia;Medan;Rp19.360.000;15;Rp82.280.000
+P-0547;06/02/2024;Feb-24;sofa;sofa bed;5;C-108;Bapak Suli;Pekanbaru;Rp8.240.000;5;Rp39.140.000
+P-0548;06/02/2024;Feb-24;rak;rak tv;4;C-147;Ibu Besta;Semarang;Rp4.130.000;15;Rp14.042.000
+P-0549;06/02/2024;Feb-24;sofa;sofa 2 seater;6;C-059;Bapak Taufik;Tangerang;Rp12.140.000;25;Rp54.630.000
+P-0551;09/02/2024;Feb-24;bale-bale;bale-bale modern;6;C-060;Ibu Nani;Depok;Rp5.960.000;15;Rp30.396.000
+P-0550;09/02/2024;Feb-24;almari;almari 2 pintu;6;C-040;Ibu Lestari;Kendal;Rp10.950.000;10;Rp59.130.000
+P-0553;10/02/2024;Feb-24;dipan;dipan minimalis;5;C-026;Bapak Budi;Kediri;Rp12.470.000;30;Rp43.645.000
+P-0552;10/02/2024;Feb-24;cermin;cermin dinding;7;C-133;Ibu Ratna;Jogja;Rp7.290.000;15;Rp43.375.500
+P-0554;12/02/2024;Feb-24;sofa;sofa 2 seater;6;C-119;Bapak Iman;Banjarmasin;Rp12.140.000;15;Rp61.914.000
+P-0555;14/02/2024;Feb-24;cermin;cermin modern;7;C-007;Ibu Mira;Tangerang;Rp6.480.000;10;Rp40.824.000
+P-0556;15/02/2024;Feb-24;meja;meja belajar;4;C-147;Ibu Besta;Jakarta Barat;Rp13.350.000;30;Rp37.380.000
+P-0557;15/02/2024;Feb-24;lemari;lemari gantung;4;C-014;Ibu Putri;Surabaya;Rp4.690.000;30;Rp13.132.000
+P-0558;16/02/2024;Feb-24;lemari;lemari pakaian;6;C-014;Ibu Putri;Banjarmasin;Rp8.860.000;15;Rp45.186.000
+P-0559;18/02/2024;Feb-24;meja_makan;meja makan bundar;6;C-119;Bapak Iman;Purwokerto;Rp8.450.000;25;Rp38.025.000
+P-0560;20/02/2024;Feb-24;bufet;bufet dapur;1;C-027;Bapak Dedi;Depok;Rp9.290.000;10;Rp8.361.000
+P-0561;22/02/2024;Feb-24;sofa;sofa L-shape;5;C-040;Ibu Lestari;Depok;Rp19.360.000;0;Rp96.800.000
+P-0562;23/02/2024;Feb-24;nakas;nakas 2 laci;7;C-094;Ibu Ermi;Jakarta Selatan;Rp2.420.000;0;Rp16.940.000
+P-0563;25/02/2024;Feb-24;dipan;dipan luxury;6;C-089;Bapak Ahmad;Jakarta Utara;Rp10.570.000;30;Rp44.394.000
+P-0564;26/02/2024;Feb-24;bale-bale;bale-bale modern;3;C-141;Bapak Agus;Jogja;Rp5.960.000;5;Rp16.986.000
+P-0565;27/02/2024;Feb-24;kursi;kursi dining;8;C-147;Ibu Besta;Bogor;Rp4.730.000;0;Rp37.840.000
+P-0566;27/02/2024;Feb-24;dipan;dipan luxury;8;C-100;Ibu Tini;Palembang;Rp10.570.000;30;Rp59.192.000
+P-0567;28/02/2024;Feb-24;cermin;cermin oval;3;C-014;Bapak Eko;Purwokerto;Rp5.340.000;0;Rp16.020.000
+P-0568;29/02/2024;Feb-24;cermin;cermin dinding;3;C-027;Bapak Dedi;Tangerang;Rp7.290.000;20;Rp17.496.000
+P-0569;29/02/2024;Feb-24;rak;rak tv;1;C-124;Bapak Sutrio;Banjarmasin;Rp4.130.000;15;Rp3.510.500
+P-0570;01/03/2024;Mar-24;nakas;nakas minimalis;5;C-117;Bapak Wicak;Jakarta Utara;Rp2.530.000;30;Rp8.855.000
+P-0571;01/03/2024;Mar-24;kursi;kursi gaming;2;C-111;Ibu Zona;Semarang;Rp3.840.000;20;Rp6.144.000
+P-0572;02/03/2024;Mar-24;lemari;lemari display;1;C-015;Ibu Xenia;Surabaya;Rp11.170.000;15;Rp9.494.500
+P-0573;07/03/2024;Mar-24;meja;meja belajar;1;C-036;Bapak Hendri;Jakarta Tengah;Rp13.350.000;5;Rp12.682.500
+P-0577;09/03/2024;Mar-24;lemari;lemari es kayu;8;C-040;Ibu Lestari;Banjarmasin;Rp10.740.000;10;Rp77.328.000
+P-0576;09/03/2024;Mar-24;bale-bale;bale-bale ukir;2;C-133;Bapak Wahab;Jakarta Timur;Rp9.470.000;25;Rp14.205.000
+P-0574;09/03/2024;Mar-24;kursi;kursi makan;7;C-049;Bapak Rahmat;Depok;Rp3.080.000;20;Rp17.248.000
+P-0575;09/03/2024;Mar-24;bale-bale;bale-bale modern;1;C-111;Ibu Zona;Kendal;Rp5.960.000;5;Rp5.662.000
+P-0578;10/03/2024;Mar-24;almari;almari 4 pintu;1;C-124;Bapak Sutrio;Surabaya;Rp35.450.000;10;Rp31.905.000
+P-0579;10/03/2024;Mar-24;meja_makan;meja makan folding;6;C-026;Bapak Budi;Jakarta Tengah;Rp17.690.000;5;Rp100.833.000
+P-0580;11/03/2024;Mar-24;rak;rak minimalis;8;C-117;Bapak Wicak;Jakarta Timur;Rp5.900.000;0;Rp47.200.000
+P-0581;11/03/2024;Mar-24;nakas;nakas 2 laci;8;C-007;Ibu Mira;Bekasi;Rp2.420.000;20;Rp15.488.000
+P-0582;12/03/2024;Mar-24;sofa;sofa bed;6;C-004;Ibu Ani;Jakarta Utara;Rp8.240.000;15;Rp42.024.000
+P-0583;12/03/2024;Mar-24;almari;almari 2 pintu;3;C-015;Ibu Xenia;Jakarta Utara;Rp10.950.000;25;Rp24.637.500
+P-0584;12/03/2024;Mar-24;dipan;dipan minimalis;2;C-015;Ibu Xenia;Semarang;Rp12.470.000;25;Rp18.705.000
+P-0585;14/03/2024;Mar-24;bufet;bufet kayu;6;C-123;Bapak Seno;Kendal;Rp4.920.000;0;Rp29.520.000
+P-0586;14/03/2024;Mar-24;dipan;dipan luxury;8;C-141;Bapak Agus;Banjarmasin;Rp10.570.000;25;Rp63.420.000
+P-0590;16/03/2024;Mar-24;cermin;cermin modern;5;C-123;Bapak Seno;Semarang;Rp6.480.000;0;Rp32.400.000
+P-0589;16/03/2024;Mar-24;cermin;cermin berdiri;2;C-111;Bapak Tri;Jakarta Barat;Rp2.150.000;20;Rp3.440.000
+P-0587;16/03/2024;Mar-24;nakas;nakas modern;8;C-036;Bapak Hendri;Kendal;Rp3.930.000;25;Rp23.580.000
+P-0588;16/03/2024;Mar-24;lemari;lemari gantung;1;C-130;Ibu Yuli;Jakarta Selatan;Rp4.690.000;10;Rp4.221.000
+P-0591;21/03/2024;Mar-24;almari;almari lemari pakaian;4;C-133;Bapak Wahab;Jakarta Barat;Rp31.920.000;0;Rp127.680.000
+P-0592;21/03/2024;Mar-24;dipan;dipan modern;3;C-040;Ibu Lestari;Pekanbaru;Rp22.220.000;30;Rp46.662.000
+P-0593;21/03/2024;Mar-24;sofa;sofa corner;4;C-015;Ibu Xenia;Bandung;Rp14.050.000;15;Rp47.770.000
+P-0594;22/03/2024;Mar-24;almari;almari 3 pintu;7;C-049;Bapak Rahmat;Jakarta Barat;Rp19.810.000;30;Rp97.069.000
+P-0595;23/03/2024;Mar-24;nakas;nakas 3 laci;4;C-004;Ibu Ani;Palembang;Rp1.980.000;15;Rp6.732.000
+P-0596;25/03/2024;Mar-24;sofa;sofa bed;1;C-147;Ibu Besta;Jogja;Rp8.240.000;10;Rp7.416.000
+P-0597;28/03/2024;Mar-24;bufet;bufet dapur;3;C-036;Bapak Hendri;Jakarta Barat;Rp9.290.000;5;Rp26.476.500
+P-0598;30/03/2024;Mar-24;dipan;dipan minimalis;2;C-045;Ibu Siti;Kediri;Rp12.470.000;20;Rp19.952.000
+P-0599;31/03/2024;Mar-24;kursi;kursi tamu;5;C-036;Bapak Hendri;Bandung;Rp2.069.999;20;Rp8.279.996
+P-0600;01/04/2024;Apr-24;meja_makan;meja makan bundar;6;C-133;Bapak Wahab;Solo;Rp8.450.000;30;Rp35.490.000
+P-0601;01/04/2024;Apr-24;kursi;kursi tamu;8;C-027;Bapak Joko;Jakarta Timur;Rp2.069.999;30;Rp11.591.994
+P-0602;02/04/2024;Apr-24;meja;meja tamu;3;C-026;Bapak Budi;Kendal;Rp13.170.000;25;Rp29.632.500
+P-0603;03/04/2024;Apr-24;cermin;cermin classik;3;C-141;Bapak Agus;Pekanbaru;Rp6.180.000;30;Rp12.978.000
+P-0604;05/04/2024;Apr-24;meja;meja makan;3;C-109;Ibu Surya;Palembang;Rp10.990.000;15;Rp28.024.500
+P-0605;05/04/2024;Apr-24;rak;rak buku;3;C-118;Ibu Hana;Jakarta Tengah;Rp1.580.000;5;Rp4.503.000
+P-0606;05/04/2024;Apr-24;kursi;kursi santai;1;C-133;Ibu Ratna;Solo;Rp7.770.000;20;Rp6.216.000
+P-0607;06/04/2024;Apr-24;rak;rak buku;5;C-014;Bapak Eko;Jakarta Utara;Rp1.580.000;10;Rp7.110.000
+P-0608;07/04/2024;Apr-24;nakas;nakas 2 laci;4;C-014;Bapak Eko;Semarang;Rp2.420.000;0;Rp9.680.000
+P-0610;11/04/2024;Apr-24;bufet;bufet minimalis;1;C-141;Bapak Agus;Makassar;Rp11.140.000;10;Rp10.026.000
+P-0611;11/04/2024;Apr-24;almari;almari minimalis;1;C-123;Ibu Vina;Surabaya;Rp27.200.000;25;Rp20.400.000
+P-0609;11/04/2024;Apr-24;kursi;kursi makan;2;C-027;Bapak Joko;Surabaya;Rp3.080.000;5;Rp5.852.000
+P-0612;12/04/2024;Apr-24;nakas;nakas 3 laci;6;C-007;Ibu Mira;Depok;Rp1.980.000;15;Rp10.098.000
+P-0613;13/04/2024;Apr-24;lemari;lemari display;5;C-014;Ibu Putri;Jogja;Rp11.170.000;15;Rp47.472.500
+P-0614;13/04/2024;Apr-24;meja;meja console;6;C-014;Ibu Putri;Pekanbaru;Rp8.980.000;5;Rp51.186.000
+P-0615;14/04/2024;Apr-24;dipan;dipan classik;7;C-133;Bapak Wahab;Jakarta Tengah;Rp9.240.000;0;Rp64.680.000
+P-0616;14/04/2024;Apr-24;nakas;nakas 3 laci;4;C-117;Bapak Wicak;Jakarta Selatan;Rp1.980.000;5;Rp7.524.000
+P-0617;15/04/2024;Apr-24;meja;meja rias;3;C-118;Ibu Hana;Jogja;Rp10.660.000;0;Rp31.980.000
+P-0618;16/04/2024;Apr-24;meja;meja rias;8;C-014;Bapak Eko;Jakarta Tengah;Rp10.660.000;5;Rp81.016.000
+P-0619;16/04/2024;Apr-24;dipan;dipan modern;5;C-045;Ibu Siti;Medan;Rp22.220.000;10;Rp99.990.000
+P-0620;17/04/2024;Apr-24;lemari;lemari gantung;3;C-133;Bapak Wahab;Bekasi;Rp4.690.000;10;Rp12.663.000
+P-0621;17/04/2024;Apr-24;rak;rak dinding;2;C-148;Bapak Yanto;Jogja;Rp1.880.000;30;Rp2.632.000
+P-0623;18/04/2024;Apr-24;bale-bale;bale-bale minimalis;4;C-004;Ibu Ani;Solo;Rp4.030.000;0;Rp16.120.000
+P-0622;18/04/2024;Apr-24;lemari;lemari pakaian;5;C-004;Ibu Ani;Palembang;Rp8.860.000;30;Rp31.010.000
+P-0624;19/04/2024;Apr-24;bale-bale;bale-bale modern;4;C-141;Bapak Agus;Medan;Rp5.960.000;20;Rp19.072.000
+P-0625;19/04/2024;Apr-24;rak;rak sudut;6;C-133;Ibu Ratna;Jogja;Rp5.380.000;0;Rp32.280.000
+P-0626;21/04/2024;Apr-24;kursi;kursi santai;8;C-040;Ibu Lestari;Jakarta Barat;Rp7.770.000;5;Rp59.052.000
+P-0627;21/04/2024;Apr-24;nakas;nakas 1 laci;2;C-060;Ibu Nani;Tangerang;Rp2.550.000;15;Rp4.335.000
+P-0628;24/04/2024;Apr-24;meja_makan;meja makan persegi;4;C-108;Bapak Suli;Jakarta Selatan;Rp14.890.000;20;Rp47.648.000
+P-0629;25/04/2024;Apr-24;meja;meja belajar;5;C-111;Ibu Zona;Palembang;Rp13.350.000;25;Rp50.062.500
+P-0630;25/04/2024;Apr-24;sofa;sofa bed;6;C-027;Bapak Dedi;Jakarta Barat;Rp8.240.000;20;Rp39.552.000
+P-0631;26/04/2024;Apr-24;bale-bale;bale-bale modern;6;C-147;Ibu Besta;Bogor;Rp5.960.000;10;Rp32.184.000
+P-0632;26/04/2024;Apr-24;almari;almari 3 pintu;5;C-141;Bapak Agus;Malang;Rp19.810.000;20;Rp79.240.000
+P-0633;26/04/2024;Apr-24;dipan;dipan minimalis;1;C-109;Ibu Surya;Jakarta Utara;Rp12.470.000;30;Rp8.729.000
+P-0636;28/04/2024;Apr-24;bale-bale;bale-bale ukir;3;C-117;Bapak Wicak;Makassar;Rp9.470.000;10;Rp25.569.000
+P-0634;28/04/2024;Apr-24;cermin;cermin berdiri;8;C-014;Ibu Putri;Jakarta Utara;Rp2.150.000;10;Rp15.480.000
+P-0635;28/04/2024;Apr-24;bale-bale;bale-bale modern;5;C-090;Ibu Dewi;Makassar;Rp5.960.000;10;Rp26.820.000
+P-0637;29/04/2024;Apr-24;lemari;lemari pakaian;7;C-111;Ibu Zona;Surabaya;Rp8.860.000;0;Rp62.020.000
+P-0638;01/05/2024;May-24;almari;almari lemari pakaian;5;C-100;Ibu Tini;Jakarta Utara;Rp31.920.000;25;Rp119.700.000
+P-0639;03/05/2024;May-24;bufet;bufet kayu;3;C-006;Ibu Lina;Bekasi;Rp4.920.000;5;Rp14.022.000
+P-0640;03/05/2024;May-24;lemari;lemari display;6;C-123;Ibu Vina;Banyumas;Rp11.170.000;20;Rp53.616.000
+P-0641;04/05/2024;May-24;bufet;bufet tv;3;C-133;Bapak Wahab;Solo;Rp4.490.000;15;Rp11.449.500
+P-0642;04/05/2024;May-24;bufet;bufet minimalis;7;C-109;Ibu Surya;Purwokerto;Rp11.140.000;20;Rp62.384.000
+P-0643;05/05/2024;May-24;lemari;lemari gantung;2;C-108;Bapak Suli;Makassar;Rp4.690.000;0;Rp9.380.000
+P-0645;09/05/2024;May-24;bufet;bufet minimalis;6;C-148;Bapak Yanto;Bogor;Rp11.140.000;30;Rp46.788.000
+P-0644;09/05/2024;May-24;bufet;bufet dapur;2;C-094;Ibu Ermi;Bekasi;Rp9.290.000;15;Rp15.793.000
+P-0646;11/05/2024;May-24;bale-bale;bale-bale minimalis;6;C-004;Ibu Ani;Solo;Rp4.030.000;20;Rp19.344.000
+P-0647;11/05/2024;May-24;dipan;dipan kayu jati;2;C-026;Bapak Budi;Jogja;Rp24.330.000;5;Rp46.227.000
+P-0648;13/05/2024;May-24;kursi;kursi kantor;7;C-111;Bapak Tri;Semarang;Rp9.430.000;25;Rp49.507.500
+P-0649;14/05/2024;May-24;kursi;kursi makan;4;C-125;Bapak Sanusi;Jakarta Tengah;Rp3.080.000;30;Rp8.624.000
+P-0650;14/05/2024;May-24;sofa;sofa 2 seater;5;C-147;Ibu Besta;Bekasi;Rp12.140.000;30;Rp42.490.000
+P-0651;15/05/2024;May-24;meja;meja rias;3;C-123;Ibu Vina;Depok;Rp10.660.000;30;Rp22.386.000
+P-0652;17/05/2024;May-24;meja_makan;meja makan persegi;3;C-045;Ibu Siti;Tangerang;Rp14.890.000;30;Rp31.269.000
+P-0653;17/05/2024;May-24;lemari;lemari gantung;7;C-006;Ibu Lina;Surabaya;Rp4.690.000;20;Rp26.264.000
+P-0654;18/05/2024;May-24;bufet;bufet kayu;8;C-118;Ibu Hana;Solo;Rp4.920.000;25;Rp29.520.000
+P-0656;19/05/2024;May-24;sofa;sofa bed;3;C-141;Bapak Agus;Bekasi;Rp8.240.000;15;Rp21.012.000
+P-0657;19/05/2024;May-24;bale-bale;bale-bale ukir;7;C-123;Ibu Vina;Kendal;Rp9.470.000;20;Rp53.032.000
+P-0655;19/05/2024;May-24;bufet;bufet dapur;3;C-041;Ibu Sela;Jogja;Rp9.290.000;10;Rp25.083.000
+P-0660;20/05/2024;May-24;bale-bale;bale-bale modern;4;C-119;Bapak Iman;Purwokerto;Rp5.960.000;15;Rp20.264.000
+P-0658;20/05/2024;May-24;meja;meja kerja;1;C-141;Bapak Agus;Palembang;Rp6.000.000;20;Rp4.800.000
+P-0659;20/05/2024;May-24;lemari;lemari pakaian;1;C-006;Ibu Lina;Bekasi;Rp8.860.000;15;Rp7.531.000
+P-0661;22/05/2024;May-24;kursi;kursi makan;5;C-090;Ibu Dewi;Jakarta Barat;Rp3.080.000;25;Rp11.550.000
+P-0662;22/05/2024;May-24;kursi;kursi santai;6;C-089;Bapak Ahmad;Jakarta Tengah;Rp7.770.000;20;Rp37.296.000
+P-0663;23/05/2024;May-24;bufet;bufet tv;6;C-133;Ibu Ratna;Banjarmasin;Rp4.490.000;0;Rp26.940.000
+P-0664;24/05/2024;May-24;meja_makan;meja makan persegi;2;C-136;Bapak Aris;Makassar;Rp14.890.000;10;Rp26.802.000
+P-0665;24/05/2024;May-24;rak;rak tv;3;C-123;Ibu Vina;Solo;Rp4.130.000;20;Rp9.912.000
+P-0666;25/05/2024;May-24;bufet;bufet minimalis;2;C-014;Ibu Putri;Purwokerto;Rp11.140.000;20;Rp17.824.000
+P-0667;26/05/2024;May-24;bale-bale;bale-bale modern;1;C-125;Bapak Sanusi;Tangerang;Rp5.960.000;15;Rp5.066.000
+P-0668;26/05/2024;May-24;dipan;dipan classik;5;C-147;Ibu Besta;Jakarta Timur;Rp9.240.000;10;Rp41.580.000
+P-0669;26/05/2024;May-24;kursi;kursi tamu;5;C-111;Bapak Tri;Kendal;Rp2.069.999;25;Rp7.762.496
+P-0671;27/05/2024;May-24;meja;meja makan;8;C-141;Bapak Agus;Palembang;Rp10.990.000;30;Rp61.544.000
+P-0670;27/05/2024;May-24;meja_makan;meja makan bundar;6;C-006;Ibu Lina;Banjarmasin;Rp8.450.000;15;Rp43.095.000
+P-0672;28/05/2024;May-24;rak;rak tv;8;C-117;Bapak Wicak;Jogja;Rp4.130.000;15;Rp28.084.000
+P-0673;28/05/2024;May-24;cermin;cermin classik;3;C-040;Ibu Lestari;Surabaya;Rp6.180.000;10;Rp16.686.000
+P-0674;29/05/2024;May-24;kursi;kursi dining;3;C-123;Ibu Vina;Jakarta Tengah;Rp4.730.000;5;Rp13.480.500
+P-0675;31/05/2024;May-24;cermin;cermin modern;1;C-111;Ibu Zona;Makassar;Rp6.480.000;25;Rp4.860.000
+P-0676;01/06/2024;Jun-24;meja_makan;meja makan persegi;5;C-147;Ibu Besta;Jakarta Tengah;Rp14.890.000;5;Rp70.727.500
+P-0677;03/06/2024;Jun-24;nakas;nakas 2 laci;8;C-109;Ibu Surya;Jakarta Timur;Rp2.420.000;5;Rp18.392.000
+P-0678;05/06/2024;Jun-24;sofa;sofa L-shape;7;C-049;Bapak Rahmat;Semarang;Rp19.360.000;5;Rp128.744.000
+P-0679;05/06/2024;Jun-24;almari;almari minimalis;8;C-049;Bapak Rahmat;Jakarta Timur;Rp27.200.000;30;Rp152.320.000
+P-0680;06/06/2024;Jun-24;sofa;sofa stool;6;C-006;Ibu Lina;Jakarta Timur;Rp8.240.000;0;Rp49.440.000
+P-0681;07/06/2024;Jun-24;meja_makan;meja makan folding;8;C-108;Bapak Suli;Banyumas;Rp17.690.000;0;Rp141.520.000
+P-0682;08/06/2024;Jun-24;lemari;lemari es kayu;3;C-117;Bapak Wicak;Purwokerto;Rp10.740.000;10;Rp28.998.000
+P-0683;10/06/2024;Jun-24;almari;almari 4 pintu;4;C-014;Bapak Eko;Kendal;Rp35.450.000;10;Rp127.620.000
+P-0684;10/06/2024;Jun-24;cermin;cermin dinding;2;C-133;Ibu Ratna;Bekasi;Rp7.290.000;5;Rp13.851.000
+P-0685;11/06/2024;Jun-24;almari;almari 3 pintu;7;C-125;Bapak Sanusi;Solo;Rp19.810.000;25;Rp104.002.500
+P-0686;12/06/2024;Jun-24;meja;meja rias;2;C-041;Ibu Sela;Jakarta Utara;Rp10.660.000;10;Rp19.188.000
+P-0687;13/06/2024;Jun-24;lemari;lemari gantung;7;C-133;Ibu Ratna;Makassar;Rp4.690.000;0;Rp32.830.000
+P-0688;14/06/2024;Jun-24;dipan;dipan minimalis;3;C-015;Ibu Xenia;Bandung;Rp12.470.000;15;Rp31.798.500
+P-0689;15/06/2024;Jun-24;nakas;nakas minimalis;6;C-123;Bapak Seno;Banyumas;Rp2.530.000;30;Rp10.626.000
+P-0690;16/06/2024;Jun-24;kursi;kursi santai;1;C-111;Ibu Zona;Jakarta Timur;Rp7.770.000;10;Rp6.993.000
+P-0692;17/06/2024;Jun-24;almari;almari lemari pakaian;3;C-027;Bapak Joko;Pekanbaru;Rp31.920.000;15;Rp81.396.000
+P-0693;17/06/2024;Jun-24;sofa;sofa corner;2;C-100;Ibu Tini;Jakarta Selatan;Rp14.050.000;10;Rp25.290.000
+P-0691;17/06/2024;Jun-24;bufet;bufet kayu;3;C-094;Ibu Ermi;Banyumas;Rp4.920.000;10;Rp13.284.000
+P-0694;18/06/2024;Jun-24;lemari;lemari pakaian;8;C-130;Ibu Yuli;Bekasi;Rp8.860.000;25;Rp53.160.000
+P-0695;20/06/2024;Jun-24;kursi;kursi dining;5;C-045;Ibu Siti;Jakarta Selatan;Rp4.730.000;30;Rp16.555.000
+P-0696;22/06/2024;Jun-24;dipan;dipan modern;5;C-100;Ibu Tini;Makassar;Rp22.220.000;10;Rp99.990.000
+P-0697;22/06/2024;Jun-24;bale-bale;bale-bale minimalis;5;C-111;Ibu Zona;Jakarta Utara;Rp4.030.000;30;Rp14.105.000
+P-0698;23/06/2024;Jun-24;rak;rak dinding;4;C-119;Bapak Iman;Makassar;Rp1.880.000;0;Rp7.520.000
+P-0699;23/06/2024;Jun-24;meja_makan;meja makan bundar;3;C-141;Bapak Agus;Banyumas;Rp8.450.000;5;Rp24.082.500
+P-0700;23/06/2024;Jun-24;kursi;kursi tamu;3;C-004;Ibu Ani;Makassar;Rp2.069.999;20;Rp4.967.998
+P-0701;23/06/2024;Jun-24;dipan;dipan classik;2;C-094;Bapak Rudi;Jogja;Rp9.240.000;15;Rp15.708.000
+P-0702;24/06/2024;Jun-24;rak;rak buku;7;C-100;Ibu Tini;Kendal;Rp1.580.000;10;Rp9.954.000
+P-0703;25/06/2024;Jun-24;meja_makan;meja makan folding;5;C-094;Bapak Rudi;Surabaya;Rp17.690.000;15;Rp75.182.500
+P-0705;26/06/2024;Jun-24;nakas;nakas 2 laci;6;C-118;Ibu Hana;Semarang;Rp2.420.000;20;Rp11.616.000
+P-0704;26/06/2024;Jun-24;rak;rak sudut;7;C-100;Ibu Tini;Bogor;Rp5.380.000;15;Rp32.011.000
+P-0706;27/06/2024;Jun-24;cermin;cermin dinding;4;C-130;Ibu Yuli;Jakarta Barat;Rp7.290.000;0;Rp29.160.000
+P-0707;28/06/2024;Jun-24;dipan;dipan modern;4;C-130;Ibu Yuli;Bogor;Rp22.220.000;30;Rp62.216.000
+P-0708;29/06/2024;Jun-24;cermin;cermin dinding;5;C-036;Ibu Rina;Banyumas;Rp7.290.000;0;Rp36.450.000
+P-0709;30/06/2024;Jun-24;meja;meja console;8;C-007;Ibu Mira;Banjarmasin;Rp8.980.000;20;Rp57.472.000
+P-0710;01/07/2024;Jul-24;rak;rak sudut;4;C-124;Bapak Sutrio;Pekanbaru;Rp5.380.000;5;Rp20.444.000
+P-0711;01/07/2024;Jul-24;rak;rak dinding;2;C-006;Ibu Lina;Kediri;Rp1.880.000;30;Rp2.632.000
+P-0712;02/07/2024;Jul-24;sofa;sofa L-shape;8;C-141;Bapak Agus;Banjarmasin;Rp19.360.000;10;Rp139.392.000
+P-0713;02/07/2024;Jul-24;rak;rak dinding;2;C-123;Ibu Vina;Banjarmasin;Rp1.880.000;30;Rp2.632.000
+P-0714;02/07/2024;Jul-24;bufet;bufet dapur;5;C-015;Ibu Xenia;Depok;Rp9.290.000;10;Rp41.805.000
+P-0715;04/07/2024;Jul-24;bale-bale;bale-bale ukir;5;C-040;Ibu Lestari;Bogor;Rp9.470.000;0;Rp47.350.000
+P-0716;06/07/2024;Jul-24;lemari;lemari gantung;8;C-108;Bapak Suli;Palembang;Rp4.690.000;30;Rp26.264.000
+P-0717;07/07/2024;Jul-24;cermin;cermin berdiri;5;C-108;Bapak Suli;Bandung;Rp2.150.000;25;Rp8.062.500
+P-0718;09/07/2024;Jul-24;meja;meja rias;8;C-117;Bapak Wicak;Jakarta Tengah;Rp10.660.000;30;Rp59.696.000
+P-0719;10/07/2024;Jul-24;meja;meja belajar;7;C-090;Ibu Dewi;Jakarta Barat;Rp13.350.000;0;Rp93.450.000
+P-0720;10/07/2024;Jul-24;rak;rak minimalis;8;C-006;Ibu Lina;Banjarmasin;Rp5.900.000;10;Rp42.480.000
+P-0721;12/07/2024;Jul-24;bufet;bufet kayu;4;C-059;Bapak Taufik;Jakarta Utara;Rp4.920.000;30;Rp13.776.000
+P-0722;13/07/2024;Jul-24;meja;meja makan;5;C-090;Ibu Dewi;Banjarmasin;Rp10.990.000;25;Rp41.212.500
+P-0723;14/07/2024;Jul-24;lemari;lemari gantung;6;C-026;Bapak Budi;Pekanbaru;Rp4.690.000;15;Rp23.919.000
+P-0724;15/07/2024;Jul-24;meja;meja makan;3;C-119;Bapak Iman;Bandung;Rp10.990.000;20;Rp26.376.000
+P-0730;17/07/2024;Jul-24;lemari;lemari gantung;2;C-094;Bapak Rudi;Bandung;Rp4.690.000;5;Rp8.911.000
+P-0729;17/07/2024;Jul-24;meja_makan;meja makan persegi;2;C-141;Bapak Agus;Medan;Rp14.890.000;5;Rp28.291.000
+P-0728;17/07/2024;Jul-24;lemari;lemari display;5;C-049;Bapak Rahmat;Banyumas;Rp11.170.000;0;Rp55.850.000
+P-0727;17/07/2024;Jul-24;meja_makan;meja makan persegi;1;C-014;Bapak Eko;Malang;Rp14.890.000;25;Rp11.167.500
+P-0726;17/07/2024;Jul-24;cermin;cermin classik;2;C-123;Bapak Seno;Kendal;Rp6.180.000;25;Rp9.270.000
+P-0725;17/07/2024;Jul-24;bale-bale;bale-bale ukir;3;C-014;Bapak Eko;Malang;Rp9.470.000;5;Rp26.989.500
+P-0731;19/07/2024;Jul-24;almari;almari 3 pintu;1;C-125;Bapak Sanusi;Jogja;Rp19.810.000;15;Rp16.838.500
+P-0732;19/07/2024;Jul-24;meja_makan;meja makan folding;4;C-119;Bapak Iman;Jakarta Tengah;Rp17.690.000;15;Rp60.146.000
+P-0733;20/07/2024;Jul-24;almari;almari 3 pintu;8;C-111;Bapak Tri;Bandung;Rp19.810.000;20;Rp126.784.000
+P-0734;21/07/2024;Jul-24;nakas;nakas 1 laci;2;C-141;Bapak Agus;Pekanbaru;Rp2.550.000;5;Rp4.845.000
+P-0735;21/07/2024;Jul-24;bufet;bufet tv;3;C-014;Ibu Putri;Jakarta Tengah;Rp4.490.000;0;Rp13.470.000
+P-0736;22/07/2024;Jul-24;lemari;lemari pakaian;7;C-014;Ibu Putri;Purwokerto;Rp8.860.000;25;Rp46.515.000
+P-0740;23/07/2024;Jul-24;dipan;dipan classik;1;C-108;Bapak Suli;Pekanbaru;Rp9.240.000;15;Rp7.854.000
+P-0739;23/07/2024;Jul-24;kursi;kursi makan;4;C-108;Bapak Suli;Surabaya;Rp3.080.000;5;Rp11.704.000
+P-0738;23/07/2024;Jul-24;sofa;sofa L-shape;1;C-094;Bapak Rudi;Bandung;Rp19.360.000;25;Rp14.520.000
+P-0737;23/07/2024;Jul-24;bale-bale;bale-bale ukir;3;C-036;Bapak Hendri;Kendal;Rp9.470.000;25;Rp21.307.500
+P-0741;24/07/2024;Jul-24;lemari;lemari pakaian;8;C-015;Ibu Xenia;Medan;Rp8.860.000;10;Rp63.792.000
+P-0742;24/07/2024;Jul-24;cermin;cermin berdiri;1;C-111;Ibu Zona;Kendal;Rp2.150.000;10;Rp1.935.000
+P-0743;25/07/2024;Jul-24;bale-bale;bale-bale minimalis;1;C-040;Ibu Lestari;Bekasi;Rp4.030.000;20;Rp3.224.000
+P-0744;25/07/2024;Jul-24;cermin;cermin berdiri;5;C-111;Ibu Zona;Semarang;Rp2.150.000;20;Rp8.600.000
+P-0745;26/07/2024;Jul-24;meja;meja console;2;C-136;Bapak Aris;Semarang;Rp8.980.000;25;Rp13.470.000
+P-0746;31/07/2024;Jul-24;sofa;sofa corner;6;C-123;Ibu Vina;Jakarta Selatan;Rp14.050.000;10;Rp75.870.000
+P-0747;03/08/2024;Aug-24;bufet;bufet minimalis;5;C-027;Bapak Joko;Bandung;Rp11.140.000;20;Rp44.560.000
+P-0748;04/08/2024;Aug-24;almari;almari lemari pakaian;5;C-109;Ibu Surya;Jakarta Utara;Rp31.920.000;30;Rp111.720.000
+P-0750;05/08/2024;Aug-24;meja_makan;meja makan persegi;5;C-109;Ibu Surya;Surabaya;Rp14.890.000;20;Rp59.560.000
+P-0749;05/08/2024;Aug-24;cermin;cermin oval;8;C-111;Bapak Tri;Jakarta Barat;Rp5.340.000;25;Rp32.040.000
+P-0753;06/08/2024;Aug-24;dipan;dipan minimalis;5;C-109;Ibu Surya;Depok;Rp12.470.000;5;Rp59.232.500
+P-0751;06/08/2024;Aug-24;rak;rak minimalis;2;C-125;Bapak Sanusi;Depok;Rp5.900.000;5;Rp11.210.000
+P-0752;06/08/2024;Aug-24;rak;rak tv;2;C-100;Ibu Tini;Bandung;Rp4.130.000;10;Rp7.434.000
+P-0754;07/08/2024;Aug-24;meja;meja rias;8;C-111;Bapak Tri;Depok;Rp10.660.000;15;Rp72.488.000
+P-0755;08/08/2024;Aug-24;rak;rak sudut;2;C-045;Ibu Siti;Jakarta Timur;Rp5.380.000;10;Rp9.684.000
+P-0756;10/08/2024;Aug-24;almari;almari 4 pintu;2;C-108;Bapak Suli;Depok;Rp35.450.000;25;Rp53.175.000
+P-0757;10/08/2024;Aug-24;meja_makan;meja makan persegi;6;C-124;Bapak Sutrio;Malang;Rp14.890.000;15;Rp75.939.000
+P-0758;12/08/2024;Aug-24;almari;almari 2 pintu;6;C-036;Bapak Hendri;Surabaya;Rp10.950.000;5;Rp62.415.000
+P-0759;13/08/2024;Aug-24;lemari;lemari es kayu;4;C-060;Ibu Nani;Pekanbaru;Rp10.740.000;20;Rp34.368.000
+P-0762;14/08/2024;Aug-24;sofa;sofa 2 seater;4;C-036;Bapak Hendri;Bogor;Rp12.140.000;25;Rp36.420.000
+P-0763;14/08/2024;Aug-24;bufet;bufet kayu;7;C-123;Bapak Seno;Surabaya;Rp4.920.000;10;Rp30.996.000
+P-0760;14/08/2024;Aug-24;meja_makan;meja makan folding;2;C-036;Bapak Hendri;Purwokerto;Rp17.690.000;20;Rp28.304.000
+P-0761;14/08/2024;Aug-24;sofa;sofa stool;3;C-040;Ibu Lestari;Bekasi;Rp8.240.000;25;Rp18.540.000
+P-0764;15/08/2024;Aug-24;dipan;dipan classik;6;C-014;Bapak Eko;Bandung;Rp9.240.000;20;Rp44.352.000
+P-0765;15/08/2024;Aug-24;bufet;bufet kayu;3;C-027;Bapak Joko;Palembang;Rp4.920.000;15;Rp12.546.000
+P-0766;16/08/2024;Aug-24;bufet;bufet minimalis;6;C-123;Ibu Vina;Semarang;Rp11.140.000;10;Rp60.156.000
+P-0767;18/08/2024;Aug-24;lemari;lemari display;7;C-014;Ibu Putri;Jakarta Selatan;Rp11.170.000;15;Rp66.461.500
+P-0768;18/08/2024;Aug-24;kursi;kursi santai;4;C-123;Bapak Seno;Jakarta Selatan;Rp7.770.000;15;Rp26.418.000
+P-0769;19/08/2024;Aug-24;dipan;dipan modern;2;C-090;Ibu Dewi;Depok;Rp22.220.000;30;Rp31.108.000
+P-0770;21/08/2024;Aug-24;meja;meja console;7;C-014;Ibu Putri;Jakarta Utara;Rp8.980.000;25;Rp47.145.000
+P-0771;21/08/2024;Aug-24;lemari;lemari gantung;7;C-119;Bapak Iman;Kendal;Rp4.690.000;15;Rp27.905.500
+P-0772;22/08/2024;Aug-24;dipan;dipan classik;5;C-118;Ibu Hana;Bogor;Rp9.240.000;20;Rp36.960.000
+P-0773;22/08/2024;Aug-24;meja;meja tamu;6;C-026;Bapak Budi;Bekasi;Rp13.170.000;10;Rp71.118.000
+P-0775;24/08/2024;Aug-24;meja;meja makan;4;C-141;Bapak Agus;Kediri;Rp10.990.000;0;Rp43.960.000
+P-0774;24/08/2024;Aug-24;dipan;dipan luxury;8;C-045;Ibu Siti;Palembang;Rp10.570.000;5;Rp80.332.000
+P-0776;25/08/2024;Aug-24;rak;rak tv;2;C-049;Bapak Rahmat;Kendal;Rp4.130.000;20;Rp6.608.000
+P-0777;26/08/2024;Aug-24;nakas;nakas 3 laci;4;C-108;Bapak Suli;Bandung;Rp1.980.000;10;Rp7.128.000
+P-0778;26/08/2024;Aug-24;bale-bale;bale-bale minimalis;7;C-004;Ibu Ani;Jakarta Barat;Rp4.030.000;10;Rp25.389.000
+P-0779;26/08/2024;Aug-24;lemari;lemari pakaian;7;C-133;Bapak Wahab;Jakarta Tengah;Rp8.860.000;20;Rp49.616.000
+P-0780;28/08/2024;Aug-24;bale-bale;bale-bale minimalis;8;C-130;Ibu Yuli;Jakarta Tengah;Rp4.030.000;0;Rp32.240.000
+P-0781;28/08/2024;Aug-24;lemari;lemari pakaian;2;C-006;Ibu Lina;Jakarta Barat;Rp8.860.000;5;Rp16.834.000
+P-0782;29/08/2024;Aug-24;nakas;nakas 3 laci;2;C-059;Bapak Taufik;Malang;Rp1.980.000;20;Rp3.168.000
+P-0783;30/08/2024;Aug-24;bufet;bufet minimalis;6;C-123;Ibu Vina;Jakarta Barat;Rp11.140.000;0;Rp66.840.000
+P-0784;30/08/2024;Aug-24;nakas;nakas minimalis;4;C-036;Ibu Rina;Malang;Rp2.530.000;30;Rp7.084.000
+P-0785;31/08/2024;Aug-24;meja_makan;meja makan persegi;5;C-124;Bapak Sutrio;Tangerang;Rp14.890.000;5;Rp70.727.500
+P-0787;01/09/2024;Sep-24;lemari;lemari gantung;8;C-040;Ibu Lestari;Depok;Rp4.690.000;15;Rp31.892.000
+P-0786;01/09/2024;Sep-24;cermin;cermin berdiri;2;C-133;Bapak Wahab;Jakarta Timur;Rp2.150.000;15;Rp3.655.000
+P-0788;05/09/2024;Sep-24;meja_makan;meja makan persegi;6;C-027;Bapak Dedi;Jakarta Utara;Rp14.890.000;0;Rp89.340.000
+P-0789;08/09/2024;Sep-24;bale-bale;bale-bale minimalis;8;C-130;Ibu Yuli;Medan;Rp4.030.000;20;Rp25.792.000
+P-0790;10/09/2024;Sep-24;lemari;lemari es kayu;5;C-108;Bapak Suli;Jakarta Barat;Rp10.740.000;30;Rp37.590.000
+P-0791;11/09/2024;Sep-24;dipan;dipan minimalis;1;C-100;Ibu Tini;Pekanbaru;Rp12.470.000;20;Rp9.976.000
+P-0792;11/09/2024;Sep-24;meja_makan;meja makan persegi;5;C-133;Ibu Ratna;Jakarta Selatan;Rp14.890.000;10;Rp67.005.000
+P-0793;12/09/2024;Sep-24;bale-bale;bale-bale minimalis;6;C-125;Bapak Sanusi;Kendal;Rp4.030.000;30;Rp16.926.000
+P-0794;12/09/2024;Sep-24;bale-bale;bale-bale ukir;7;C-094;Bapak Rudi;Malang;Rp9.470.000;20;Rp53.032.000
+P-0795;12/09/2024;Sep-24;sofa;sofa stool;2;C-141;Bapak Agus;Bekasi;Rp8.240.000;0;Rp16.480.000
+P-0796;13/09/2024;Sep-24;meja_makan;meja makan bundar;2;C-100;Ibu Tini;Kediri;Rp8.450.000;0;Rp16.900.000
+P-0797;13/09/2024;Sep-24;nakas;nakas 3 laci;1;C-007;Ibu Mira;Tangerang;Rp1.980.000;10;Rp1.782.000
+P-0798;14/09/2024;Sep-24;cermin;cermin classik;1;C-060;Ibu Nani;Surabaya;Rp6.180.000;0;Rp6.180.000
+P-0799;15/09/2024;Sep-24;almari;almari 2 pintu;1;C-027;Bapak Joko;Kediri;Rp10.950.000;10;Rp9.855.000
+P-0800;15/09/2024;Sep-24;meja_makan;meja makan folding;1;C-136;Bapak Aris;Purwokerto;Rp17.690.000;25;Rp13.267.500
+P-0801;15/09/2024;Sep-24;meja_makan;meja makan persegi;6;C-136;Bapak Aris;Palembang;Rp14.890.000;15;Rp75.939.000
+P-0802;17/09/2024;Sep-24;bale-bale;bale-bale minimalis;6;C-124;Bapak Sutrio;Purwokerto;Rp4.030.000;30;Rp16.926.000
+P-0803;18/09/2024;Sep-24;dipan;dipan classik;4;C-136;Bapak Aris;Kendal;Rp9.240.000;25;Rp27.720.000
+P-0804;18/09/2024;Sep-24;bale-bale;bale-bale modern;1;C-148;Bapak Yanto;Medan;Rp5.960.000;0;Rp5.960.000
+P-0805;19/09/2024;Sep-24;kursi;kursi santai;7;C-090;Ibu Dewi;Banjarmasin;Rp7.770.000;0;Rp54.390.000
+P-0806;20/09/2024;Sep-24;cermin;cermin classik;3;C-004;Ibu Ani;Banyumas;Rp6.180.000;25;Rp13.905.000
+P-0809;21/09/2024;Sep-24;meja_makan;meja makan persegi;6;C-094;Bapak Rudi;Kediri;Rp14.890.000;30;Rp62.538.000
+P-0810;21/09/2024;Sep-24;kursi;kursi dining;4;C-094;Ibu Ermi;Jakarta Barat;Rp4.730.000;15;Rp16.082.000
+P-0807;21/09/2024;Sep-24;bale-bale;bale-bale minimalis;4;C-147;Ibu Besta;Bandung;Rp4.030.000;30;Rp11.284.000
+P-0808;21/09/2024;Sep-24;meja_makan;meja makan bundar;7;C-036;Bapak Hendri;Palembang;Rp8.450.000;20;Rp47.320.000
+P-0811;22/09/2024;Sep-24;bale-bale;bale-bale ukir;5;C-036;Bapak Hendri;Palembang;Rp9.470.000;30;Rp33.145.000
+P-0812;24/09/2024;Sep-24;dipan;dipan minimalis;4;C-040;Ibu Lestari;Makassar;Rp12.470.000;0;Rp49.880.000
+P-0813;25/09/2024;Sep-24;lemari;lemari gantung;5;C-027;Bapak Joko;Solo;Rp4.690.000;25;Rp17.587.500
+P-0814;26/09/2024;Sep-24;kursi;kursi kantor;1;C-133;Bapak Wahab;Solo;Rp9.430.000;25;Rp7.072.500
+P-0815;26/09/2024;Sep-24;sofa;sofa L-shape;7;C-059;Bapak Taufik;Banyumas;Rp19.360.000;25;Rp101.640.000
+P-0816;27/09/2024;Sep-24;nakas;nakas 2 laci;1;C-118;Ibu Hana;Surabaya;Rp2.420.000;10;Rp2.178.000
+P-0817;29/09/2024;Sep-24;meja;meja console;2;C-059;Bapak Taufik;Palembang;Rp8.980.000;25;Rp13.470.000
+P-0818;30/09/2024;Sep-24;rak;rak sudut;1;C-125;Bapak Sanusi;Jakarta Timur;Rp5.380.000;10;Rp4.842.000
+P-0819;04/10/2024;Oct-24;nakas;nakas modern;3;C-059;Bapak Taufik;Medan;Rp3.930.000;0;Rp11.790.000
+P-0823;05/10/2024;Oct-24;almari;almari 4 pintu;8;C-036;Ibu Rina;Solo;Rp35.450.000;15;Rp241.060.000
+P-0822;05/10/2024;Oct-24;rak;rak sudut;2;C-111;Bapak Tri;Kediri;Rp5.380.000;15;Rp9.146.000
+P-0821;05/10/2024;Oct-24;nakas;nakas 3 laci;4;C-015;Ibu Xenia;Banjarmasin;Rp1.980.000;5;Rp7.524.000
+P-0820;05/10/2024;Oct-24;bufet;bufet dapur;1;C-040;Ibu Lestari;Semarang;Rp9.290.000;5;Rp8.825.500
+P-0824;06/10/2024;Oct-24;meja;meja belajar;8;C-014;Bapak Eko;Medan;Rp13.350.000;20;Rp85.440.000
+P-0825;06/10/2024;Oct-24;meja;meja belajar;6;C-123;Bapak Seno;Jakarta Utara;Rp13.350.000;25;Rp60.075.000
+P-0826;07/10/2024;Oct-24;bale-bale;bale-bale modern;2;C-049;Bapak Rahmat;Surabaya;Rp5.960.000;10;Rp10.728.000
+P-0827;08/10/2024;Oct-24;dipan;dipan luxury;7;C-036;Bapak Hendri;Bandung;Rp10.570.000;10;Rp66.591.000
+P-0828;09/10/2024;Oct-24;meja;meja console;1;C-133;Ibu Ratna;Surabaya;Rp8.980.000;10;Rp8.082.000
+P-0829;09/10/2024;Oct-24;meja;meja console;4;C-136;Bapak Aris;Jakarta Utara;Rp8.980.000;20;Rp28.736.000
+P-0830;11/10/2024;Oct-24;cermin;cermin oval;7;C-147;Ibu Besta;Jakarta Barat;Rp5.340.000;15;Rp31.773.000
+P-0834;12/10/2024;Oct-24;sofa;sofa 3 seater;1;C-060;Ibu Nani;Jakarta Barat;Rp12.520.000;20;Rp10.016.000
+P-0833;12/10/2024;Oct-24;dipan;dipan modern;3;C-027;Bapak Joko;Jakarta Barat;Rp22.220.000;25;Rp49.995.000
+P-0831;12/10/2024;Oct-24;rak;rak minimalis;5;C-147;Ibu Besta;Jogja;Rp5.900.000;25;Rp22.125.000
+P-0832;12/10/2024;Oct-24;bale-bale;bale-bale minimalis;7;C-045;Ibu Siti;Pekanbaru;Rp4.030.000;25;Rp21.157.500
+P-0835;14/10/2024;Oct-24;kursi;kursi santai;6;C-094;Bapak Rudi;Banyumas;Rp7.770.000;20;Rp37.296.000
+P-0836;15/10/2024;Oct-24;meja;meja rias;3;C-094;Ibu Ermi;Jakarta Timur;Rp10.660.000;30;Rp22.386.000
+P-0837;16/10/2024;Oct-24;meja;meja belajar;1;C-109;Ibu Surya;Bandung;Rp13.350.000;30;Rp9.345.000
+P-0838;16/10/2024;Oct-24;lemari;lemari pakaian;8;C-133;Bapak Wahab;Jakarta Barat;Rp8.860.000;0;Rp70.880.000
+P-0839;17/10/2024;Oct-24;almari;almari 2 pintu;3;C-125;Bapak Sanusi;Purwokerto;Rp10.950.000;0;Rp32.850.000
+P-0840;18/10/2024;Oct-24;nakas;nakas minimalis;5;C-041;Ibu Sela;Kediri;Rp2.530.000;20;Rp10.120.000
+P-0841;20/10/2024;Oct-24;bale-bale;bale-bale modern;7;C-133;Bapak Wahab;Solo;Rp5.960.000;15;Rp35.462.000
+P-0842;21/10/2024;Oct-24;almari;almari 4 pintu;4;C-148;Bapak Yanto;Bogor;Rp35.450.000;25;Rp106.350.000
+P-0843;22/10/2024;Oct-24;kursi;kursi kantor;4;C-148;Bapak Yanto;Jakarta Selatan;Rp9.430.000;15;Rp32.062.000
+P-0844;23/10/2024;Oct-24;meja;meja kerja;2;C-125;Bapak Sanusi;Semarang;Rp6.000.000;15;Rp10.200.000
+P-0845;24/10/2024;Oct-24;lemari;lemari display;4;C-094;Bapak Rudi;Depok;Rp11.170.000;0;Rp44.680.000
+P-0846;28/10/2024;Oct-24;cermin;cermin modern;1;C-090;Ibu Dewi;Jakarta Selatan;Rp6.480.000;25;Rp4.860.000
+P-0847;28/10/2024;Oct-24;almari;almari 3 pintu;2;C-014;Bapak Eko;Jakarta Selatan;Rp19.810.000;15;Rp33.677.000
+P-0848;29/10/2024;Oct-24;dipan;dipan luxury;7;C-108;Bapak Suli;Malang;Rp10.570.000;0;Rp73.990.000
+P-0849;30/10/2024;Oct-24;kursi;kursi gaming;1;C-118;Ibu Hana;Banjarmasin;Rp3.840.000;25;Rp2.880.000
+P-0850;31/10/2024;Oct-24;sofa;sofa corner;1;C-124;Bapak Sutrio;Jakarta Tengah;Rp14.050.000;20;Rp11.240.000
+P-0851;31/10/2024;Oct-24;kursi;kursi gaming;8;C-089;Bapak Ahmad;Jakarta Utara;Rp3.840.000;5;Rp29.184.000
+P-0852;01/11/2024;Nov-24;sofa;sofa L-shape;8;C-036;Ibu Rina;Makassar;Rp19.360.000;20;Rp123.904.000
+P-0853;01/11/2024;Nov-24;sofa;sofa L-shape;5;C-026;Bapak Budi;Semarang;Rp19.360.000;15;Rp82.280.000
+P-0854;03/11/2024;Nov-24;lemari;lemari es kayu;3;C-136;Bapak Aris;Bekasi;Rp10.740.000;0;Rp32.220.000
+P-0855;04/11/2024;Nov-24;meja;meja rias;5;C-117;Bapak Wicak;Jogja;Rp10.660.000;5;Rp50.635.000
+P-0857;05/11/2024;Nov-24;cermin;cermin modern;6;C-147;Ibu Besta;Tangerang;Rp6.480.000;0;Rp38.880.000
+P-0856;05/11/2024;Nov-24;kursi;kursi dining;5;C-027;Bapak Dedi;Jakarta Selatan;Rp4.730.000;15;Rp20.102.500
+P-0858;06/11/2024;Nov-24;meja;meja tamu;6;C-133;Bapak Wahab;Depok;Rp13.170.000;0;Rp79.020.000
+P-0859;07/11/2024;Nov-24;lemari;lemari gantung;5;C-100;Ibu Tini;Jakarta Timur;Rp4.690.000;20;Rp18.760.000
+P-0860;07/11/2024;Nov-24;bale-bale;bale-bale ukir;2;C-094;Ibu Ermi;Bekasi;Rp9.470.000;25;Rp14.205.000
+P-0861;07/11/2024;Nov-24;almari;almari 3 pintu;3;C-026;Bapak Budi;Medan;Rp19.810.000;15;Rp50.515.500
+P-0862;11/11/2024;Nov-24;meja;meja belajar;5;C-036;Ibu Rina;Bandung;Rp13.350.000;0;Rp66.750.000
+P-0863;12/11/2024;Nov-24;meja_makan;meja makan persegi;3;C-117;Bapak Wicak;Banyumas;Rp14.890.000;20;Rp35.736.000
+P-0864;12/11/2024;Nov-24;bufet;bufet kayu;3;C-060;Ibu Nani;Makassar;Rp4.920.000;10;Rp13.284.000
+P-0865;13/11/2024;Nov-24;bale-bale;bale-bale modern;6;C-027;Bapak Joko;Makassar;Rp5.960.000;15;Rp30.396.000
+P-0866;14/11/2024;Nov-24;rak;rak sudut;2;C-090;Ibu Dewi;Jakarta Timur;Rp5.380.000;5;Rp10.222.000
+P-0868;15/11/2024;Nov-24;sofa;sofa 2 seater;4;C-119;Bapak Iman;Jakarta Utara;Rp12.140.000;0;Rp48.560.000
+P-0867;15/11/2024;Nov-24;meja_makan;meja makan folding;4;C-059;Bapak Taufik;Purwokerto;Rp17.690.000;5;Rp67.222.000
+P-0869;16/11/2024;Nov-24;bale-bale;bale-bale ukir;3;C-124;Bapak Sutrio;Bekasi;Rp9.470.000;10;Rp25.569.000
+P-0870;16/11/2024;Nov-24;kursi;kursi santai;8;C-036;Ibu Rina;Purwokerto;Rp7.770.000;15;Rp52.836.000
+P-0871;16/11/2024;Nov-24;sofa;sofa corner;2;C-015;Ibu Xenia;Jakarta Utara;Rp14.050.000;10;Rp25.290.000
+P-0872;16/11/2024;Nov-24;meja;meja console;3;C-111;Bapak Tri;Depok;Rp8.980.000;25;Rp20.205.000
+P-0873;16/11/2024;Nov-24;kursi;kursi santai;6;C-060;Ibu Nani;Surabaya;Rp7.770.000;5;Rp44.289.000
+P-0874;17/11/2024;Nov-24;kursi;kursi kantor;5;C-136;Bapak Aris;Makassar;Rp9.430.000;15;Rp40.077.500
+P-0875;17/11/2024;Nov-24;meja;meja tamu;4;C-041;Ibu Sela;Depok;Rp13.170.000;15;Rp44.778.000
+P-0876;17/11/2024;Nov-24;meja_makan;meja makan bundar;5;C-007;Ibu Mira;Kediri;Rp8.450.000;20;Rp33.800.000
+P-0877;18/11/2024;Nov-24;kursi;kursi makan;8;C-036;Ibu Rina;Jakarta Utara;Rp3.080.000;5;Rp23.408.000
+P-0878;19/11/2024;Nov-24;rak;rak sudut;6;C-026;Bapak Budi;Jakarta Barat;Rp5.380.000;30;Rp22.596.000
+P-0879;21/11/2024;Nov-24;sofa;sofa 3 seater;8;C-059;Bapak Taufik;Bekasi;Rp12.520.000;5;Rp95.152.000
+P-0880;22/11/2024;Nov-24;nakas;nakas minimalis;5;C-015;Ibu Xenia;Banjarmasin;Rp2.530.000;20;Rp10.120.000
+P-0881;23/11/2024;Nov-24;lemari;lemari es kayu;2;C-059;Bapak Taufik;Depok;Rp10.740.000;20;Rp17.184.000
+P-0882;23/11/2024;Nov-24;kursi;kursi kantor;1;C-006;Ibu Lina;Jakarta Timur;Rp9.430.000;20;Rp7.544.000
+P-0883;24/11/2024;Nov-24;kursi;kursi santai;6;C-007;Ibu Mira;Surabaya;Rp7.770.000;30;Rp32.634.000
+P-0884;24/11/2024;Nov-24;meja;meja tamu;5;C-119;Bapak Iman;Surabaya;Rp13.170.000;0;Rp65.850.000
+P-0885;25/11/2024;Nov-24;meja;meja console;6;C-094;Bapak Rudi;Bogor;Rp8.980.000;20;Rp43.104.000
+P-0886;25/11/2024;Nov-24;sofa;sofa 3 seater;5;C-036;Bapak Hendri;Makassar;Rp12.520.000;20;Rp50.080.000
+P-0887;27/11/2024;Nov-24;almari;almari 3 pintu;4;C-094;Bapak Rudi;Kendal;Rp19.810.000;15;Rp67.354.000
+P-0888;27/11/2024;Nov-24;cermin;cermin classik;3;C-141;Bapak Agus;Jakarta Tengah;Rp6.180.000;30;Rp12.978.000
+P-0889;28/11/2024;Nov-24;almari;almari 4 pintu;8;C-123;Bapak Seno;Palembang;Rp35.450.000;0;Rp283.600.000
+P-0890;30/11/2024;Nov-24;bufet;bufet dapur;3;C-094;Bapak Rudi;Tangerang;Rp9.290.000;30;Rp19.509.000
+P-0892;05/12/2024;Dec-24;bale-bale;bale-bale minimalis;8;C-026;Bapak Budi;Purwokerto;Rp4.030.000;0;Rp32.240.000
+P-0891;05/12/2024;Dec-24;meja;meja console;3;C-007;Ibu Mira;Jogja;Rp8.980.000;0;Rp26.940.000
+P-0893;06/12/2024;Dec-24;lemari;lemari es kayu;2;C-027;Bapak Joko;Tangerang;Rp10.740.000;25;Rp16.110.000
+P-0894;07/12/2024;Dec-24;kursi;kursi santai;2;C-059;Bapak Taufik;Tangerang;Rp7.770.000;30;Rp10.878.000
+P-0895;07/12/2024;Dec-24;almari;almari minimalis;3;C-014;Ibu Putri;Makassar;Rp27.200.000;10;Rp73.440.000
+P-0896;07/12/2024;Dec-24;meja_makan;meja makan bundar;6;C-026;Bapak Budi;Banyumas;Rp8.450.000;15;Rp43.095.000
+P-0897;10/12/2024;Dec-24;lemari;lemari pakaian;7;C-125;Bapak Sanusi;Banyumas;Rp8.860.000;30;Rp43.414.000
+P-0898;12/12/2024;Dec-24;sofa;sofa L-shape;1;C-014;Bapak Eko;Kediri;Rp19.360.000;15;Rp16.456.000
+P-0899;12/12/2024;Dec-24;sofa;sofa 2 seater;2;C-136;Bapak Aris;Pekanbaru;Rp12.140.000;30;Rp16.996.000
+P-0900;15/12/2024;Dec-24;almari;almari 2 pintu;3;C-147;Ibu Besta;Makassar;Rp10.950.000;0;Rp32.850.000
+P-0901;16/12/2024;Dec-24;rak;rak minimalis;8;C-111;Bapak Tri;Solo;Rp5.900.000;5;Rp44.840.000
+P-0902;16/12/2024;Dec-24;nakas;nakas minimalis;2;C-100;Ibu Tini;Banjarmasin;Rp2.530.000;20;Rp4.048.000
+P-0905;17/12/2024;Dec-24;almari;almari 2 pintu;6;C-094;Ibu Ermi;Malang;Rp10.950.000;15;Rp55.845.000
+P-0903;17/12/2024;Dec-24;bufet;bufet tv;3;C-133;Ibu Ratna;Pekanbaru;Rp4.490.000;0;Rp13.470.000
+P-0904;17/12/2024;Dec-24;rak;rak sudut;8;C-014;Bapak Eko;Kendal;Rp5.380.000;20;Rp34.432.000
+P-0906;18/12/2024;Dec-24;nakas;nakas 1 laci;3;C-118;Ibu Hana;Banyumas;Rp2.550.000;15;Rp6.502.500
+P-0907;18/12/2024;Dec-24;sofa;sofa stool;8;C-111;Ibu Zona;Banjarmasin;Rp8.240.000;20;Rp52.736.000
+P-0908;18/12/2024;Dec-24;bale-bale;bale-bale modern;7;C-117;Bapak Wicak;Solo;Rp5.960.000;30;Rp29.204.000
+P-0909;19/12/2024;Dec-24;nakas;nakas modern;2;C-111;Ibu Zona;Jogja;Rp3.930.000;10;Rp7.074.000
+P-0910;19/12/2024;Dec-24;meja_makan;meja makan bundar;8;C-041;Ibu Sela;Jakarta Utara;Rp8.450.000;10;Rp60.840.000
+P-0911;20/12/2024;Dec-24;almari;almari 2 pintu;4;C-015;Ibu Xenia;Solo;Rp10.950.000;0;Rp43.800.000
+P-0912;25/12/2024;Dec-24;dipan;dipan classik;3;C-040;Ibu Lestari;Jakarta Tengah;Rp9.240.000;30;Rp19.404.000
+P-0914;26/12/2024;Dec-24;lemari;lemari gantung;4;C-123;Ibu Vina;Jakarta Barat;Rp4.690.000;15;Rp15.946.000
+P-0913;26/12/2024;Dec-24;rak;rak minimalis;8;C-094;Bapak Rudi;Bandung;Rp5.900.000;25;Rp35.400.000
+P-0916;28/12/2024;Dec-24;rak;rak tv;3;C-015;Ibu Xenia;Banjarmasin;Rp4.130.000;5;Rp11.770.500
+P-0915;28/12/2024;Dec-24;kursi;kursi dining;4;C-027;Bapak Dedi;Banyumas;Rp4.730.000;15;Rp16.082.000
+P-0917;29/12/2024;Dec-24;meja_makan;meja makan bundar;8;C-133;Ibu Ratna;Malang;Rp8.450.000;0;Rp67.600.000
+P-0918;29/12/2024;Dec-24;kursi;kursi makan;2;C-027;Bapak Dedi;Kediri;Rp3.080.000;20;Rp4.928.000
+P-0919;02/01/2025;Jan-25;cermin;cermin dinding;7;C-125;Bapak Sanusi;Tangerang;Rp7.290.000;20;Rp40.824.000
+P-0920;03/01/2025;Jan-25;rak;rak tv;8;C-014;Ibu Putri;Bekasi;Rp4.130.000;30;Rp23.128.000
+P-0921;03/01/2025;Jan-25;rak;rak dinding;1;C-111;Bapak Tri;Depok;Rp1.880.000;15;Rp1.598.000
+P-0922;04/01/2025;Jan-25;cermin;cermin dinding;8;C-133;Bapak Wahab;Jogja;Rp7.290.000;5;Rp55.404.000
+P-0923;05/01/2025;Jan-25;dipan;dipan modern;3;C-141;Bapak Agus;Jakarta Timur;Rp22.220.000;25;Rp49.995.000
+P-0924;08/01/2025;Jan-25;cermin;cermin modern;4;C-027;Bapak Joko;Bandung;Rp6.480.000;25;Rp19.440.000
+P-0926;09/01/2025;Jan-25;rak;rak dinding;5;C-027;Bapak Dedi;Banyumas;Rp1.880.000;30;Rp6.580.000
+P-0925;09/01/2025;Jan-25;sofa;sofa 2 seater;5;C-036;Bapak Hendri;Purwokerto;Rp12.140.000;15;Rp51.595.000
+P-0927;11/01/2025;Jan-25;rak;rak minimalis;7;C-133;Bapak Wahab;Banjarmasin;Rp5.900.000;0;Rp41.300.000
+P-0928;12/01/2025;Jan-25;almari;almari minimalis;2;C-125;Bapak Sanusi;Solo;Rp27.200.000;0;Rp54.400.000
+P-0929;13/01/2025;Jan-25;nakas;nakas modern;3;C-108;Bapak Suli;Malang;Rp3.930.000;30;Rp8.253.000
+P-0930;13/01/2025;Jan-25;sofa;sofa L-shape;3;C-141;Bapak Agus;Jakarta Timur;Rp19.360.000;0;Rp58.080.000
+P-0931;14/01/2025;Jan-25;dipan;dipan classik;3;C-123;Ibu Vina;Jakarta Tengah;Rp9.240.000;15;Rp23.562.000
+P-0932;15/01/2025;Jan-25;sofa;sofa stool;5;C-036;Ibu Rina;Jakarta Tengah;Rp8.240.000;15;Rp35.020.000
+P-0933;16/01/2025;Jan-25;nakas;nakas 1 laci;6;C-089;Bapak Ahmad;Jakarta Tengah;Rp2.550.000;25;Rp11.475.000
+P-0934;17/01/2025;Jan-25;kursi;kursi tamu;4;C-133;Bapak Wahab;Depok;Rp2.069.999;0;Rp8.279.996
+P-0935;17/01/2025;Jan-25;cermin;cermin oval;5;C-100;Ibu Tini;Palembang;Rp5.340.000;25;Rp20.025.000
+P-0937;18/01/2025;Jan-25;cermin;cermin berdiri;1;C-133;Bapak Wahab;Kendal;Rp2.150.000;30;Rp1.505.000
+P-0936;18/01/2025;Jan-25;rak;rak dinding;5;C-004;Ibu Ani;Jogja;Rp1.880.000;25;Rp7.050.000
+P-0940;19/01/2025;Jan-25;meja;meja kerja;7;C-118;Ibu Hana;Bandung;Rp6.000.000;0;Rp42.000.000
+P-0939;19/01/2025;Jan-25;dipan;dipan kayu jati;6;C-006;Ibu Lina;Jakarta Timur;Rp24.330.000;0;Rp145.980.000
+P-0938;19/01/2025;Jan-25;almari;almari 3 pintu;5;C-133;Bapak Wahab;Jakarta Utara;Rp19.810.000;25;Rp74.287.500
+P-0941;20/01/2025;Jan-25;dipan;dipan minimalis;2;C-125;Bapak Sanusi;Bandung;Rp12.470.000;25;Rp18.705.000
+P-0942;21/01/2025;Jan-25;meja;meja tamu;6;C-041;Ibu Sela;Makassar;Rp13.170.000;0;Rp79.020.000
+P-0943;21/01/2025;Jan-25;meja_makan;meja makan bundar;1;C-125;Bapak Sanusi;Surabaya;Rp8.450.000;15;Rp7.182.500
+P-0944;21/01/2025;Jan-25;dipan;dipan classik;2;C-004;Ibu Ani;Jakarta Selatan;Rp9.240.000;5;Rp17.556.000
+P-0945;22/01/2025;Jan-25;bale-bale;bale-bale modern;6;C-007;Ibu Mira;Pekanbaru;Rp5.960.000;20;Rp28.608.000
+P-0946;23/01/2025;Jan-25;meja_makan;meja makan bundar;3;C-123;Bapak Seno;Bandung;Rp8.450.000;15;Rp21.547.500
+P-0947;25/01/2025;Jan-25;meja;meja makan;3;C-123;Bapak Seno;Malang;Rp10.990.000;20;Rp26.376.000
+P-0948;26/01/2025;Jan-25;meja;meja console;5;C-089;Bapak Ahmad;Surabaya;Rp8.980.000;5;Rp42.655.000
+P-0950;27/01/2025;Jan-25;kursi;kursi tamu;5;C-027;Bapak Dedi;Semarang;Rp2.069.999;20;Rp8.279.996
+P-0949;27/01/2025;Jan-25;kursi;kursi dining;3;C-133;Ibu Ratna;Banjarmasin;Rp4.730.000;30;Rp9.933.000
+P-0951;28/01/2025;Jan-25;meja_makan;meja makan persegi;3;C-141;Bapak Agus;Jogja;Rp14.890.000;5;Rp42.436.500
+P-0952;28/01/2025;Jan-25;sofa;sofa corner;6;C-108;Bapak Suli;Banyumas;Rp14.050.000;20;Rp67.440.000
+P-0953;28/01/2025;Jan-25;almari;almari 4 pintu;1;C-108;Bapak Suli;Makassar;Rp35.450.000;30;Rp24.815.000
+P-0954;29/01/2025;Jan-25;nakas;nakas 3 laci;7;C-123;Bapak Seno;Tangerang;Rp1.980.000;30;Rp9.702.000
+P-0955;01/02/2025;Feb-25;dipan;dipan modern;5;C-094;Ibu Ermi;Solo;Rp22.220.000;0;Rp111.100.000
+P-0956;04/02/2025;Feb-25;almari;almari minimalis;6;C-133;Ibu Ratna;Makassar;Rp27.200.000;0;Rp163.200.000
+P-0957;05/02/2025;Feb-25;bale-bale;bale-bale modern;4;C-014;Bapak Eko;Banyumas;Rp5.960.000;30;Rp16.688.000
+P-0958;06/02/2025;Feb-25;kursi;kursi tamu;6;C-040;Ibu Lestari;Kediri;Rp2.069.999;0;Rp12.419.994
+P-0959;07/02/2025;Feb-25;meja_makan;meja makan persegi;3;C-090;Ibu Dewi;Depok;Rp14.890.000;5;Rp42.436.500
+P-0961;08/02/2025;Feb-25;sofa;sofa bed;5;C-117;Bapak Wicak;Tangerang;Rp8.240.000;5;Rp39.140.000
+P-0962;08/02/2025;Feb-25;bufet;bufet tv;3;C-133;Ibu Ratna;Jakarta Tengah;Rp4.490.000;0;Rp13.470.000
+P-0960;08/02/2025;Feb-25;lemari;lemari gantung;8;C-049;Bapak Rahmat;Banjarmasin;Rp4.690.000;15;Rp31.892.000
+P-0963;09/02/2025;Feb-25;kursi;kursi gaming;8;C-111;Ibu Zona;Jakarta Tengah;Rp3.840.000;25;Rp23.040.000
+P-0964;11/02/2025;Feb-25;bufet;bufet kayu;4;C-148;Bapak Yanto;Banjarmasin;Rp4.920.000;15;Rp16.728.000
+P-0965;11/02/2025;Feb-25;bufet;bufet dapur;7;C-094;Ibu Ermi;Jakarta Timur;Rp9.290.000;30;Rp45.521.000
+P-0966;14/02/2025;Feb-25;sofa;sofa 2 seater;1;C-094;Ibu Ermi;Jogja;Rp12.140.000;30;Rp8.498.000
+P-0967;14/02/2025;Feb-25;meja;meja belajar;8;C-027;Bapak Dedi;Jakarta Utara;Rp13.350.000;30;Rp74.760.000
+P-0968;14/02/2025;Feb-25;bale-bale;bale-bale ukir;4;C-123;Bapak Seno;Palembang;Rp9.470.000;15;Rp32.198.000
+P-0969;15/02/2025;Feb-25;meja;meja makan;8;C-026;Bapak Budi;Malang;Rp10.990.000;0;Rp87.920.000
+P-0970;15/02/2025;Feb-25;bale-bale;bale-bale modern;3;C-041;Ibu Sela;Jakarta Barat;Rp5.960.000;10;Rp16.092.000
+P-0973;17/02/2025;Feb-25;bufet;bufet tv;1;C-041;Ibu Sela;Medan;Rp4.490.000;15;Rp3.816.500
+P-0972;17/02/2025;Feb-25;meja;meja belajar;1;C-119;Bapak Iman;Bogor;Rp13.350.000;20;Rp10.680.000
+P-0971;17/02/2025;Feb-25;nakas;nakas 1 laci;3;C-059;Bapak Taufik;Bogor;Rp2.550.000;5;Rp7.267.500
+P-0974;19/02/2025;Feb-25;bufet;bufet tv;2;C-006;Ibu Lina;Jakarta Barat;Rp4.490.000;30;Rp6.286.000
+P-0975;21/02/2025;Feb-25;meja_makan;meja makan bundar;1;C-014;Ibu Putri;Jakarta Timur;Rp8.450.000;5;Rp8.027.500
+P-0976;22/02/2025;Feb-25;nakas;nakas 2 laci;7;C-123;Ibu Vina;Depok;Rp2.420.000;15;Rp14.399.000
+P-0977;22/02/2025;Feb-25;nakas;nakas modern;8;C-119;Bapak Iman;Banyumas;Rp3.930.000;5;Rp29.868.000
+P-0978;23/02/2025;Feb-25;lemari;lemari display;8;C-111;Ibu Zona;Jakarta Barat;Rp11.170.000;5;Rp84.892.000
+P-0979;23/02/2025;Feb-25;rak;rak sudut;3;C-117;Bapak Wicak;Malang;Rp5.380.000;25;Rp12.105.000
+P-0980;24/02/2025;Feb-25;cermin;cermin modern;7;C-014;Bapak Eko;Kediri;Rp6.480.000;15;Rp38.556.000
+P-0981;24/02/2025;Feb-25;meja_makan;meja makan bundar;1;C-060;Ibu Nani;Banjarmasin;Rp8.450.000;10;Rp7.605.000
+P-0982;24/02/2025;Feb-25;cermin;cermin berdiri;3;C-111;Ibu Zona;Makassar;Rp2.150.000;5;Rp6.127.500
+P-0983;25/02/2025;Feb-25;kursi;kursi santai;1;C-015;Ibu Xenia;Kediri;Rp7.770.000;20;Rp6.216.000
+P-0988;26/02/2025;Feb-25;cermin;cermin oval;2;C-090;Ibu Dewi;Bogor;Rp5.340.000;30;Rp7.476.000
+P-0987;26/02/2025;Feb-25;dipan;dipan modern;4;C-006;Ibu Lina;Solo;Rp22.220.000;20;Rp71.104.000
+P-0986;26/02/2025;Feb-25;nakas;nakas 2 laci;3;C-036;Bapak Hendri;Kediri;Rp2.420.000;0;Rp7.260.000
+P-0985;26/02/2025;Feb-25;meja_makan;meja makan bundar;5;C-041;Ibu Sela;Bogor;Rp8.450.000;5;Rp40.137.500
+P-0984;26/02/2025;Feb-25;bufet;bufet kayu;8;C-123;Ibu Vina;Purwokerto;Rp4.920.000;30;Rp27.552.000
+P-0989;27/02/2025;Feb-25;sofa;sofa 3 seater;7;C-090;Ibu Dewi;Jakarta Selatan;Rp12.520.000;30;Rp61.348.000
+P-0990;27/02/2025;Feb-25;bufet;bufet tv;6;C-094;Ibu Ermi;Jogja;Rp4.490.000;20;Rp21.552.000
+P-0991;28/02/2025;Feb-25;cermin;cermin oval;8;C-148;Bapak Yanto;Kendal;Rp5.340.000;25;Rp32.040.000
+P-0992;02/03/2025;Mar-25;sofa;sofa L-shape;7;C-015;Ibu Xenia;Medan;Rp19.360.000;15;Rp115.192.000
+P-0993;03/03/2025;Mar-25;lemari;lemari es kayu;6;C-136;Bapak Aris;Bogor;Rp10.740.000;5;Rp61.218.000
+P-0994;04/03/2025;Mar-25;rak;rak tv;8;C-059;Bapak Taufik;Medan;Rp4.130.000;10;Rp29.736.000
+P-0995;04/03/2025;Mar-25;sofa;sofa 2 seater;7;C-108;Bapak Suli;Surabaya;Rp12.140.000;10;Rp76.482.000
+P-0996;05/03/2025;Mar-25;almari;almari 3 pintu;5;C-141;Bapak Agus;Kediri;Rp19.810.000;0;Rp99.050.000
+P-0997;06/03/2025;Mar-25;meja;meja rias;7;C-123;Bapak Seno;Jakarta Tengah;Rp10.660.000;15;Rp63.427.000
+P-0998;07/03/2025;Mar-25;lemari;lemari es kayu;1;C-014;Bapak Eko;Bogor;Rp10.740.000;10;Rp9.666.000
+P-0999;08/03/2025;Mar-25;sofa;sofa bed;8;C-119;Bapak Iman;Jakarta Utara;Rp8.240.000;20;Rp52.736.000
+P-1000;09/03/2025;Mar-25;rak;rak minimalis;5;C-123;Bapak Seno;Depok;Rp5.900.000;5;Rp28.025.000
+P-1001;09/03/2025;Mar-25;meja_makan;meja makan persegi;6;C-040;Ibu Lestari;Semarang;Rp14.890.000;20;Rp71.472.000
+P-1002;09/03/2025;Mar-25;nakas;nakas minimalis;3;C-041;Ibu Sela;Kediri;Rp2.530.000;20;Rp6.072.000
+P-1003;10/03/2025;Mar-25;bale-bale;bale-bale ukir;7;C-041;Ibu Sela;Kediri;Rp9.470.000;25;Rp49.717.500
+P-1004;12/03/2025;Mar-25;almari;almari 2 pintu;3;C-136;Bapak Aris;Pekanbaru;Rp10.950.000;5;Rp31.207.500
+P-1005;12/03/2025;Mar-25;dipan;dipan classik;7;C-111;Bapak Tri;Surabaya;Rp9.240.000;20;Rp51.744.000
+P-1006;13/03/2025;Mar-25;rak;rak sudut;3;C-148;Bapak Yanto;Palembang;Rp5.380.000;20;Rp12.912.000
+P-1008;14/03/2025;Mar-25;sofa;sofa corner;3;C-049;Bapak Rahmat;Medan;Rp14.050.000;20;Rp33.720.000
+P-1009;14/03/2025;Mar-25;nakas;nakas minimalis;5;C-094;Bapak Rudi;Jakarta Selatan;Rp2.530.000;15;Rp10.752.500
+P-1007;14/03/2025;Mar-25;kursi;kursi makan;5;C-125;Bapak Sanusi;Pekanbaru;Rp3.080.000;5;Rp14.630.000
+P-1010;15/03/2025;Mar-25;meja;meja tamu;5;C-027;Bapak Joko;Tangerang;Rp13.170.000;30;Rp46.095.000
+P-1011;16/03/2025;Mar-25;lemari;lemari display;6;C-117;Bapak Wicak;Jakarta Barat;Rp11.170.000;5;Rp63.669.000
+P-1012;16/03/2025;Mar-25;nakas;nakas 2 laci;4;C-119;Bapak Iman;Jakarta Barat;Rp2.420.000;20;Rp7.744.000
+P-1013;17/03/2025;Mar-25;nakas;nakas modern;6;C-049;Bapak Rahmat;Jakarta Utara;Rp3.930.000;0;Rp23.580.000
+P-1014;19/03/2025;Mar-25;bufet;bufet dapur;7;C-036;Ibu Rina;Bogor;Rp9.290.000;25;Rp48.772.500
+P-1015;20/03/2025;Mar-25;meja;meja tamu;1;C-147;Ibu Besta;Banjarmasin;Rp13.170.000;25;Rp9.877.500
+P-1016;20/03/2025;Mar-25;bufet;bufet kayu;4;C-125;Bapak Sanusi;Malang;Rp4.920.000;15;Rp16.728.000
+P-1017;21/03/2025;Mar-25;rak;rak buku;3;C-094;Bapak Rudi;Malang;Rp1.580.000;5;Rp4.503.000
+P-1018;21/03/2025;Mar-25;nakas;nakas minimalis;5;C-117;Bapak Wicak;Banjarmasin;Rp2.530.000;20;Rp10.120.000
+P-1019;22/03/2025;Mar-25;cermin;cermin oval;4;C-041;Ibu Sela;Bandung;Rp5.340.000;10;Rp19.224.000
+P-1020;23/03/2025;Mar-25;kursi;kursi gaming;7;C-109;Ibu Surya;Solo;Rp3.840.000;30;Rp18.816.000
+P-1021;24/03/2025;Mar-25;bufet;bufet tv;3;C-147;Ibu Besta;Palembang;Rp4.490.000;0;Rp13.470.000
+P-1022;24/03/2025;Mar-25;bufet;bufet dapur;5;C-006;Ibu Lina;Palembang;Rp9.290.000;0;Rp46.450.000
+P-1023;24/03/2025;Mar-25;sofa;sofa stool;6;C-133;Bapak Wahab;Depok;Rp8.240.000;5;Rp46.968.000
+P-1024;24/03/2025;Mar-25;bufet;bufet dapur;8;C-100;Ibu Tini;Jakarta Timur;Rp9.290.000;15;Rp63.172.000
+P-1025;24/03/2025;Mar-25;rak;rak minimalis;8;C-041;Ibu Sela;Kediri;Rp5.900.000;5;Rp44.840.000
+P-1026;25/03/2025;Mar-25;kursi;kursi dining;2;C-111;Ibu Zona;Makassar;Rp4.730.000;30;Rp6.622.000
+P-1027;27/03/2025;Mar-25;cermin;cermin berdiri;6;C-040;Ibu Lestari;Bandung;Rp2.150.000;5;Rp12.255.000
+P-1028;27/03/2025;Mar-25;cermin;cermin oval;3;C-049;Bapak Rahmat;Banjarmasin;Rp5.340.000;0;Rp16.020.000
+P-1029;27/03/2025;Mar-25;meja_makan;meja makan folding;8;C-089;Bapak Ahmad;Surabaya;Rp17.690.000;0;Rp141.520.000
+P-1030;29/03/2025;Mar-25;kursi;kursi makan;8;C-111;Ibu Zona;Tangerang;Rp3.080.000;25;Rp18.480.000
+P-1031;30/03/2025;Mar-25;meja_makan;meja makan persegi;6;C-111;Ibu Zona;Banjarmasin;Rp14.890.000;20;Rp71.472.000
+P-1032;01/04/2025;Apr-25;cermin;cermin dinding;7;C-125;Bapak Sanusi;Purwokerto;Rp7.290.000;15;Rp43.375.500
+P-1033;02/04/2025;Apr-25;kursi;kursi santai;5;C-006;Ibu Lina;Jogja;Rp7.770.000;15;Rp33.022.500
+P-1034;04/04/2025;Apr-25;nakas;nakas 2 laci;3;C-027;Bapak Joko;Tangerang;Rp2.420.000;0;Rp7.260.000
+P-1035;07/04/2025;Apr-25;almari;almari 3 pintu;7;C-108;Bapak Suli;Purwokerto;Rp19.810.000;25;Rp104.002.500
+P-1036;07/04/2025;Apr-25;bale-bale;bale-bale ukir;6;C-147;Ibu Besta;Palembang;Rp9.470.000;0;Rp56.820.000
+P-1037;08/04/2025;Apr-25;bale-bale;bale-bale modern;7;C-090;Ibu Dewi;Medan;Rp5.960.000;5;Rp39.634.000
+P-1038;08/04/2025;Apr-25;nakas;nakas 2 laci;5;C-123;Ibu Vina;Solo;Rp2.420.000;30;Rp8.470.000
+P-1039;09/04/2025;Apr-25;meja_makan;meja makan folding;6;C-049;Bapak Rahmat;Jogja;Rp17.690.000;30;Rp74.298.000
+P-1040;10/04/2025;Apr-25;rak;rak tv;7;C-090;Ibu Dewi;Kendal;Rp4.130.000;10;Rp26.019.000
+P-1041;10/04/2025;Apr-25;almari;almari lemari pakaian;2;C-118;Ibu Hana;Bogor;Rp31.920.000;25;Rp47.880.000
+P-1042;10/04/2025;Apr-25;meja;meja rias;3;C-117;Bapak Wicak;Surabaya;Rp10.660.000;15;Rp27.183.000
+P-1043;10/04/2025;Apr-25;lemari;lemari gantung;8;C-090;Ibu Dewi;Bandung;Rp4.690.000;5;Rp35.644.000
+P-1044;12/04/2025;Apr-25;meja_makan;meja makan persegi;8;C-089;Bapak Ahmad;Medan;Rp14.890.000;10;Rp107.208.000
+P-1045;13/04/2025;Apr-25;sofa;sofa 3 seater;2;C-124;Bapak Sutrio;Solo;Rp12.520.000;25;Rp18.780.000
+P-1046;15/04/2025;Apr-25;bale-bale;bale-bale minimalis;7;C-059;Bapak Taufik;Jakarta Timur;Rp4.030.000;25;Rp21.157.500
+P-1047;15/04/2025;Apr-25;lemari;lemari display;1;C-094;Bapak Rudi;Jakarta Barat;Rp11.170.000;15;Rp9.494.500
+P-1048;16/04/2025;Apr-25;meja_makan;meja makan folding;6;C-125;Bapak Sanusi;Surabaya;Rp17.690.000;20;Rp84.912.000
+P-1049;19/04/2025;Apr-25;meja_makan;meja makan bundar;3;C-026;Bapak Budi;Kendal;Rp8.450.000;10;Rp22.815.000
+P-1050;19/04/2025;Apr-25;lemari;lemari es kayu;5;C-133;Bapak Wahab;Banyumas;Rp10.740.000;30;Rp37.590.000
+P-1051;20/04/2025;Apr-25;bufet;bufet minimalis;3;C-123;Ibu Vina;Bekasi;Rp11.140.000;0;Rp33.420.000
+P-1052;22/04/2025;Apr-25;lemari;lemari gantung;1;C-118;Ibu Hana;Bekasi;Rp4.690.000;20;Rp3.752.000
+P-1053;23/04/2025;Apr-25;dipan;dipan luxury;7;C-014;Ibu Putri;Surabaya;Rp10.570.000;25;Rp55.492.500
+P-1054;25/04/2025;Apr-25;rak;rak sudut;5;C-036;Ibu Rina;Malang;Rp5.380.000;0;Rp26.900.000
+P-1055;25/04/2025;Apr-25;almari;almari 2 pintu;6;C-036;Bapak Hendri;Malang;Rp10.950.000;5;Rp62.415.000
+P-1056;26/04/2025;Apr-25;cermin;cermin dinding;1;C-049;Bapak Rahmat;Surabaya;Rp7.290.000;10;Rp6.561.000
+P-1057;27/04/2025;Apr-25;cermin;cermin modern;4;C-027;Bapak Joko;Banjarmasin;Rp6.480.000;5;Rp24.624.000
+P-1058;28/04/2025;Apr-25;bufet;bufet kayu;1;C-014;Bapak Eko;Kendal;Rp4.920.000;0;Rp4.920.000
+P-1059;29/04/2025;Apr-25;rak;rak sudut;2;C-123;Bapak Seno;Jakarta Utara;Rp5.380.000;0;Rp10.760.000
+P-1060;29/04/2025;Apr-25;cermin;cermin berdiri;3;C-027;Bapak Dedi;Jakarta Utara;Rp2.150.000;20;Rp5.160.000
+P-1061;30/04/2025;Apr-25;sofa;sofa L-shape;3;C-045;Ibu Siti;Depok;Rp19.360.000;30;Rp40.656.000
+P-1062;01/05/2025;May-25;rak;rak buku;7;C-111;Bapak Tri;Purwokerto;Rp1.580.000;5;Rp10.507.000
+P-1063;01/05/2025;May-25;almari;almari lemari pakaian;5;C-108;Bapak Suli;Pekanbaru;Rp31.920.000;30;Rp111.720.000
+P-1064;02/05/2025;May-25;rak;rak buku;2;C-089;Bapak Ahmad;Kendal;Rp1.580.000;30;Rp2.212.000
+P-1065;02/05/2025;May-25;almari;almari 2 pintu;5;C-007;Ibu Mira;Semarang;Rp10.950.000;25;Rp41.062.500
+P-1066;03/05/2025;May-25;bale-bale;bale-bale ukir;8;C-118;Ibu Hana;Medan;Rp9.470.000;0;Rp75.760.000
+P-1068;05/05/2025;May-25;almari;almari 2 pintu;3;C-007;Ibu Mira;Depok;Rp10.950.000;20;Rp26.280.000
+P-1067;05/05/2025;May-25;kursi;kursi makan;4;C-004;Ibu Ani;Kediri;Rp3.080.000;15;Rp10.472.000
+P-1069;07/05/2025;May-25;meja_makan;meja makan folding;2;C-117;Bapak Wicak;Bogor;Rp17.690.000;0;Rp35.380.000
+P-1070;08/05/2025;May-25;dipan;dipan modern;3;C-014;Bapak Eko;Tangerang;Rp22.220.000;25;Rp49.995.000
+P-1071;08/05/2025;May-25;nakas;nakas minimalis;8;C-041;Ibu Sela;Semarang;Rp2.530.000;30;Rp14.168.000
+P-1072;08/05/2025;May-25;bale-bale;bale-bale minimalis;6;C-027;Bapak Dedi;Pekanbaru;Rp4.030.000;30;Rp16.926.000
+P-1073;08/05/2025;May-25;kursi;kursi gaming;6;C-045;Ibu Siti;Jakarta Barat;Rp3.840.000;0;Rp23.040.000
+P-1074;09/05/2025;May-25;bale-bale;bale-bale ukir;6;C-119;Bapak Iman;Jakarta Tengah;Rp9.470.000;20;Rp45.456.000
+P-1075;10/05/2025;May-25;bale-bale;bale-bale minimalis;8;C-111;Bapak Tri;Medan;Rp4.030.000;20;Rp25.792.000
+P-1076;12/05/2025;May-25;almari;almari lemari pakaian;5;C-015;Ibu Xenia;Bandung;Rp31.920.000;25;Rp119.700.000
+P-1078;13/05/2025;May-25;rak;rak sudut;2;C-094;Bapak Rudi;Pekanbaru;Rp5.380.000;30;Rp7.532.000
+P-1077;13/05/2025;May-25;dipan;dipan minimalis;6;C-094;Bapak Rudi;Kediri;Rp12.470.000;5;Rp71.079.000
+P-1079;15/05/2025;May-25;dipan;dipan luxury;1;C-014;Bapak Eko;Solo;Rp10.570.000;5;Rp10.041.500
+P-1080;16/05/2025;May-25;lemari;lemari display;8;C-094;Bapak Rudi;Semarang;Rp11.170.000;20;Rp71.488.000
+P-1081;19/05/2025;May-25;nakas;nakas 3 laci;5;C-100;Ibu Tini;Jakarta Timur;Rp1.980.000;15;Rp8.415.000
+P-1082;20/05/2025;May-25;kursi;kursi makan;3;C-041;Ibu Sela;Medan;Rp3.080.000;0;Rp9.240.000
+P-1083;22/05/2025;May-25;lemari;lemari gantung;8;C-090;Ibu Dewi;Jakarta Selatan;Rp4.690.000;0;Rp37.520.000
+P-1084;24/05/2025;May-25;kursi;kursi dining;4;C-040;Ibu Lestari;Surabaya;Rp4.730.000;10;Rp17.028.000
+P-1085;24/05/2025;May-25;cermin;cermin classik;8;C-136;Bapak Aris;Purwokerto;Rp6.180.000;5;Rp46.968.000
+P-1086;24/05/2025;May-25;almari;almari minimalis;8;C-117;Bapak Wicak;Solo;Rp27.200.000;5;Rp206.720.000
+P-1087;25/05/2025;May-25;almari;almari lemari pakaian;1;C-148;Bapak Yanto;Malang;Rp31.920.000;0;Rp31.920.000
+P-1088;25/05/2025;May-25;dipan;dipan modern;5;C-089;Bapak Ahmad;Tangerang;Rp22.220.000;20;Rp88.880.000
+P-1089;26/05/2025;May-25;dipan;dipan classik;1;C-036;Bapak Hendri;Purwokerto;Rp9.240.000;10;Rp8.316.000
+P-1091;27/05/2025;May-25;bale-bale;bale-bale modern;5;C-119;Bapak Iman;Purwokerto;Rp5.960.000;15;Rp25.330.000
+P-1092;27/05/2025;May-25;nakas;nakas 2 laci;5;C-109;Ibu Surya;Malang;Rp2.420.000;30;Rp8.470.000
+P-1090;27/05/2025;May-25;bale-bale;bale-bale ukir;3;C-118;Ibu Hana;Kediri;Rp9.470.000;15;Rp24.148.500
+P-1093;28/05/2025;May-25;nakas;nakas minimalis;2;C-100;Ibu Tini;Medan;Rp2.530.000;20;Rp4.048.000
+P-1094;28/05/2025;May-25;rak;rak sudut;1;C-136;Bapak Aris;Depok;Rp5.380.000;25;Rp4.035.000
+P-1095;30/05/2025;May-25;bale-bale;bale-bale ukir;3;C-014;Bapak Eko;Bandung;Rp9.470.000;20;Rp22.728.000
+P-1096;31/05/2025;May-25;almari;almari minimalis;2;C-027;Bapak Dedi;Solo;Rp27.200.000;5;Rp51.680.000
+P-1097;31/05/2025;May-25;nakas;nakas minimalis;1;C-117;Bapak Wicak;Purwokerto;Rp2.530.000;20;Rp2.024.000
+P-1098;01/06/2025;Jun-25;nakas;nakas minimalis;1;C-036;Bapak Hendri;Jakarta Tengah;Rp2.530.000;15;Rp2.150.500
+P-1099;01/06/2025;Jun-25;almari;almari lemari pakaian;8;C-089;Bapak Ahmad;Solo;Rp31.920.000;25;Rp191.520.000
+P-1100;03/06/2025;Jun-25;lemari;lemari gantung;5;C-006;Ibu Lina;Jakarta Utara;Rp4.690.000;20;Rp18.760.000
+P-1101;03/06/2025;Jun-25;rak;rak dinding;5;C-036;Ibu Rina;Kediri;Rp1.880.000;15;Rp7.990.000
+P-1102;05/06/2025;Jun-25;meja;meja rias;1;C-111;Ibu Zona;Jakarta Selatan;Rp10.660.000;5;Rp10.127.000
+P-1106;07/06/2025;Jun-25;lemari;lemari display;2;C-109;Ibu Surya;Kendal;Rp11.170.000;5;Rp21.223.000
+P-1105;07/06/2025;Jun-25;meja_makan;meja makan folding;3;C-036;Ibu Rina;Jakarta Tengah;Rp17.690.000;10;Rp47.763.000
+P-1103;07/06/2025;Jun-25;sofa;sofa 3 seater;7;C-119;Bapak Iman;Jakarta Barat;Rp12.520.000;0;Rp87.640.000
+P-1104;07/06/2025;Jun-25;bale-bale;bale-bale minimalis;5;C-059;Bapak Taufik;Tangerang;Rp4.030.000;0;Rp20.150.000
+P-1107;08/06/2025;Jun-25;cermin;cermin oval;3;C-141;Bapak Agus;Jakarta Selatan;Rp5.340.000;10;Rp14.418.000
+P-1108;09/06/2025;Jun-25;lemari;lemari pakaian;8;C-130;Ibu Yuli;Jakarta Utara;Rp8.860.000;30;Rp49.616.000
+P-1109;12/06/2025;Jun-25;meja;meja console;8;C-045;Ibu Siti;Malang;Rp8.980.000;20;Rp57.472.000
+P-1110;13/06/2025;Jun-25;meja;meja rias;1;C-059;Bapak Taufik;Pekanbaru;Rp10.660.000;25;Rp7.995.000
+P-1111;13/06/2025;Jun-25;kursi;kursi gaming;7;C-108;Bapak Suli;Banjarmasin;Rp3.840.000;15;Rp22.848.000
+P-1112;16/06/2025;Jun-25;almari;almari 3 pintu;8;C-027;Bapak Joko;Kediri;Rp19.810.000;0;Rp158.480.000
+P-1113;17/06/2025;Jun-25;almari;almari 2 pintu;2;C-027;Bapak Dedi;Kendal;Rp10.950.000;25;Rp16.425.000
+P-1115;19/06/2025;Jun-25;dipan;dipan luxury;3;C-111;Ibu Zona;Makassar;Rp10.570.000;30;Rp22.197.000
+P-1114;19/06/2025;Jun-25;lemari;lemari gantung;3;C-015;Ibu Xenia;Banjarmasin;Rp4.690.000;25;Rp10.552.500
+P-1116;22/06/2025;Jun-25;meja_makan;meja makan folding;7;C-049;Bapak Rahmat;Kediri;Rp17.690.000;20;Rp99.064.000
+P-1117;24/06/2025;Jun-25;bufet;bufet minimalis;2;C-036;Bapak Hendri;Jakarta Tengah;Rp11.140.000;0;Rp22.280.000
+P-1118;26/06/2025;Jun-25;nakas;nakas minimalis;4;C-108;Bapak Suli;Surabaya;Rp2.530.000;10;Rp9.108.000
+P-1119;28/06/2025;Jun-25;meja;meja kerja;4;C-040;Ibu Lestari;Purwokerto;Rp6.000.000;20;Rp19.200.000
+P-1120;29/06/2025;Jun-25;almari;almari 4 pintu;4;C-118;Ibu Hana;Jakarta Timur;Rp35.450.000;20;Rp113.440.000
+P-1121;30/06/2025;Jun-25;lemari;lemari gantung;2;C-117;Bapak Wicak;Purwokerto;Rp4.690.000;0;Rp9.380.000
+P-1122;30/06/2025;Jun-25;sofa;sofa corner;6;C-045;Ibu Siti;Semarang;Rp14.050.000;30;Rp59.010.000
+P-1123;30/06/2025;Jun-25;nakas;nakas modern;5;C-111;Ibu Zona;Jakarta Selatan;Rp3.930.000;25;Rp14.737.500
+P-1124;01/07/2025;Jul-25;cermin;cermin berdiri;5;C-026;Bapak Budi;Jogja;Rp2.150.000;5;Rp10.212.500
+P-1125;02/07/2025;Jul-25;meja_makan;meja makan persegi;8;C-111;Bapak Tri;Jakarta Utara;Rp14.890.000;20;Rp95.296.000
+P-1127;03/07/2025;Jul-25;nakas;nakas 1 laci;1;C-147;Ibu Besta;Palembang;Rp2.550.000;25;Rp1.912.500
+P-1126;03/07/2025;Jul-25;meja_makan;meja makan folding;3;C-148;Bapak Yanto;Surabaya;Rp17.690.000;20;Rp42.456.000
+P-1128;04/07/2025;Jul-25;meja;meja rias;4;C-125;Bapak Sanusi;Banjarmasin;Rp10.660.000;30;Rp29.848.000
+P-1129;04/07/2025;Jul-25;lemari;lemari display;8;C-014;Ibu Putri;Jakarta Tengah;Rp11.170.000;20;Rp71.488.000
+P-1130;04/07/2025;Jul-25;rak;rak sudut;4;C-036;Bapak Hendri;Tangerang;Rp5.380.000;30;Rp15.064.000
+P-1131;06/07/2025;Jul-25;kursi;kursi gaming;6;C-130;Ibu Yuli;Jogja;Rp3.840.000;15;Rp19.584.000
+P-1132;09/07/2025;Jul-25;almari;almari 4 pintu;6;C-089;Bapak Ahmad;Tangerang;Rp35.450.000;20;Rp170.160.000
+P-1133;10/07/2025;Jul-25;rak;rak tv;8;C-125;Bapak Sanusi;Purwokerto;Rp4.130.000;10;Rp29.736.000
+P-1134;10/07/2025;Jul-25;sofa;sofa 2 seater;6;C-111;Ibu Zona;Banyumas;Rp12.140.000;0;Rp72.840.000
+P-1135;11/07/2025;Jul-25;dipan;dipan minimalis;5;C-089;Bapak Ahmad;Jakarta Utara;Rp12.470.000;5;Rp59.232.500
+P-1136;11/07/2025;Jul-25;meja;meja kerja;6;C-049;Bapak Rahmat;Jakarta Utara;Rp6.000.000;5;Rp34.200.000
+P-1137;11/07/2025;Jul-25;kursi;kursi makan;3;C-141;Bapak Agus;Surabaya;Rp3.080.000;0;Rp9.240.000
+P-1138;12/07/2025;Jul-25;nakas;nakas modern;3;C-027;Bapak Joko;Jakarta Selatan;Rp3.930.000;10;Rp10.611.000
+P-1139;13/07/2025;Jul-25;meja;meja tamu;4;C-014;Bapak Eko;Jakarta Tengah;Rp13.170.000;5;Rp50.046.000
+P-1140;14/07/2025;Jul-25;meja_makan;meja makan bundar;4;C-090;Ibu Dewi;Pekanbaru;Rp8.450.000;5;Rp32.110.000
+P-1141;14/07/2025;Jul-25;rak;rak buku;3;C-059;Bapak Taufik;Jakarta Barat;Rp1.580.000;5;Rp4.503.000
+P-1142;15/07/2025;Jul-25;nakas;nakas minimalis;6;C-119;Bapak Iman;Palembang;Rp2.530.000;5;Rp14.421.000
+P-1143;17/07/2025;Jul-25;meja_makan;meja makan persegi;5;C-014;Ibu Putri;Surabaya;Rp14.890.000;10;Rp67.005.000
+P-1144;17/07/2025;Jul-25;bale-bale;bale-bale ukir;2;C-041;Ibu Sela;Bogor;Rp9.470.000;30;Rp13.258.000
+P-1145;17/07/2025;Jul-25;almari;almari 3 pintu;7;C-133;Bapak Wahab;Surabaya;Rp19.810.000;5;Rp131.736.500
+P-1146;19/07/2025;Jul-25;meja_makan;meja makan persegi;6;C-119;Bapak Iman;Kendal;Rp14.890.000;10;Rp80.406.000
+P-1147;19/07/2025;Jul-25;meja_makan;meja makan persegi;1;C-094;Ibu Ermi;Kendal;Rp14.890.000;30;Rp10.423.000
+P-1148;20/07/2025;Jul-25;cermin;cermin classik;6;C-041;Ibu Sela;Surabaya;Rp6.180.000;0;Rp37.080.000
+P-1152;21/07/2025;Jul-25;kursi;kursi dining;6;C-027;Bapak Joko;Medan;Rp4.730.000;30;Rp19.866.000
+P-1151;21/07/2025;Jul-25;kursi;kursi dining;2;C-147;Ibu Besta;Bogor;Rp4.730.000;25;Rp7.095.000
+P-1150;21/07/2025;Jul-25;bale-bale;bale-bale modern;5;C-094;Ibu Ermi;Bekasi;Rp5.960.000;0;Rp29.800.000
+P-1149;21/07/2025;Jul-25;bufet;bufet tv;4;C-130;Ibu Yuli;Jakarta Tengah;Rp4.490.000;10;Rp16.164.000
+P-1153;22/07/2025;Jul-25;meja;meja belajar;3;C-040;Ibu Lestari;Makassar;Rp13.350.000;15;Rp34.042.500
+P-1154;24/07/2025;Jul-25;rak;rak sudut;3;C-094;Bapak Rudi;Semarang;Rp5.380.000;25;Rp12.105.000
+P-1155;24/07/2025;Jul-25;sofa;sofa 2 seater;7;C-094;Bapak Rudi;Pekanbaru;Rp12.140.000;20;Rp67.984.000
+P-1156;25/07/2025;Jul-25;meja;meja rias;5;C-089;Bapak Ahmad;Tangerang;Rp10.660.000;15;Rp45.305.000
+P-1157;26/07/2025;Jul-25;rak;rak tv;6;C-111;Bapak Tri;Jogja;Rp4.130.000;30;Rp17.346.000
+P-1158;26/07/2025;Jul-25;sofa;sofa stool;4;C-045;Ibu Siti;Surabaya;Rp8.240.000;20;Rp26.368.000
+P-1159;28/07/2025;Jul-25;meja;meja belajar;7;C-108;Bapak Suli;Banyumas;Rp13.350.000;30;Rp65.415.000
+P-1160;29/07/2025;Jul-25;almari;almari minimalis;7;C-059;Bapak Taufik;Bandung;Rp27.200.000;25;Rp142.800.000
+P-1162;31/07/2025;Jul-25;cermin;cermin berdiri;6;C-026;Bapak Budi;Palembang;Rp2.150.000;30;Rp9.030.000
+P-1161;31/07/2025;Jul-25;kursi;kursi tamu;3;C-111;Bapak Tri;Depok;Rp2.069.999;20;Rp4.967.998
+P-1163;01/08/2025;Aug-25;nakas;nakas modern;4;C-133;Ibu Ratna;Kediri;Rp3.930.000;5;Rp14.934.000
+P-1164;01/08/2025;Aug-25;kursi;kursi makan;2;C-147;Ibu Besta;Jogja;Rp3.080.000;25;Rp4.620.000
+P-1165;03/08/2025;Aug-25;sofa;sofa L-shape;2;C-026;Bapak Budi;Bekasi;Rp19.360.000;30;Rp27.104.000
+P-1166;03/08/2025;Aug-25;cermin;cermin oval;2;C-014;Ibu Putri;Pekanbaru;Rp5.340.000;10;Rp9.612.000
+P-1167;03/08/2025;Aug-25;meja;meja makan;7;C-041;Ibu Sela;Semarang;Rp10.990.000;30;Rp53.851.000
+P-1168;04/08/2025;Aug-25;almari;almari lemari pakaian;8;C-148;Bapak Yanto;Jakarta Tengah;Rp31.920.000;25;Rp191.520.000
+P-1169;06/08/2025;Aug-25;kursi;kursi dining;2;C-004;Ibu Ani;Jakarta Selatan;Rp4.730.000;15;Rp8.041.000
+P-1170;08/08/2025;Aug-25;kursi;kursi santai;4;C-147;Ibu Besta;Bandung;Rp7.770.000;10;Rp27.972.000
+P-1171;09/08/2025;Aug-25;cermin;cermin modern;4;C-049;Bapak Rahmat;Kediri;Rp6.480.000;0;Rp25.920.000
+P-1172;09/08/2025;Aug-25;nakas;nakas minimalis;6;C-124;Bapak Sutrio;Solo;Rp2.530.000;15;Rp12.903.000
+P-1174;10/08/2025;Aug-25;nakas;nakas 1 laci;6;C-049;Bapak Rahmat;Jakarta Utara;Rp2.550.000;25;Rp11.475.000
+P-1173;10/08/2025;Aug-25;dipan;dipan modern;2;C-141;Bapak Agus;Palembang;Rp22.220.000;25;Rp33.330.000
+P-1175;11/08/2025;Aug-25;sofa;sofa stool;8;C-125;Bapak Sanusi;Solo;Rp8.240.000;20;Rp52.736.000
+P-1176;12/08/2025;Aug-25;meja_makan;meja makan bundar;6;C-004;Ibu Ani;Bandung;Rp8.450.000;5;Rp48.165.000
+P-1177;13/08/2025;Aug-25;meja_makan;meja makan bundar;7;C-014;Ibu Putri;Kediri;Rp8.450.000;0;Rp59.150.000
+P-1178;13/08/2025;Aug-25;almari;almari 2 pintu;4;C-014;Bapak Eko;Jakarta Timur;Rp10.950.000;0;Rp43.800.000
+P-1179;14/08/2025;Aug-25;nakas;nakas 1 laci;1;C-036;Ibu Rina;Semarang;Rp2.550.000;0;Rp2.550.000
+P-1180;15/08/2025;Aug-25;meja_makan;meja makan folding;6;C-133;Bapak Wahab;Jogja;Rp17.690.000;10;Rp95.526.000
+P-1181;15/08/2025;Aug-25;nakas;nakas 1 laci;5;C-089;Bapak Ahmad;Bandung;Rp2.550.000;30;Rp8.925.000
+P-1182;18/08/2025;Aug-25;meja_makan;meja makan persegi;6;C-090;Ibu Dewi;Purwokerto;Rp14.890.000;15;Rp75.939.000
+P-1183;19/08/2025;Aug-25;meja;meja rias;7;C-133;Ibu Ratna;Kediri;Rp10.660.000;20;Rp59.696.000
+P-1185;20/08/2025;Aug-25;sofa;sofa L-shape;4;C-006;Ibu Lina;Surabaya;Rp19.360.000;25;Rp58.080.000
+P-1184;20/08/2025;Aug-25;meja_makan;meja makan folding;8;C-089;Bapak Ahmad;Jogja;Rp17.690.000;20;Rp113.216.000
+P-1186;22/08/2025;Aug-25;almari;almari minimalis;3;C-094;Bapak Rudi;Kediri;Rp27.200.000;25;Rp61.200.000
+P-1187;22/08/2025;Aug-25;meja;meja makan;8;C-036;Ibu Rina;Palembang;Rp10.990.000;10;Rp79.128.000
+P-1188;22/08/2025;Aug-25;rak;rak minimalis;5;C-119;Bapak Iman;Solo;Rp5.900.000;15;Rp25.075.000
+P-1189;24/08/2025;Aug-25;nakas;nakas minimalis;3;C-036;Bapak Hendri;Jogja;Rp2.530.000;20;Rp6.072.000
+P-1190;24/08/2025;Aug-25;lemari;lemari gantung;5;C-111;Bapak Tri;Kendal;Rp4.690.000;5;Rp22.277.500
+P-1191;25/08/2025;Aug-25;kursi;kursi dining;3;C-109;Ibu Surya;Bandung;Rp4.730.000;10;Rp12.771.000
+P-1192;25/08/2025;Aug-25;bufet;bufet minimalis;7;C-015;Ibu Xenia;Pekanbaru;Rp11.140.000;5;Rp74.081.000
+P-1193;25/08/2025;Aug-25;dipan;dipan modern;8;C-014;Ibu Putri;Jakarta Timur;Rp22.220.000;0;Rp177.760.000
+P-1195;26/08/2025;Aug-25;nakas;nakas minimalis;5;C-124;Bapak Sutrio;Banjarmasin;Rp2.530.000;5;Rp12.017.500
+P-1194;26/08/2025;Aug-25;bufet;bufet dapur;6;C-045;Ibu Siti;Jakarta Timur;Rp9.290.000;30;Rp39.018.000
+P-1196;26/08/2025;Aug-25;meja;meja rias;5;C-133;Bapak Wahab;Jakarta Utara;Rp10.660.000;25;Rp39.975.000
+P-1197;27/08/2025;Aug-25;meja;meja makan;7;C-006;Ibu Lina;Kediri;Rp10.990.000;15;Rp65.390.500
+P-1198;30/08/2025;Aug-25;kursi;kursi tamu;5;C-119;Bapak Iman;Palembang;Rp2.069.999;15;Rp8.797.496
+P-1199;31/08/2025;Aug-25;almari;almari lemari pakaian;5;C-111;Ibu Zona;Medan;Rp31.920.000;25;Rp119.700.000
+P-1200;31/08/2025;Aug-25;bale-bale;bale-bale minimalis;2;C-014;Ibu Putri;Jakarta Selatan;Rp4.030.000;20;Rp6.448.000
+P-1201;02/09/2025;Sep-25;bale-bale;bale-bale ukir;1;C-141;Bapak Agus;Banyumas;Rp9.470.000;25;Rp7.102.500
+P-1202;03/09/2025;Sep-25;rak;rak buku;5;C-006;Ibu Lina;Kediri;Rp1.580.000;10;Rp7.110.000
+P-1203;03/09/2025;Sep-25;bufet;bufet minimalis;1;C-059;Bapak Taufik;Surabaya;Rp11.140.000;25;Rp8.355.000
+P-1204;03/09/2025;Sep-25;rak;rak sudut;8;C-094;Bapak Rudi;Tangerang;Rp5.380.000;20;Rp34.432.000
+P-1205;04/09/2025;Sep-25;cermin;cermin dinding;5;C-006;Ibu Lina;Solo;Rp7.290.000;0;Rp36.450.000
+P-1206;05/09/2025;Sep-25;rak;rak buku;3;C-036;Bapak Hendri;Purwokerto;Rp1.580.000;15;Rp4.029.000
+P-1208;06/09/2025;Sep-25;cermin;cermin berdiri;4;C-090;Ibu Dewi;Surabaya;Rp2.150.000;0;Rp8.600.000
+P-1207;06/09/2025;Sep-25;bale-bale;bale-bale modern;7;C-111;Ibu Zona;Depok;Rp5.960.000;25;Rp31.290.000
+P-1209;07/09/2025;Sep-25;cermin;cermin berdiri;5;C-111;Bapak Tri;Solo;Rp2.150.000;25;Rp8.062.500
+P-1210;08/09/2025;Sep-25;nakas;nakas 1 laci;2;C-007;Ibu Mira;Semarang;Rp2.550.000;0;Rp5.100.000
+P-1211;09/09/2025;Sep-25;lemari;lemari pakaian;2;C-133;Bapak Wahab;Jakarta Selatan;Rp8.860.000;15;Rp15.062.000
+P-1212;11/09/2025;Sep-25;nakas;nakas minimalis;8;C-049;Bapak Rahmat;Depok;Rp2.530.000;30;Rp14.168.000
+P-1213;11/09/2025;Sep-25;almari;almari lemari pakaian;8;C-094;Bapak Rudi;Jakarta Utara;Rp31.920.000;15;Rp217.056.000
+P-1214;11/09/2025;Sep-25;meja;meja tamu;4;C-148;Bapak Yanto;Pekanbaru;Rp13.170.000;15;Rp44.778.000
+P-1215;12/09/2025;Sep-25;bale-bale;bale-bale ukir;1;C-014;Bapak Eko;Solo;Rp9.470.000;30;Rp6.629.000
+P-1216;15/09/2025;Sep-25;cermin;cermin modern;1;C-094;Bapak Rudi;Bekasi;Rp6.480.000;25;Rp4.860.000
+P-1217;17/09/2025;Sep-25;dipan;dipan minimalis;5;C-109;Ibu Surya;Surabaya;Rp12.470.000;30;Rp43.645.000
+P-1218;18/09/2025;Sep-25;lemari;lemari gantung;8;C-027;Bapak Joko;Jakarta Timur;Rp4.690.000;5;Rp35.644.000
+P-1223;19/09/2025;Sep-25;bufet;bufet dapur;3;C-090;Ibu Dewi;Kendal;Rp9.290.000;25;Rp20.902.500
+P-1222;19/09/2025;Sep-25;lemari;lemari display;4;C-090;Ibu Dewi;Surabaya;Rp11.170.000;10;Rp40.212.000
+P-1220;19/09/2025;Sep-25;sofa;sofa corner;3;C-036;Bapak Hendri;Palembang;Rp14.050.000;10;Rp37.935.000
+P-1221;19/09/2025;Sep-25;meja_makan;meja makan persegi;7;C-094;Bapak Rudi;Malang;Rp14.890.000;5;Rp99.018.500
+P-1219;19/09/2025;Sep-25;meja_makan;meja makan bundar;3;C-130;Ibu Yuli;Jakarta Selatan;Rp8.450.000;0;Rp25.350.000
+P-1224;20/09/2025;Sep-25;lemari;lemari gantung;6;C-141;Bapak Agus;Banyumas;Rp4.690.000;15;Rp23.919.000
+P-1225;20/09/2025;Sep-25;kursi;kursi santai;3;C-109;Ibu Surya;Kediri;Rp7.770.000;30;Rp16.317.000
+P-1226;21/09/2025;Sep-25;cermin;cermin oval;1;C-124;Bapak Sutrio;Kendal;Rp5.340.000;0;Rp5.340.000
+P-1227;22/09/2025;Sep-25;dipan;dipan minimalis;6;C-036;Ibu Rina;Jakarta Tengah;Rp12.470.000;0;Rp74.820.000
+P-1228;23/09/2025;Sep-25;almari;almari 3 pintu;1;C-026;Bapak Budi;Banjarmasin;Rp19.810.000;20;Rp15.848.000
+P-1229;23/09/2025;Sep-25;almari;almari lemari pakaian;7;C-014;Ibu Putri;Medan;Rp31.920.000;15;Rp189.924.000
+P-1230;24/09/2025;Sep-25;nakas;nakas 3 laci;4;C-119;Bapak Iman;Jogja;Rp1.980.000;5;Rp7.524.000
+P-1231;24/09/2025;Sep-25;almari;almari lemari pakaian;2;C-133;Bapak Wahab;Jakarta Timur;Rp31.920.000;5;Rp60.648.000
+P-1236;25/09/2025;Sep-25;meja_makan;meja makan bundar;6;C-089;Bapak Ahmad;Jakarta Selatan;Rp8.450.000;25;Rp38.025.000
+P-1235;25/09/2025;Sep-25;lemari;lemari display;5;C-036;Bapak Hendri;Palembang;Rp11.170.000;5;Rp53.057.500
+P-1232;25/09/2025;Sep-25;dipan;dipan minimalis;4;C-133;Ibu Ratna;Jakarta Barat;Rp12.470.000;25;Rp37.410.000
+P-1233;25/09/2025;Sep-25;bale-bale;bale-bale modern;2;C-118;Ibu Hana;Jakarta Selatan;Rp5.960.000;10;Rp10.728.000
+P-1234;25/09/2025;Sep-25;rak;rak tv;1;C-090;Ibu Dewi;Pekanbaru;Rp4.130.000;0;Rp4.130.000
+P-1237;26/09/2025;Sep-25;rak;rak minimalis;2;C-015;Ibu Xenia;Medan;Rp5.900.000;25;Rp8.850.000
+P-1238;27/09/2025;Sep-25;meja;meja console;7;C-130;Ibu Yuli;Semarang;Rp8.980.000;30;Rp44.002.000
+P-1239;29/09/2025;Sep-25;rak;rak dinding;6;C-026;Bapak Budi;Tangerang;Rp1.880.000;20;Rp9.024.000
+P-1241;30/09/2025;Sep-25;cermin;cermin oval;2;C-089;Bapak Ahmad;Bandung;Rp5.340.000;25;Rp8.010.000
+P-1240;30/09/2025;Sep-25;sofa;sofa L-shape;7;C-123;Ibu Vina;Bekasi;Rp19.360.000;5;Rp128.744.000
+P-1243;01/10/2025;Oct-25;cermin;cermin modern;3;C-036;Ibu Rina;Palembang;Rp6.480.000;20;Rp15.552.000
+P-1244;01/10/2025;Oct-25;bufet;bufet minimalis;3;C-045;Ibu Siti;Bandung;Rp11.140.000;25;Rp25.065.000
+P-1242;01/10/2025;Oct-25;bufet;bufet minimalis;1;C-059;Bapak Taufik;Jakarta Selatan;Rp11.140.000;0;Rp11.140.000
+P-1245;03/10/2025;Oct-25;almari;almari 3 pintu;8;C-148;Bapak Yanto;Banyumas;Rp19.810.000;15;Rp134.708.000
+P-1246;05/10/2025;Oct-25;almari;almari 4 pintu;8;C-059;Bapak Taufik;Jakarta Tengah;Rp35.450.000;25;Rp212.700.000
+P-1247;06/10/2025;Oct-25;bufet;bufet tv;2;C-090;Ibu Dewi;Purwokerto;Rp4.490.000;10;Rp8.082.000
+P-1248;08/10/2025;Oct-25;nakas;nakas 2 laci;8;C-036;Bapak Hendri;Kediri;Rp2.420.000;0;Rp19.360.000
+P-1249;09/10/2025;Oct-25;sofa;sofa corner;8;C-100;Ibu Tini;Bogor;Rp14.050.000;0;Rp112.400.000
+P-1250;09/10/2025;Oct-25;almari;almari 4 pintu;4;C-094;Bapak Rudi;Solo;Rp35.450.000;25;Rp106.350.000
+P-1251;09/10/2025;Oct-25;meja;meja tamu;1;C-124;Bapak Sutrio;Purwokerto;Rp13.170.000;10;Rp11.853.000
+P-1252;09/10/2025;Oct-25;almari;almari 2 pintu;4;C-125;Bapak Sanusi;Jakarta Selatan;Rp10.950.000;0;Rp43.800.000
+P-1254;10/10/2025;Oct-25;meja;meja console;5;C-117;Bapak Wicak;Banyumas;Rp8.980.000;20;Rp35.920.000
+P-1253;10/10/2025;Oct-25;lemari;lemari pakaian;3;C-026;Bapak Budi;Jakarta Selatan;Rp8.860.000;15;Rp22.593.000
+P-1255;11/10/2025;Oct-25;dipan;dipan luxury;7;C-124;Bapak Sutrio;Kediri;Rp10.570.000;25;Rp55.492.500
+P-1256;12/10/2025;Oct-25;dipan;dipan minimalis;7;C-036;Bapak Hendri;Jakarta Barat;Rp12.470.000;5;Rp82.925.500
+P-1257;12/10/2025;Oct-25;rak;rak minimalis;5;C-125;Bapak Sanusi;Pekanbaru;Rp5.900.000;20;Rp23.600.000
+P-1258;13/10/2025;Oct-25;sofa;sofa corner;5;C-094;Ibu Ermi;Pekanbaru;Rp14.050.000;10;Rp63.225.000
+P-1259;14/10/2025;Oct-25;bufet;bufet minimalis;2;C-141;Bapak Agus;Tangerang;Rp11.140.000;5;Rp21.166.000
+P-1260;15/10/2025;Oct-25;lemari;lemari display;4;C-049;Bapak Rahmat;Jakarta Selatan;Rp11.170.000;0;Rp44.680.000
+P-1261;15/10/2025;Oct-25;almari;almari 3 pintu;5;C-117;Bapak Wicak;Jakarta Tengah;Rp19.810.000;15;Rp84.192.500
+P-1262;16/10/2025;Oct-25;bale-bale;bale-bale ukir;4;C-027;Bapak Dedi;Medan;Rp9.470.000;5;Rp35.986.000
+P-1263;16/10/2025;Oct-25;lemari;lemari pakaian;4;C-015;Ibu Xenia;Medan;Rp8.860.000;5;Rp33.668.000
+P-1264;16/10/2025;Oct-25;meja;meja belajar;2;C-133;Ibu Ratna;Semarang;Rp13.350.000;15;Rp22.695.000
+P-1265;18/10/2025;Oct-25;sofa;sofa stool;7;C-027;Bapak Joko;Jakarta Tengah;Rp8.240.000;20;Rp46.144.000
+P-1266;19/10/2025;Oct-25;cermin;cermin oval;1;C-111;Ibu Zona;Palembang;Rp5.340.000;30;Rp3.738.000
+P-1268;20/10/2025;Oct-25;lemari;lemari gantung;8;C-119;Bapak Iman;Depok;Rp4.690.000;10;Rp33.768.000
+P-1267;20/10/2025;Oct-25;dipan;dipan classik;6;C-006;Ibu Lina;Pekanbaru;Rp9.240.000;5;Rp52.668.000
+P-1269;22/10/2025;Oct-25;meja_makan;meja makan bundar;1;C-026;Bapak Budi;Purwokerto;Rp8.450.000;5;Rp8.027.500
+P-1270;24/10/2025;Oct-25;meja_makan;meja makan folding;7;C-109;Ibu Surya;Bekasi;Rp17.690.000;10;Rp111.447.000
+P-1271;26/10/2025;Oct-25;nakas;nakas 3 laci;5;C-136;Bapak Aris;Pekanbaru;Rp1.980.000;25;Rp7.425.000
+P-1272;26/10/2025;Oct-25;nakas;nakas 3 laci;1;C-094;Bapak Rudi;Pekanbaru;Rp1.980.000;10;Rp1.782.000
+P-1273;26/10/2025;Oct-25;nakas;nakas 3 laci;1;C-125;Bapak Sanusi;Kediri;Rp1.980.000;30;Rp1.386.000
+P-1274;27/10/2025;Oct-25;bale-bale;bale-bale modern;4;C-111;Ibu Zona;Bogor;Rp5.960.000;5;Rp22.648.000
+P-1275;27/10/2025;Oct-25;cermin;cermin classik;7;C-136;Bapak Aris;Jakarta Utara;Rp6.180.000;20;Rp34.608.000
+P-1276;28/10/2025;Oct-25;sofa;sofa 3 seater;4;C-124;Bapak Sutrio;Semarang;Rp12.520.000;15;Rp42.568.000
+P-1277;28/10/2025;Oct-25;lemari;lemari gantung;5;C-014;Ibu Putri;Jakarta Timur;Rp4.690.000;10;Rp21.105.000
+P-1279;29/10/2025;Oct-25;kursi;kursi kantor;2;C-133;Ibu Ratna;Palembang;Rp9.430.000;5;Rp17.917.000
+P-1278;29/10/2025;Oct-25;sofa;sofa 3 seater;4;C-090;Ibu Dewi;Solo;Rp12.520.000;5;Rp47.576.000
+P-1280;30/10/2025;Oct-25;almari;almari 4 pintu;8;C-036;Ibu Rina;Jakarta Timur;Rp35.450.000;15;Rp241.060.000
+P-1281;31/10/2025;Oct-25;rak;rak sudut;2;C-090;Ibu Dewi;Jogja;Rp5.380.000;5;Rp10.222.000
+P-1282;31/10/2025;Oct-25;dipan;dipan modern;1;C-007;Ibu Mira;Jakarta Barat;Rp22.220.000;30;Rp15.554.000
+P-1283;01/11/2025;Nov-25;dipan;dipan minimalis;8;C-111;Bapak Tri;Malang;Rp12.470.000;15;Rp84.796.000
+P-1284;02/11/2025;Nov-25;lemari;lemari gantung;5;C-027;Bapak Joko;Tangerang;Rp4.690.000;20;Rp18.760.000
+P-1285;02/11/2025;Nov-25;almari;almari lemari pakaian;7;C-111;Bapak Tri;Jakarta Timur;Rp31.920.000;15;Rp189.924.000
+P-1286;02/11/2025;Nov-25;nakas;nakas 2 laci;6;C-108;Bapak Suli;Makassar;Rp2.420.000;30;Rp10.164.000
+P-1287;04/11/2025;Nov-25;meja;meja belajar;4;C-123;Bapak Seno;Banjarmasin;Rp13.350.000;15;Rp45.390.000
+P-1291;05/11/2025;Nov-25;meja;meja console;8;C-060;Ibu Nani;Jakarta Timur;Rp8.980.000;30;Rp50.288.000
+P-1290;05/11/2025;Nov-25;bufet;bufet minimalis;5;C-123;Bapak Seno;Jakarta Tengah;Rp11.140.000;25;Rp41.775.000
+P-1288;05/11/2025;Nov-25;rak;rak tv;8;C-040;Ibu Lestari;Purwokerto;Rp4.130.000;30;Rp23.128.000
+P-1289;05/11/2025;Nov-25;nakas;nakas minimalis;8;C-119;Bapak Iman;Palembang;Rp2.530.000;20;Rp16.192.000
+P-1292;07/11/2025;Nov-25;nakas;nakas minimalis;7;C-041;Ibu Sela;Jogja;Rp2.530.000;20;Rp14.168.000
+P-1293;07/11/2025;Nov-25;cermin;cermin classik;1;C-027;Bapak Joko;Makassar;Rp6.180.000;30;Rp4.326.000
+P-1294;07/11/2025;Nov-25;lemari;lemari pakaian;7;C-130;Ibu Yuli;Solo;Rp8.860.000;5;Rp58.919.000
+P-1295;08/11/2025;Nov-25;lemari;lemari es kayu;8;C-027;Bapak Joko;Kendal;Rp10.740.000;30;Rp60.144.000
+P-1296;08/11/2025;Nov-25;bale-bale;bale-bale modern;3;C-094;Ibu Ermi;Surabaya;Rp5.960.000;15;Rp15.198.000
+P-1297;09/11/2025;Nov-25;almari;almari minimalis;3;C-119;Bapak Iman;Semarang;Rp27.200.000;15;Rp69.360.000
+P-1300;10/11/2025;Nov-25;dipan;dipan classik;4;C-109;Ibu Surya;Palembang;Rp9.240.000;25;Rp27.720.000
+P-1299;10/11/2025;Nov-25;meja_makan;meja makan persegi;5;C-014;Bapak Eko;Kendal;Rp14.890.000;20;Rp59.560.000
+P-1298;10/11/2025;Nov-25;almari;almari minimalis;1;C-117;Bapak Wicak;Jakarta Barat;Rp27.200.000;30;Rp19.040.000
+P-1301;15/11/2025;Nov-25;meja_makan;meja makan folding;1;C-136;Bapak Aris;Banjarmasin;Rp17.690.000;15;Rp15.036.500
+P-1302;15/11/2025;Nov-25;cermin;cermin dinding;1;C-118;Ibu Hana;Bandung;Rp7.290.000;10;Rp6.561.000
+P-1303;15/11/2025;Nov-25;bale-bale;bale-bale modern;1;C-049;Bapak Rahmat;Palembang;Rp5.960.000;15;Rp5.066.000
+P-1304;15/11/2025;Nov-25;kursi;kursi dining;8;C-049;Bapak Rahmat;Jakarta Utara;Rp4.730.000;15;Rp32.164.000
+P-1305;15/11/2025;Nov-25;meja;meja console;6;C-123;Bapak Seno;Malang;Rp8.980.000;5;Rp51.186.000
+P-1306;16/11/2025;Nov-25;rak;rak buku;2;C-147;Ibu Besta;Jakarta Selatan;Rp1.580.000;15;Rp2.686.000
+P-1307;18/11/2025;Nov-25;bale-bale;bale-bale minimalis;5;C-141;Bapak Agus;Banyumas;Rp4.030.000;0;Rp20.150.000
+P-1308;20/11/2025;Nov-25;bufet;bufet dapur;2;C-130;Ibu Yuli;Solo;Rp9.290.000;5;Rp17.651.000
+P-1310;21/11/2025;Nov-25;cermin;cermin modern;1;C-108;Bapak Suli;Pekanbaru;Rp6.480.000;5;Rp6.156.000
+P-1309;21/11/2025;Nov-25;rak;rak tv;8;C-006;Ibu Lina;Pekanbaru;Rp4.130.000;30;Rp23.128.000
+P-1311;22/11/2025;Nov-25;cermin;cermin classik;2;C-119;Bapak Iman;Jakarta Selatan;Rp6.180.000;15;Rp10.506.000
+P-1312;24/11/2025;Nov-25;dipan;dipan modern;2;C-109;Ibu Surya;Jakarta Timur;Rp22.220.000;0;Rp44.440.000
+P-1314;25/11/2025;Nov-25;sofa;sofa corner;5;C-094;Ibu Ermi;Bandung;Rp14.050.000;0;Rp70.250.000
+P-1313;25/11/2025;Nov-25;bufet;bufet kayu;1;C-026;Bapak Budi;Pekanbaru;Rp4.920.000;10;Rp4.428.000
+P-1315;28/11/2025;Nov-25;cermin;cermin berdiri;8;C-049;Bapak Rahmat;Malang;Rp2.150.000;5;Rp16.340.000
+P-1316;28/11/2025;Nov-25;bufet;bufet dapur;6;C-111;Ibu Zona;Jakarta Utara;Rp9.290.000;25;Rp41.805.000
+P-1317;02/12/2025;Dec-25;meja_makan;meja makan bundar;5;C-089;Bapak Ahmad;Bogor;Rp8.450.000;5;Rp40.137.500
+P-1318;03/12/2025;Dec-25;bufet;bufet tv;8;C-004;Ibu Ani;Banjarmasin;Rp4.490.000;30;Rp25.144.000
+P-1319;03/12/2025;Dec-25;nakas;nakas minimalis;8;C-148;Bapak Yanto;Kediri;Rp2.530.000;10;Rp18.216.000
+P-1320;04/12/2025;Dec-25;almari;almari 2 pintu;3;C-133;Bapak Wahab;Bekasi;Rp10.950.000;30;Rp22.995.000
+P-1321;05/12/2025;Dec-25;rak;rak buku;4;C-006;Ibu Lina;Jakarta Selatan;Rp1.580.000;30;Rp4.424.000
+P-1322;05/12/2025;Dec-25;dipan;dipan luxury;5;C-004;Ibu Ani;Malang;Rp10.570.000;25;Rp39.637.500
+P-1323;06/12/2025;Dec-25;sofa;sofa 2 seater;6;C-007;Ibu Mira;Jakarta Timur;Rp12.140.000;10;Rp65.556.000
+P-1325;07/12/2025;Dec-25;bufet;bufet dapur;6;C-006;Ibu Lina;Malang;Rp9.290.000;20;Rp44.592.000
+P-1326;07/12/2025;Dec-25;rak;rak buku;8;C-014;Ibu Putri;Pekanbaru;Rp1.580.000;0;Rp12.640.000
+P-1324;07/12/2025;Dec-25;bufet;bufet tv;5;C-004;Ibu Ani;Pekanbaru;Rp4.490.000;0;Rp22.450.000
+P-1327;08/12/2025;Dec-25;dipan;dipan kayu jati;5;C-026;Bapak Budi;Kediri;Rp24.330.000;30;Rp85.155.000
+P-1328;09/12/2025;Dec-25;sofa;sofa corner;2;C-027;Bapak Dedi;Jakarta Selatan;Rp14.050.000;25;Rp21.075.000
+P-1329;10/12/2025;Dec-25;bale-bale;bale-bale minimalis;1;C-111;Bapak Tri;Bekasi;Rp4.030.000;0;Rp4.030.000
+P-1330;10/12/2025;Dec-25;sofa;sofa 3 seater;7;C-130;Ibu Yuli;Jakarta Selatan;Rp12.520.000;10;Rp78.876.000
+P-1331;11/12/2025;Dec-25;sofa;sofa corner;6;C-060;Ibu Nani;Jakarta Tengah;Rp14.050.000;20;Rp67.440.000
+P-1332;13/12/2025;Dec-25;kursi;kursi dining;2;C-089;Bapak Ahmad;Bekasi;Rp4.730.000;15;Rp8.041.000
+P-1333;13/12/2025;Dec-25;meja_makan;meja makan folding;3;C-060;Ibu Nani;Kediri;Rp17.690.000;15;Rp45.109.500
+P-1334;14/12/2025;Dec-25;sofa;sofa bed;3;C-027;Bapak Joko;Semarang;Rp8.240.000;0;Rp24.720.000
+P-1335;15/12/2025;Dec-25;rak;rak tv;7;C-147;Ibu Besta;Malang;Rp4.130.000;10;Rp26.019.000
+P-1339;17/12/2025;Dec-25;nakas;nakas 3 laci;7;C-027;Bapak Joko;Purwokerto;Rp1.980.000;30;Rp9.702.000
+P-1338;17/12/2025;Dec-25;meja;meja console;8;C-133;Ibu Ratna;Jakarta Barat;Rp8.980.000;15;Rp61.064.000
+P-1337;17/12/2025;Dec-25;meja_makan;meja makan persegi;8;C-059;Bapak Taufik;Bogor;Rp14.890.000;15;Rp101.252.000
+P-1336;17/12/2025;Dec-25;lemari;lemari es kayu;1;C-136;Bapak Aris;Surabaya;Rp10.740.000;20;Rp8.592.000
+P-1340;18/12/2025;Dec-25;bale-bale;bale-bale modern;8;C-089;Bapak Ahmad;Palembang;Rp5.960.000;0;Rp47.680.000
+P-1341;18/12/2025;Dec-25;bale-bale;bale-bale ukir;6;C-123;Bapak Seno;Kendal;Rp9.470.000;15;Rp48.297.000
+P-1342;18/12/2025;Dec-25;meja_makan;meja makan persegi;8;C-136;Bapak Aris;Surabaya;Rp14.890.000;5;Rp113.164.000
+P-1343;19/12/2025;Dec-25;rak;rak sudut;4;C-125;Bapak Sanusi;Malang;Rp5.380.000;10;Rp19.368.000
+P-1344;19/12/2025;Dec-25;cermin;cermin berdiri;5;C-036;Ibu Rina;Depok;Rp2.150.000;5;Rp10.212.500
+P-1345;20/12/2025;Dec-25;almari;almari 3 pintu;4;C-147;Ibu Besta;Surabaya;Rp19.810.000;15;Rp67.354.000
+P-1346;21/12/2025;Dec-25;bufet;bufet minimalis;3;C-059;Bapak Taufik;Jakarta Tengah;Rp11.140.000;20;Rp26.736.000
+P-1347;22/12/2025;Dec-25;bale-bale;bale-bale ukir;2;C-147;Ibu Besta;Jogja;Rp9.470.000;30;Rp13.258.000
+P-1348;24/12/2025;Dec-25;almari;almari lemari pakaian;7;C-133;Bapak Wahab;Purwokerto;Rp31.920.000;25;Rp167.580.000
+P-1350;25/12/2025;Dec-25;almari;almari 4 pintu;3;C-094;Ibu Ermi;Purwokerto;Rp35.450.000;10;Rp95.715.000
+P-1349;25/12/2025;Dec-25;meja_makan;meja makan bundar;2;C-147;Ibu Besta;Banyumas;Rp8.450.000;30;Rp11.830.000
+P-1351;26/12/2025;Dec-25;kursi;kursi tamu;2;C-007;Ibu Mira;Kediri;Rp2.069.999;30;Rp2.897.999
+P-1352;27/12/2025;Dec-25;kursi;kursi kantor;2;C-094;Ibu Ermi;Jogja;Rp9.430.000;10;Rp16.974.000
+P-1353;27/12/2025;Dec-25;nakas;nakas 3 laci;1;C-141;Bapak Agus;Semarang;Rp1.980.000;30;Rp1.386.000
+P-1354;28/12/2025;Dec-25;almari;almari 4 pintu;3;C-147;Ibu Besta;Medan;Rp35.450.000;30;Rp74.445.000
+P-1355;28/12/2025;Dec-25;bale-bale;bale-bale ukir;2;C-109;Ibu Surya;Pekanbaru;Rp9.470.000;25;Rp14.205.000
+P-1356;29/12/2025;Dec-25;dipan;dipan kayu jati;6;C-119;Bapak Iman;Semarang;Rp24.330.000;0;Rp145.980.000
+P-1357;30/12/2025;Dec-25;cermin;cermin dinding;8;C-124;Bapak Sutrio;Jogja;Rp7.290.000;10;Rp52.488.000
+P-1358;31/12/2025;Dec-25;meja_makan;meja makan persegi;6;C-041;Ibu Sela;Malang;Rp14.890.000;20;Rp71.472.000
+P-1359;31/12/2025;Dec-25;rak;rak sudut;1;C-117;Bapak Wicak;Jogja;Rp5.380.000;25;Rp4.035.000
+P-1360;02/01/2026;Jan-26;nakas;nakas 3 laci;3;C-036;Ibu Rina;Semarang;Rp1.980.000;10;Rp5.346.000
+P-1361;03/01/2026;Jan-26;dipan;dipan classik;8;C-123;Ibu Vina;Medan;Rp9.240.000;20;Rp59.136.000
+P-1362;04/01/2026;Jan-26;almari;almari 3 pintu;3;C-125;Bapak Sanusi;Bogor;Rp19.810.000;15;Rp50.515.500
+P-1363;04/01/2026;Jan-26;almari;almari minimalis;5;C-133;Bapak Wahab;Pekanbaru;Rp27.200.000;10;Rp122.400.000
+P-1364;05/01/2026;Jan-26;nakas;nakas 3 laci;4;C-109;Ibu Surya;Jogja;Rp1.980.000;5;Rp7.524.000
+P-1365;06/01/2026;Jan-26;kursi;kursi tamu;8;C-015;Ibu Xenia;Jogja;Rp2.069.999;5;Rp15.731.992
+P-1366;08/01/2026;Jan-26;cermin;cermin dinding;8;C-148;Bapak Yanto;Tangerang;Rp7.290.000;25;Rp43.740.000
+P-1367;08/01/2026;Jan-26;lemari;lemari pakaian;7;C-148;Bapak Yanto;Jakarta Tengah;Rp8.860.000;15;Rp52.717.000
+P-1368;09/01/2026;Jan-26;lemari;lemari pakaian;7;C-123;Bapak Seno;Purwokerto;Rp8.860.000;30;Rp43.414.000
+P-1369;11/01/2026;Jan-26;dipan;dipan classik;2;C-141;Bapak Agus;Semarang;Rp9.240.000;20;Rp14.784.000
+P-1370;12/01/2026;Jan-26;bale-bale;bale-bale ukir;1;C-123;Ibu Vina;Solo;Rp9.470.000;5;Rp8.996.500
+P-1371;14/01/2026;Jan-26;kursi;kursi tamu;7;C-045;Ibu Siti;Bandung;Rp2.069.999;5;Rp13.765.493
+P-1372;15/01/2026;Jan-26;bale-bale;bale-bale ukir;3;C-089;Bapak Ahmad;Medan;Rp9.470.000;30;Rp19.887.000
+P-1373;16/01/2026;Jan-26;cermin;cermin oval;1;C-136;Bapak Aris;Jakarta Tengah;Rp5.340.000;5;Rp5.073.000
+P-1374;18/01/2026;Jan-26;meja_makan;meja makan folding;4;C-006;Ibu Lina;Purwokerto;Rp17.690.000;0;Rp70.760.000
+P-1375;20/01/2026;Jan-26;meja_makan;meja makan folding;8;C-125;Bapak Sanusi;Banjarmasin;Rp17.690.000;5;Rp134.444.000
+P-1376;20/01/2026;Jan-26;meja_makan;meja makan persegi;6;C-014;Ibu Putri;Kendal;Rp14.890.000;30;Rp62.538.000
+P-1377;21/01/2026;Jan-26;bale-bale;bale-bale modern;3;C-006;Ibu Lina;Malang;Rp5.960.000;15;Rp15.198.000
+P-1378;22/01/2026;Jan-26;rak;rak sudut;7;C-119;Bapak Iman;Jakarta Selatan;Rp5.380.000;10;Rp33.894.000
+P-1379;23/01/2026;Jan-26;meja_makan;meja makan persegi;4;C-130;Ibu Yuli;Surabaya;Rp14.890.000;0;Rp59.560.000
+P-1380;23/01/2026;Jan-26;bufet;bufet tv;4;C-125;Bapak Sanusi;Purwokerto;Rp4.490.000;20;Rp14.368.000
+P-1381;24/01/2026;Jan-26;bufet;bufet tv;5;C-133;Bapak Wahab;Jakarta Barat;Rp4.490.000;25;Rp16.837.500
+P-1382;26/01/2026;Jan-26;almari;almari lemari pakaian;5;C-118;Ibu Hana;Purwokerto;Rp31.920.000;0;Rp159.600.000
+P-1383;28/01/2026;Jan-26;lemari;lemari display;2;C-109;Ibu Surya;Pekanbaru;Rp11.170.000;5;Rp21.223.000
+P-1384;30/01/2026;Jan-26;sofa;sofa L-shape;1;C-041;Ibu Sela;Purwokerto;Rp19.360.000;20;Rp15.488.000
+P-1385;31/01/2026;Jan-26;almari;almari 4 pintu;8;C-109;Ibu Surya;Banyumas;Rp35.450.000;25;Rp212.700.000
+P-1386;01/02/2026;Feb-26;nakas;nakas 3 laci;6;C-045;Ibu Siti;Bandung;Rp1.980.000;10;Rp10.692.000
+P-1387;02/02/2026;Feb-26;cermin;cermin oval;2;C-136;Bapak Aris;Surabaya;Rp5.340.000;15;Rp9.078.000
+P-1388;02/02/2026;Feb-26;bale-bale;bale-bale ukir;3;C-045;Ibu Siti;Semarang;Rp9.470.000;25;Rp21.307.500
+P-1389;03/02/2026;Feb-26;rak;rak buku;7;C-119;Bapak Iman;Bandung;Rp1.580.000;15;Rp9.401.000
+P-1390;04/02/2026;Feb-26;bufet;bufet tv;2;C-100;Ibu Tini;Jogja;Rp4.490.000;20;Rp7.184.000
+P-1391;05/02/2026;Feb-26;bufet;bufet minimalis;3;C-027;Bapak Joko;Jakarta Timur;Rp11.140.000;5;Rp31.749.000
+P-1392;05/02/2026;Feb-26;bufet;bufet tv;7;C-007;Ibu Mira;Bogor;Rp4.490.000;0;Rp31.430.000
+P-1393;06/02/2026;Feb-26;bale-bale;bale-bale ukir;2;C-100;Ibu Tini;Jakarta Utara;Rp9.470.000;0;Rp18.940.000
+P-1394;08/02/2026;Feb-26;bale-bale;bale-bale ukir;2;C-014;Ibu Putri;Solo;Rp9.470.000;0;Rp18.940.000
+P-1395;09/02/2026;Feb-26;meja;meja belajar;8;C-108;Bapak Suli;Bandung;Rp13.350.000;25;Rp80.100.000
+P-1396;12/02/2026;Feb-26;kursi;kursi tamu;2;C-133;Bapak Wahab;Kediri;Rp2.069.999;0;Rp4.139.998
+P-1397;12/02/2026;Feb-26;bufet;bufet kayu;6;C-124;Bapak Sutrio;Jakarta Utara;Rp4.920.000;15;Rp25.092.000
+P-1398;13/02/2026;Feb-26;cermin;cermin modern;7;C-014;Ibu Putri;Bandung;Rp6.480.000;20;Rp36.288.000
+P-1399;13/02/2026;Feb-26;cermin;cermin dinding;7;C-041;Ibu Sela;Tangerang;Rp7.290.000;0;Rp51.030.000
+P-1400;14/02/2026;Feb-26;meja_makan;meja makan persegi;1;C-014;Ibu Putri;Jakarta Tengah;Rp14.890.000;15;Rp12.656.500
+P-1401;15/02/2026;Feb-26;kursi;kursi makan;8;C-014;Bapak Eko;Pekanbaru;Rp3.080.000;15;Rp20.944.000
+P-1402;16/02/2026;Feb-26;dipan;dipan modern;4;C-124;Bapak Sutrio;Bekasi;Rp22.220.000;20;Rp71.104.000
+P-1403;17/02/2026;Feb-26;meja_makan;meja makan bundar;6;C-090;Ibu Dewi;Bekasi;Rp8.450.000;5;Rp48.165.000
+P-1404;18/02/2026;Feb-26;sofa;sofa 2 seater;8;C-090;Ibu Dewi;Tangerang;Rp12.140.000;5;Rp92.264.000
+P-1405;18/02/2026;Feb-26;rak;rak dinding;4;C-147;Ibu Besta;Kendal;Rp1.880.000;10;Rp6.768.000
+P-1406;18/02/2026;Feb-26;dipan;dipan modern;5;C-036;Ibu Rina;Makassar;Rp22.220.000;25;Rp83.325.000
+P-1407;19/02/2026;Feb-26;nakas;nakas 1 laci;6;C-094;Ibu Ermi;Bogor;Rp2.550.000;15;Rp13.005.000
+P-1408;20/02/2026;Feb-26;nakas;nakas minimalis;8;C-094;Ibu Ermi;Pekanbaru;Rp2.530.000;10;Rp18.216.000
+P-1409;20/02/2026;Feb-26;meja_makan;meja makan folding;2;C-133;Bapak Wahab;Jakarta Utara;Rp17.690.000;10;Rp31.842.000
+P-1410;21/02/2026;Feb-26;dipan;dipan classik;3;C-094;Bapak Rudi;Bekasi;Rp9.240.000;10;Rp24.948.000
+P-1411;21/02/2026;Feb-26;rak;rak minimalis;3;C-136;Bapak Aris;Medan;Rp5.900.000;0;Rp17.700.000
+P-1412;22/02/2026;Feb-26;meja_makan;meja makan persegi;8;C-123;Ibu Vina;Jogja;Rp14.890.000;25;Rp89.340.000
+P-1413;23/02/2026;Feb-26;sofa;sofa 3 seater;3;C-004;Ibu Ani;Jakarta Utara;Rp12.520.000;5;Rp35.682.000
+P-1414;24/02/2026;Feb-26;sofa;sofa L-shape;6;C-014;Bapak Eko;Kediri;Rp19.360.000;25;Rp87.120.000
+P-1415;25/02/2026;Feb-26;bale-bale;bale-bale minimalis;4;C-123;Ibu Vina;Pekanbaru;Rp4.030.000;25;Rp12.090.000
+P-1416;26/02/2026;Feb-26;bale-bale;bale-bale modern;1;C-059;Bapak Taufik;Medan;Rp5.960.000;5;Rp5.662.000
+P-1419;27/02/2026;Feb-26;meja_makan;meja makan persegi;5;C-100;Ibu Tini;Palembang;Rp14.890.000;30;Rp52.115.000
+P-1418;27/02/2026;Feb-26;bale-bale;bale-bale minimalis;8;C-147;Ibu Besta;Banyumas;Rp4.030.000;0;Rp32.240.000
+P-1417;27/02/2026;Feb-26;bale-bale;bale-bale ukir;1;C-118;Ibu Hana;Palembang;Rp9.470.000;10;Rp8.523.000
+P-1420;28/02/2026;Feb-26;nakas;nakas modern;8;C-100;Ibu Tini;Banjarmasin;Rp3.930.000;20;Rp25.152.000
+P-1421;05/03/2026;Mar-26;cermin;cermin berdiri;4;C-133;Ibu Ratna;Jogja;Rp2.150.000;30;Rp6.020.000
+P-1422;05/03/2026;Mar-26;kursi;kursi dining;4;C-045;Ibu Siti;Medan;Rp4.730.000;20;Rp15.136.000
+P-1423;05/03/2026;Mar-26;sofa;sofa L-shape;1;C-147;Ibu Besta;Banjarmasin;Rp19.360.000;20;Rp15.488.000
+P-1424;07/03/2026;Mar-26;meja_makan;meja makan bundar;8;C-118;Ibu Hana;Bekasi;Rp8.450.000;20;Rp54.080.000
+P-1425;10/03/2026;Mar-26;cermin;cermin modern;6;C-027;Bapak Dedi;Bekasi;Rp6.480.000;15;Rp33.048.000
+P-1426;10/03/2026;Mar-26;almari;almari 2 pintu;4;C-049;Bapak Rahmat;Jakarta Tengah;Rp10.950.000;30;Rp30.660.000
+P-1427;13/03/2026;Mar-26;lemari;lemari pakaian;5;C-125;Bapak Sanusi;Solo;Rp8.860.000;10;Rp39.870.000
+P-1428;14/03/2026;Mar-26;bufet;bufet minimalis;7;C-089;Bapak Ahmad;Jakarta Utara;Rp11.140.000;15;Rp66.283.000
+P-1429;15/03/2026;Mar-26;sofa;sofa L-shape;8;C-006;Ibu Lina;Kendal;Rp19.360.000;15;Rp131.648.000
+P-1430;18/03/2026;Mar-26;kursi;kursi dining;3;C-006;Ibu Lina;Bogor;Rp4.730.000;10;Rp12.771.000
+P-1431;18/03/2026;Mar-26;sofa;sofa bed;3;C-027;Bapak Dedi;Makassar;Rp8.240.000;20;Rp19.776.000
+P-1432;18/03/2026;Mar-26;bale-bale;bale-bale modern;1;C-041;Ibu Sela;Banjarmasin;Rp5.960.000;25;Rp4.470.000
+P-1433;18/03/2026;Mar-26;dipan;dipan minimalis;4;C-130;Ibu Yuli;Banjarmasin;Rp12.470.000;0;Rp49.880.000
+P-1434;20/03/2026;Mar-26;meja_makan;meja makan bundar;2;C-041;Ibu Sela;Solo;Rp8.450.000;0;Rp16.900.000
+P-1435;21/03/2026;Mar-26;cermin;cermin modern;1;C-133;Bapak Wahab;Makassar;Rp6.480.000;10;Rp5.832.000
+P-1436;22/03/2026;Mar-26;almari;almari 2 pintu;5;C-027;Bapak Joko;Makassar;Rp10.950.000;20;Rp43.800.000
+P-1437;22/03/2026;Mar-26;nakas;nakas 1 laci;6;C-136;Bapak Aris;Purwokerto;Rp2.550.000;25;Rp11.475.000
+P-1438;22/03/2026;Mar-26;nakas;nakas 2 laci;6;C-036;Ibu Rina;Bogor;Rp2.420.000;20;Rp11.616.000
+P-1439;22/03/2026;Mar-26;dipan;dipan kayu jati;3;C-036;Ibu Rina;Jakarta Selatan;Rp24.330.000;20;Rp58.392.000
+P-1442;23/03/2026;Mar-26;bale-bale;bale-bale minimalis;2;C-015;Ibu Xenia;Banyumas;Rp4.030.000;30;Rp5.642.000
+P-1440;23/03/2026;Mar-26;sofa;sofa corner;8;C-036;Bapak Hendri;Bekasi;Rp14.050.000;20;Rp89.920.000
+P-1441;23/03/2026;Mar-26;lemari;lemari pakaian;2;C-027;Bapak Dedi;Malang;Rp8.860.000;30;Rp12.404.000
+P-1443;24/03/2026;Mar-26;bufet;bufet tv;1;C-015;Ibu Xenia;Surabaya;Rp4.490.000;25;Rp3.367.500
+P-1444;25/03/2026;Mar-26;meja;meja makan;5;C-036;Ibu Rina;Makassar;Rp10.990.000;5;Rp52.202.500
+P-1445;25/03/2026;Mar-26;kursi;kursi santai;4;C-123;Bapak Seno;Bandung;Rp7.770.000;15;Rp26.418.000
+P-1446;25/03/2026;Mar-26;bufet;bufet minimalis;3;C-117;Bapak Wicak;Jakarta Barat;Rp11.140.000;0;Rp33.420.000
+P-1447;28/03/2026;Mar-26;meja;meja makan;3;C-100;Ibu Tini;Kendal;Rp10.990.000;20;Rp26.376.000
+P-1448;28/03/2026;Mar-26;nakas;nakas 3 laci;1;C-123;Bapak Seno;Makassar;Rp1.980.000;10;Rp1.782.000
+P-1449;29/03/2026;Mar-26;meja;meja belajar;6;C-041;Ibu Sela;Jakarta Selatan;Rp13.350.000;15;Rp68.085.000
+P-1450;30/03/2026;Mar-26;sofa;sofa 2 seater;5;C-027;Bapak Dedi;Jogja;Rp12.140.000;15;Rp51.595.000
+P-1452;31/03/2026;Mar-26;rak;rak dinding;7;C-089;Bapak Ahmad;Banyumas;Rp1.880.000;25;Rp9.870.000
+P-1453;31/03/2026;Mar-26;sofa;sofa 3 seater;8;C-111;Bapak Tri;Jakarta Selatan;Rp12.520.000;30;Rp70.112.000
+P-1451;31/03/2026;Mar-26;bufet;bufet kayu;8;C-123;Bapak Seno;Makassar;Rp4.920.000;0;Rp39.360.000
+P-1454;01/04/2026;Apr-26;sofa;sofa corner;3;C-006;Ibu Lina;Bandung;Rp14.050.000;25;Rp31.612.500
+P-1455;01/04/2026;Apr-26;dipan;dipan kayu jati;2;C-108;Bapak Suli;Bandung;Rp24.330.000;20;Rp38.928.000
+P-1456;01/04/2026;Apr-26;bufet;bufet dapur;5;C-026;Bapak Budi;Kendal;Rp9.290.000;25;Rp34.837.500
+P-1457;01/04/2026;Apr-26;dipan;dipan kayu jati;2;C-027;Bapak Dedi;Banyumas;Rp24.330.000;15;Rp41.361.000
+P-1458;03/04/2026;Apr-26;rak;rak minimalis;4;C-040;Ibu Lestari;Jakarta Selatan;Rp5.900.000;20;Rp18.880.000
+P-1459;03/04/2026;Apr-26;bufet;bufet tv;5;C-060;Ibu Nani;Makassar;Rp4.490.000;15;Rp19.082.500
+P-1460;03/04/2026;Apr-26;almari;almari lemari pakaian;2;C-041;Ibu Sela;Banyumas;Rp31.920.000;15;Rp54.264.000
+P-1461;03/04/2026;Apr-26;bale-bale;bale-bale ukir;7;C-014;Bapak Eko;Solo;Rp9.470.000;0;Rp66.290.000
+P-1463;04/04/2026;Apr-26;meja_makan;meja makan persegi;4;C-027;Bapak Dedi;Palembang;Rp14.890.000;20;Rp47.648.000
+P-1462;04/04/2026;Apr-26;dipan;dipan modern;2;C-124;Bapak Sutrio;Kendal;Rp22.220.000;25;Rp33.330.000
+P-1466;05/04/2026;Apr-26;lemari;lemari pakaian;2;C-148;Bapak Yanto;Kendal;Rp8.860.000;5;Rp16.834.000
+P-1464;05/04/2026;Apr-26;dipan;dipan kayu jati;4;C-117;Bapak Wicak;Pekanbaru;Rp24.330.000;25;Rp72.990.000
+P-1465;05/04/2026;Apr-26;sofa;sofa 2 seater;3;C-100;Ibu Tini;Purwokerto;Rp12.140.000;15;Rp30.957.000
+P-1467;07/04/2026;Apr-26;sofa;sofa corner;6;C-133;Bapak Wahab;Jakarta Selatan;Rp14.050.000;10;Rp75.870.000
+P-1468;08/04/2026;Apr-26;meja_makan;meja makan folding;1;C-111;Ibu Zona;Kendal;Rp17.690.000;5;Rp16.805.500
+P-1469;08/04/2026;Apr-26;bale-bale;bale-bale minimalis;8;C-100;Ibu Tini;Banjarmasin;Rp4.030.000;25;Rp24.180.000
+P-1470;08/04/2026;Apr-26;bale-bale;bale-bale modern;3;C-026;Bapak Budi;Jakarta Barat;Rp5.960.000;10;Rp16.092.000
+P-1471;08/04/2026;Apr-26;cermin;cermin berdiri;5;C-060;Ibu Nani;Semarang;Rp2.150.000;5;Rp10.212.500
+P-1472;09/04/2026;Apr-26;almari;almari minimalis;8;C-124;Bapak Sutrio;Banyumas;Rp27.200.000;0;Rp217.600.000
+P-1473;10/04/2026;Apr-26;sofa;sofa stool;2;C-133;Bapak Wahab;Medan;Rp8.240.000;20;Rp13.184.000
+P-1474;11/04/2026;Apr-26;almari;almari 3 pintu;1;C-111;Ibu Zona;Semarang;Rp19.810.000;10;Rp17.829.000
+P-1475;13/04/2026;Apr-26;lemari;lemari gantung;6;C-026;Bapak Budi;Kendal;Rp4.690.000;10;Rp25.326.000
+P-1476;14/04/2026;Apr-26;rak;rak tv;4;C-111;Bapak Tri;Jakarta Selatan;Rp4.130.000;10;Rp14.868.000
+P-1477;15/04/2026;Apr-26;bufet;bufet tv;7;C-147;Ibu Besta;Jakarta Tengah;Rp4.490.000;10;Rp28.287.000
+P-1478;16/04/2026;Apr-26;cermin;cermin berdiri;1;C-118;Ibu Hana;Palembang;Rp2.150.000;15;Rp1.827.500
+P-1479;16/04/2026;Apr-26;meja;meja tamu;4;C-148;Bapak Yanto;Kediri;Rp13.170.000;15;Rp44.778.000
+P-1480;16/04/2026;Apr-26;bale-bale;bale-bale minimalis;4;C-148;Bapak Yanto;Medan;Rp4.030.000;30;Rp11.284.000
+P-1481;16/04/2026;Apr-26;almari;almari lemari pakaian;1;C-123;Bapak Seno;Jakarta Timur;Rp31.920.000;15;Rp27.132.000
+P-1482;16/04/2026;Apr-26;bale-bale;bale-bale modern;6;C-147;Ibu Besta;Jakarta Timur;Rp5.960.000;25;Rp26.820.000
+P-1483;17/04/2026;Apr-26;almari;almari 3 pintu;6;C-059;Bapak Taufik;Jakarta Barat;Rp19.810.000;10;Rp106.974.000
+P-1485;19/04/2026;Apr-26;bale-bale;bale-bale minimalis;5;C-090;Ibu Dewi;Palembang;Rp4.030.000;15;Rp17.127.500
+P-1486;19/04/2026;Apr-26;lemari;lemari pakaian;7;C-014;Ibu Putri;Bogor;Rp8.860.000;25;Rp46.515.000
+P-1484;19/04/2026;Apr-26;lemari;lemari es kayu;2;C-109;Ibu Surya;Kediri;Rp10.740.000;10;Rp19.332.000
+P-1487;20/04/2026;Apr-26;meja_makan;meja makan folding;4;C-007;Ibu Mira;Bogor;Rp17.690.000;15;Rp60.146.000
+P-1488;21/04/2026;Apr-26;bufet;bufet minimalis;3;C-090;Ibu Dewi;Purwokerto;Rp11.140.000;0;Rp33.420.000
+P-1489;21/04/2026;Apr-26;meja_makan;meja makan bundar;8;C-133;Ibu Ratna;Kendal;Rp8.450.000;0;Rp67.600.000
+P-1490;21/04/2026;Apr-26;bufet;bufet minimalis;5;C-130;Ibu Yuli;Bogor;Rp11.140.000;5;Rp52.915.000
+P-1491;21/04/2026;Apr-26;bufet;bufet dapur;4;C-026;Bapak Budi;Surabaya;Rp9.290.000;5;Rp35.302.000
+P-1492;22/04/2026;Apr-26;dipan;dipan minimalis;4;C-026;Bapak Budi;Bandung;Rp12.470.000;15;Rp42.398.000
+P-1495;23/04/2026;Apr-26;kursi;kursi santai;3;C-014;Ibu Putri;Depok;Rp7.770.000;10;Rp20.979.000
+P-1493;23/04/2026;Apr-26;meja;meja console;5;C-133;Bapak Wahab;Jakarta Tengah;Rp8.980.000;30;Rp31.430.000
+P-1494;23/04/2026;Apr-26;almari;almari 3 pintu;1;C-027;Bapak Joko;Pekanbaru;Rp19.810.000;0;Rp19.810.000
+P-1496;24/04/2026;Apr-26;kursi;kursi tamu;5;C-027;Bapak Dedi;Semarang;Rp2.069.999;10;Rp9.314.996
+P-1498;26/04/2026;Apr-26;rak;rak dinding;3;C-089;Bapak Ahmad;Bogor;Rp1.880.000;20;Rp4.512.000
+P-1497;26/04/2026;Apr-26;nakas;nakas 1 laci;2;C-040;Ibu Lestari;Surabaya;Rp2.550.000;25;Rp3.825.000
+P-1499;27/04/2026;Apr-26;cermin;cermin dinding;6;C-094;Ibu Ermi;Jakarta Timur;Rp7.290.000;30;Rp30.618.000
+P-1500;29/04/2026;Apr-26;dipan;dipan kayu jati;8;C-124;Bapak Sutrio;Jakarta Selatan;Rp24.330.000;10;Rp175.176.000
+P-1501;30/04/2026;Apr-26;bufet;bufet minimalis;5;C-123;Bapak Seno;Banyumas;Rp11.140.000;25;Rp41.775.000
